@@ -1,3 +1,4 @@
+from langchain.prompts import PromptTemplate
 import numpy as np
 
 def retrieve_documents(query, model_embed, vector_store, chunk_data, k=3):
@@ -12,7 +13,7 @@ def generate_answer(query, retrieved_docs, tokenizer, model):
     outputs = model.generate(
         **inputs,
         max_new_tokens=150,
-        temperature=0.7,
+        temperature=0.02,
         do_sample=True
     )
     response = tokenizer.decode(outputs[0], skip_special_tokens=True)

@@ -1,3 +1,2 @@
-import torch
-print(torch.cuda.is_available())  # Phải True
-print(torch.cuda.get_device_name(0))  # RTX 3050
+from transformers import file_utils
+print(file_utils.default_cache_path)

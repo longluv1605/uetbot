@@ -42,7 +42,12 @@ def main(preprocessed=False):
         bnb_4bit_compute_dtype=torch.float16
     )
     
-    llm = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
+    llms = [
+        "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+        "microsoft/phi-2",
+    ]
+    
+    llm = llms[1]
     tokenizer = AutoTokenizer.from_pretrained(llm)
     llm_model = AutoModelForCausalLM.from_pretrained(
         llm,
@@ -51,7 +56,7 @@ def main(preprocessed=False):
     )
     
     # Thử nghiệm
-    query = "Chương trình đào tạo Khoa học và Kỹ thuật dữ liệu – Ngành Khoa học dữ liệu là gì?"
+    query = "Chương trình đào tạo ngành Công nghệ kỹ thuật xây dựng là gì?"
     answer, docs = chatbot(query, model_embed, tokenizer, llm_model, vector_store, chunk_data)
     print(f"Trả lời: {answer}")
     # print("Nguồn:")
