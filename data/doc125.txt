@@ -1,0 +1,139 @@
+URL: https://uet.vnu.edu.vn/chuong-trinh-dao-tao-nganh-ky-thuat-dieu-khien-va-tu-dong-hoa-7/
+Title: Chương trình đào tạo ngành Kỹ thuật điều khiển và tự động hóa - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology
+
+1. Tóm tắt yêu cầu chương trình đào tạo
+
+Tổng số tín chỉ của chương trình đào tạo
+(Chưa tính các học phần Giáo dục thể chất, Giáo dục quốc phòng – an ninh, Kỹ năng bổ trợ)
+: 150 tín chỉ
+
+– Khối kiến thức chung
+(Chưa tính các học phần Giáo dục thể chất, Giáo dục quốc phòng – an ninh, Kỹ năng bổ trợ)
+: 21 tín chỉ
+
+– Khối kiến thức theo lĩnh vực: 19 tín chỉ
+
+– Khối kiến thức theo khối ngành: 06 tín chỉ
+
+– Khối kiến thức theo nhóm ngành: 14 tín chỉ
+
+– Khối kiến thức ngành: 90 tín chỉ
+
++ Khối kiến thức bắt buộc: 37 tín chỉ
+
++ Khối kiến thức bổ trợ: 07 tín chỉ
+
++ Khối kiến thức định hướng chuyên sâu: 28 tín chỉ
+
+Bắt buộc: 24 tín chỉ
+Tự chọn: 04 tín chỉ
+
++ Khối kiến thức thực tập và tốt nghiệp: 18 tín chỉ
+
+Thực tập: 08 tín chỉ
+Đồ án tốt nghiệp: 10 tín chỉ
+
+2. K
+hung chương trình đào tạo
+
+Table 1:
+Row 1: STT | Mã học phần | Học phần | Số tín chỉ | Số giờ tín chỉ | Mã học phần tiên quyết
+Row 2: Lý thuyết | Thực hành | Tự học | 
+Row 3: I | Khối kiến thức chung(chưa tính các học phần Giáo dục thể chất, Giáo dục quốc phòng – an ninh, Kỹ năng bổ trợ) | 21 |  |  |  | 
+Row 4: 1. | PHI1006 | Triết học Mác – LêninMarxist-Leninist Philosophy | 3 | 30 | 15 |  | 
+Row 5: 2. | PEC1008 | Kinh tế chính trị Mác – LêninMarx-Lenin Political Economy | 2 | 20 | 10 |  | PHI1006
+Row 6: 3. | PHI1002 | Chủ nghĩa xã hội khoa họcScientific Socialism | 2 | 30 |  |  | 
+Row 7: 4. | HIS1001 | Lịch sử Đảng Cộng sản Việt NamRevolutionary Guidelines of Vietnam Communist Party | 2 | 20 | 10 |  | 
+Row 8: 5. | POL1001 | Tư tưởng Hồ Chí MinhHo Chi Minh’s Ideology | 2 | 20 | 10 |  | 
+Row 9: 6. | FLF1107 | Tiếng Anh B1English B1 | 5 | 20 | 35 | 20 | 
+Row 10: 7. | INT1009 | Tin học cơ sởIntroduction to Informatics | 3 | 15 | 30 |  | 
+Row 11: 8. | THL1057 | Nhà nước và pháp luật đại cươngState and Law | 2 | 20 | 5 | 5 | 
+Row 12: 9. |  | Kỹ năng bổ trợSoft skills | 3 |  |  |  | 
+Row 13: 10. |  | Giáo dục thể chấtPhysical education | 4 |  |  |  | 
+Row 14: 11. |  | Giáo dục quốc phòng – an ninhNational Defence Education | 8 |  |  |  | 
+Row 15: II | Khối kiến thức theo lĩnh vực | 19 |  |  |  | 
+Row 16: 12. | MAT1093 | Đại sốAlgebra | 4 | 30 | 30 |  | 
+Row 17: 13. | MAT1041 | Giải tích 1Analytics 1 | 4 | 30 | 30 |  | 
+Row 18: 14. | MAT1042 | Giải tích 2Analytics 2 | 4 | 30 | 30 |  | MAT1041
+Row 19: 15. | EPN1095 | Vật lý đại cương 1General Physics 1 | 2 | 30 |  |  | 
+Row 20: 16. | EPN1096 | Vật lý đại cương 2General Physics 2 | 2 | 30 |  |  | EPN1095
+Row 21: 17. | INT1008 | Nhập môn lập trìnhIntroduction to Programming | 3 | 20 | 25 |  | 
+Row 22: III | Khối kiến thức theo khối ngành | 6 |  |  |  | 
+Row 23: 18. | EMA2011 | Phương pháp tính trong kỹ thuậtComputational Methods for Engineering | 3 | 30 | 15 |  | INT1008MAT1093 MAT1042
+Row 24: 19. | EMA2050 | Xác suất thống kê ứng dụngApplied Probability and Statistic | 3 | 30 | 15 |  | MAT1093 MAT1042
+Row 25: IV | Khối kiến thức theo nhóm ngành | 14 |  |  |  | 
+Row 26: 20. | EMA2036 | Cơ học kỹ thuật 1Engineering Mechanics 1 | 3 | 30 | 15 |  | MAT1093 MAT1042
+Row 27: 21. | EMA2037 | Cơ học kỹ thuật 2Engineering Mechanics 2 | 3 | 30 | 15 |  | EMA2036
+Row 28: 22. | EMA2006 | Matlab và ứng dụngMatlab and Applications | 3 | 30 | 15 |  | INT1008MAT1093MAT1042
+Row 29: 23. | EMA2013 | Lý thuyết điều khiển tự độngAutomatic Control Theory | 3 | 30 | 15 |  | MAT1093 MAT1042
+Row 30: 24. | EMA2032 | Hình hoạ Kỹ thuật và CADGeometric Engineering and CAD | 2 | 15 | 15 |  | MAT1093 MAT1042
+Row 31: V | Khối kiến thức ngành | 90 |  |  |  | 
+Row 32: V.1 | Các học phần bắt buộc | 37 |  |  |  | 
+Row 33: 25. | EMA2029 | Cơ học môi trường liên tụcContinuum Mechanics | 3 | 35 | 10 |  | MAT1093 MAT1042
+Row 34: 26. | EMA2042 | Nhập môn điều khiển thông minhIntroduction to intelligent control | 3 | 30 | 15 |  | EMA2013
+Row 35: 27. | EMA2043 | Lập trình nâng cao ứng dụng trong đo lường, điều khiểnAdvanced programming for measurement and control applications | 4 | 30 | 30 |  | INT1008EMA2013
+Row 36: 28. | ELT2050 | Nguyên lý Kỹ thuật điện tửPrinciples of Electronics Engineering | 3 | 30 | 15 |  | EPN1096INT1008
+Row 37: 29. | EMA2021 | Linh kiện bán dẫn và vi mạchSemiconductors and IC | 2 | 23 | 7 |  | EPN1096
+Row 38: 30. | EMA2026 | Cơ sở kỹ thuật điệnFundamentals of Electrotechniques | 2 | 22 | 8 |  | EPN1096
+Row 39: 31. | EMA2022 | Cơ sở công nghệ chế tạo máyFundamentals of Machinery Manufacturing Technology | 3 | 30 | 15 |  | EMA2032
+Row 40: 32. | EMA2024 | Kỹ thuật đo lường và cảm biếnMeasurement Techniques and Sensors | 3 | 30 | 15 |  | EMA2021
+Row 41: 33. | INT2013 | Kiến trúc máy tính và mạng truyền thông công nghiệpComputer Structure and Industrial Communication Networks | 3 | 30 | 15 |  | INT1008EMA2021
+Row 42: 34. | EMA2044 | Nhập môn Tự động hóaIntroduction to Automatiuon | 3 | 30 | 15 |  | EMA2013EMA2026
+Row 43: 35. | EMA2040 | Máy CNC và CAD/CAMCNC and CAD/CAM | 2 | 18 | 12 |  | EMA2032
+Row 44: 36. | INT3401 | Trí tuệ nhân tạoArtificial Intellegence | 3 | 45 |  |  | INT2210
+Row 45: 37. | EMA3131 | Thiết bị điệnElectrical equypments | 3 | 30 | 15 |  | EMA2026
+Row 46: V.2 | Khối kiến thức bổ trợ | 7 |  |  |  | 
+Row 47: 38. | Theo phụ lục được ban hành hàng năm của Nhà trường | 7 |  |  |  | 
+Row 48: V.3 | Các học phần định hướng chuyên sâu | 28 |  |  |  | 
+Row 49: V.3.1 | Khối kiến thức định hướng chuyên sâu vềTự động hóa Công nghiệp | 28 |  |  |  | 
+Row 50: V.3.1.1 | Các học phần bắt buộc | 24 |  |  |  | 
+Row 51: 39. | EMA3108 | Tự động hóa quá trình sản xuấtAutomation in Manufacturing | 3 | 30 | 15 |  | EMA2044EMA2013
+Row 52: 40. | EMA3085 | Robot công nghiệpIndustrial Robots | 2 | 21 | 9 |  | EMA2013EMA2037
+Row 53: 41. | EMA3084 | Vi xử lý và vi điều khiểnMicroprocessors and Microcontrollers | 3 | 25 | 20 |  | ELT2050EMA2021
+Row 54: 42. | EMA3062 | Điều khiển PLCPLC Programming | 3 | 25 | 20 |  | EMA2026EMA2024 ELT2050
+Row 55: 43. | EMA3071 | Ứng dụng máy tính trong đo lường và điều khiểnComputer based Control and Measurement | 3 | 30 | 15 |  | EMA2013INT2013
+Row 56: 44. | EMA3135 | SCADASupervisory Control And Data Acquysition | 3 | 30 | 15 |  | EMA3062EMA3108
+Row 57: 45. | EMA3134 | Hệ thống điều khiển nhúngEmbedded control system | 3 | 30 | 15 |  | EMA3084
+Row 58: 46. | EMA4003 | Đồ án: Thiết kế hệ thống điều khiển trong Công nghiệpProject: Design of Control System in Industry | 4 | 30 | 30 |  | EMA3108EMA3071
+Row 59: V.3.1.2 | Các học phần tự chọn | 4 |  |  |  | 
+Row 60: 47. | EMA3016 | Cơ điện thực nghiệmExperimental Mechatronics | 2 | 12 | 18 |  | EMA2037
+Row 61: 48. | EMA3068 | Động cơ và cơ sở truyền động điệnMotors and Fundamentals of Electrical Drive | 2 | 26 | 4 |  | EMA2026
+Row 62: 49. | ELT2012 | Lý thuyết mạchCircuit Theory | 2 | 24 | 6 |  | INT1008
+Row 63: 50. | EMA3021 | Các phương pháp điều khiển tiên tiếnAdvanced Control Methods | 2 | 24 | 6 |  | EMA2042
+Row 64: 51. | EMA3017 | Cảm biến và cơ cấu chấp hànhSensors and Actuators | 2 | 24 | 6 |  | ELT2050
+Row 65: 52. | EMA3149 | Xử lý và nhận dạng ảnhImage Processing | 2 | 20 | 10 |  | MAT1093MAT1042EMA2013
+Row 66: 53. | EMA3137 | Lập trình ứng dụng thời gian thựcReal Time Programming | 2 | 20 | 10 |  | INT1008
+Row 67: 54. | EMA3147 | Thiết kế thiết bị đoDesign of Measuring Equipment | 2 |  |  |  | INT1008EMA3084
+Row 68: 55. | EMA3148 | Đồ án Thiết bị và hệ thống tự độngProject for Automatic Equipments and Systems | 4 | 30 | 30 |  | EMA2013EMA3084
+Row 69: V.3.2 | Khối kiến thức định hướng chuyên sâu vềKỹ thuật đo lường và tin học công nghiệp | 28 |  |  |  | 
+Row 70: V.3.2.1 | Các học phần bắt buộc | 24 |  |  |  | 
+Row 71: 56. | EMA3136 | Đo lường nâng caoAdvanced Measurement | 3 | 30 | 15 |  | 
+Row 72: 57. | EMA3134 | Hệ thống điều khiển nhúngEmbedded control system | 3 | 30 | 15 |  | EMA3084
+Row 73: 58. | EMA3085 | Robot công nghiệpIndustrial Robots | 2 | 21 | 9 |  | EMA2013EMA2037
+Row 74: 59. | EMA3084 | Vi xử lý và vi điều khiểnMicroprocessors and Microcontrollers | 3 | 25 | 20 |  | ELT2050EMA2021
+Row 75: 60. | EMA3062 | Điều khiển PLCPLC Programming | 3 | 25 | 20 |  | EMA2026EMA2024 ELT2050
+Row 76: 61. | EMA3071 | Ứng dụng máy tính trong đo lường và điều khiểnComputer based Control and Measurement | 3 | 30 | 15 |  | EMA2013INT2013
+Row 77: 62. | EMA3135 | SCADASupervisory Control And Data Acquysition | 3 | 30 | 15 |  | EMA3062EMA3108
+Row 78: 63. | EMA4004 | Đồ án: Thiết kế hệ thống đo lường tự động trong Công nghiệpProject: Design of Automatic Measuring System in Industry | 4 | 30 | 30 |  | EMA3135EMA3071
+Row 79: V.3.2.2 | Các học phần tự chọn | 4 |  |  |  | 
+Row 80: 64. | EMA3016 | Cơ điện thực nghiệmExperimental Mechatronics | 2 | 12 | 18 |  | EMA2036EMA2037
+Row 81: 65. | EMA3068 | Động cơ và cơ sở truyền động điệnMotors and Fundamentals of Electrical Drive | 2 | 26 | 4 |  | EMA2026
+Row 82: 66. | ELT2012 | Lý thuyết mạchCircuit Theory | 2 | 24 | 6 |  | INT1008
+Row 83: 67. | EMA3021 | Các phương pháp điều khiển tiên tiếnAdvanced Control Methods | 2 | 24 | 6 |  | EMA2042
+Row 84: 68. | EMA3017 | Cảm biến và cơ cấu chấp hànhSensors and Actuators | 2 | 24 | 6 |  | ELT2050
+Row 85: 69. | EMA3149 | Xử lý và nhận dạng ảnhImage Processing | 2 | 20 | 10 |  | MAT1093MAT1042EMA2013
+Row 86: 70. | EMA3137 | Lập trình ứng dụng thời gian thựcReal Time Programming | 2 | 20 | 10 |  | INT1008
+Row 87: 71. | EMA3147 | Thiết kế thiết bị đoDesign of Measuring Equipment | 2 |  |  |  | INT1008EMA3084
+Row 88: 72. | EMA3148 | Đồ án Thiết bị và hệ thống tự độngProject for Automatic Equipments and Systems | 4 |  |  |  | EMA2013EMA3084
+Row 89: V.4 | Thực tập và tốt nghiệp | 18 |  |  |  | 
+Row 90: 73. | EMA4007 | Thực tập Kỹ thuật định hướng Kỹ thuật điều khiển và tự động hóaEngineering Practice | 5 | 15 | 60 |  | EMA4004hoặc EMA4003
+Row 91: 74. | EMA4006 | Thực tập tốt nghiệp định hướng Kỹ thuật điều khiển và tự động hóaGraduate Practice | 3 |  | 45 |  | EMA4005
+Row 92: 75. | EMA4050 | Đồ án tốt nghiệpThesis | 10 |  |  | 150 | 
+Row 93: 76. |  | Các học phần tương đương (10 tín chỉ từ danh sách các học phần lựa chọn trong khối kiến thức chuyên sâu) | 10 |  |  |  | 
+Row 94: Tổng cộng | 150 |  |  |  | 
+
+Ghi chú:
+
+Các học phần Giáo dục thể chất, Giáo dục quốc phòng-an ninh, Kỹ năng bổ trợ không được tính vào tổng số tín chỉ của chương trình đào tạo, không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy, nhưng là điều kiện để xét tốt nghiệp.
+01 giờ tín chỉ thực hành tương ứng với 02 giờ thực tế trên lớp.
+Các học phần có mã học phần thêm chữ “E” được giảng dạy bằng tiếng Anh.

@@ -1,0 +1,151 @@
+URL: https://uet.vnu.edu.vn/chuong-trinh-dao-tao-nganh-cong-nghe-hang-khong-vu-tru-7/
+Title: Chương trình đào tạo ngành Công nghệ hàng không vũ trụ - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology
+
+1. Tóm tắt yêu cầu chương trình đào tạo
+
+Tổng số tín chỉ của chương trình đào tạo:
+1
+60
+tín chỉ
+:
+
+– Khối kiến thức chung trong ĐHQGHN:                                                  29 tín chỉ
+(
+Chưa
+tính GDTC
+,
+GDQP
+-AN và
+kỹ năng
+bổ trợ)
+
+– Khối kiến thức chung theo lĩnh vực: 21 tín chỉ
+
+– Khối kiến thức chung theo khối ngành: 12 tín chỉ
+
+– Khối kiến thức theo nhóm ngành: 23 tín chỉ
+
+– Khối kiến thức ngành: 75 tín chỉ
+
++ Các học phần bắt buộc: 25 tín chỉ
+
++ Các học phần bổ trợ: 05 tín chỉ
+
++ Các học phần định hướng chuyên sâu: 27
+tín chỉ
+
++ Thực tập: 08 tín chỉ
+
++ Đồ án tốt nghiệp: 10 tín chỉ
+
+2. Khung chương trình đào tạo
+
+Table 1:
+Row 1: STT | Mãhọc phần | Học phần | Số tín chỉ | Số giờ tín chỉ | Mã sốhọc phầntiên quyết
+Row 2: Líthuyết | Thựchành | Tựhọc
+Row 3: I | Khối kiến thức chung(chưa tínhcác học phầnGiáo dục thể chất, Giáo dục quốc phòng-an ninh, Kĩ năng bổ trợ) | 29 |  |  |  | 
+Row 4: 1 | PHI1004 | Những nguyên lý cơ bản của chủ nghĩa Mác–Lênin 1Fundamental Principles of Marxism-Leninism 1 | 2 | 24 | 6 |  | 
+Row 5: 2 | PHI1005 | Những nguyên lý cơ bản của chủ nghĩa Mác–Lênin 2Fundamental Principles of Marxism-Leninism 2 | 3 | 36 | 9 |  | PHI1004
+Row 6: 3 | POL1001 | Tư tưởng Hồ Chí MinhHo Chi Minh Ideology | 2 | 20 | 10 |  | PHI1005
+Row 7: 4 | HIS1002 | Đường lối cách mạng của Đảng Cộng sản Việt NamThe Revolutionary Line of the Communist Party of Vietnam | 3 | 42 | 3 |  | POL1001
+Row 8: 5 | INT1003 | Tin học cơ sở 1Introduction to Informatics 1 | 2 | 10 | 20 |  | 
+Row 9: 6 | INT1006 | Tin học cơ sở 4Introduction to Informatics 4 | 3 | 20 | 23 | 2 | INT1003
+Row 10: 7 | FLF2101 | Tiếng Anh cơ sở 1General English 1 | 4 | 16 | 40 | 4 | 
+Row 11: 8 | FLF2102 | Tiếng Anh cơ sở 2General English 2 | 5 | 20 | 50 | 5 | FLF2101
+Row 12: 9 | FLF2103 | Tiếng Anh cơ sở 3General English 3 | 5 | 20 | 50 | 5 | FLF2102
+Row 13: 10 |  | Giáo dục thể chấtPhysical education | 4 |  |  |  | 
+Row 14: 11 |  | Giáo dục quốc phòng-an ninhNational Defence Education | 8 |  |  |  | 
+Row 15: 12 |  | Kỹ năng bổ trợSoft skills | 3 |  |  |  | 
+Row 16: II | Khối kiến thức theo lĩnh vực | 21 |  |  |  | 
+Row 17: 13 | MAT1093 | Đại sốAlgebra | 4 | 30 | 30 |  | 
+Row 18: 14 | MAT1041 | Giải tích 1Analytics 1 | 4 | 30 | 30 |  | 
+Row 19: 15 | MAT1042 | Giải tích 2Analytics 2 | 4 | 30 | 30 |  | MAT1041
+Row 20: 16 | PHY1100 | Cơ – NhiệtMechanic – Thermal | 3 | 32 | 10 | 3 | 
+Row 21: 17 | PHY1103 | Điện và QuangElectric – Optic | 3 | 32 | 10 | 3 | PHY1100
+Row 22: 18 | AER1001 | Giới thiệu về Hàng không Vũ trụIntroduction to Aerospace Engineering | 3 | 10 | 30 | 5 | 
+Row 23: III | Khối kiến thức theo khối ngành | 12 |  |  |  | 
+Row 24: 19 | ELT2035 | Tín hiệu và hệ thốngSignals and systems | 3 | 45 |  |  | MAT1093
+Row 25: 20 | EMA2050 | Xác suất thống kê ứng dụngApplied Probability and Statistic | 3 | 30 | 15 |  | MAT1093MAT1042
+Row 26: 21 | EMA2011 | Phương pháp tính trong kỹ thuậtComputational Methods for Engineering | 3 | 30 | 15 |  | INT1006MAT1093MAT1042
+Row 27: 22 | INT2203 | Cấu trúc dữ liệu và giải thuậtData structures and algorithms | 3 | 30 | 15 |  | INT1006
+Row 28: IV | Khối kiến thức theo nhóm ngành | 23 |  |  |  | 
+Row 29: 23 | AER2001 | Giới thiệu về Khoa học Vật liệuIntroduction to Materials Science | 3 | 30 | 15 |  | 
+Row 30: 24 | EMA2008 | Cơ học chất lỏngFluid Dynamics | 4 | 45 | 15 |  | 
+Row 31: 25 | AER2003 | Kỹ thuật Điện – Điện tử Hàng khôngAerospace Electric-  Electronic Engineering | 3 | 45 |  |  | PHY1103
+Row 32: 26 | AER2004 | Phương pháp số nâng cao cho Công nghệ Hàng không vũ trụAdvanced numerical methods for Aerospace Eng | 3 | 45 |  |  | EMA2011
+Row 33: 27 | AER2005 | Cơ học kỹ thuật cho Công nghệ Hàng không Vũ trụEngineering Mechanics for Aerospace Eng | 4 | 45 | 15 |  | MAT1093MAT1042
+Row 34: 28 | EMA2032 | Hình hoạ kỹ thuật và CADGeometric Engineering and CAD | 3 | 30 | 15 |  | MAT1093MAT1042
+Row 35: 29 | INT2202 | Lập trình nâng cao (C++)Advanced Programming | 3 | 30 | 15 |  | INT1006
+Row 36: V | Khối kiến thức ngành | 75 |  |  |  | 
+Row 37: V.1. | Khối kiến thức ngành bắt buộc | 25 |  |  |  | 
+Row 38: 30 | EMA2038 | Nhiệt động lực họcThermodynamics | 3 | 45 |  |  | 
+Row 39: 31 | ELT3051 | Hệ thống Điều khiểnControl Systems | 3 | 45 |  |  | ELT2035
+Row 40: 32 | EMA2041 | Phương trình vi phân và đạo hàm riêngOrdinary and Partial Differential Equations | 4 | 45 | 15 |  | MAT1093MAT1042
+Row 41: 33 | AER3001 | Kết cấu hàng khôngAerospace Structures | 3 | 45 |  |  | 
+Row 42: 34 | AER3002 | Động học hệ thống và dao độngSystem Dynamic & Vibration | 3 | 45 |  |  | 
+Row 43: 35 | AER3003 | Hệ thống đẩyJet & Rocket Propulsion | 3 | 40 | 5 |  | 
+Row 44: 36 | AER3004 | Thiết kế thiết bị bayAerospace System Design | 3 | 30 | 15 |  | 
+Row 45: 37 | AER3005 | Khí động lực họcAerodynamics | 3 | 45 |  |  | 
+Row 46: V.2. | Khối kiến thức bổ trợ | 5/10 |  |  |  | 
+Row 47: 38 | MNS1052 | Khoa học quản lý đại cươngFundamentals of Management Science | 2 | 20 | 10 |  | 
+Row 48: 39 | ELT2028 | Chuyên nghiệp trong công nghệProfessional in Technology | 2 | 30 |  |  | 
+Row 49: 40 | MAT1100 | Tối ưu hóaOptimization | 3 | 45 |  |  | MAT1093MAT1041
+Row 50: 41 | BSA2002 | Nguyên lý marketingPrinciples of Marketing | 3 | 21 | 23 | 1 | 
+Row 51: V.3. | Khối kiến thức định hướng chuyên sâu | 27 |  |  |  | 
+Row 52: V.3.1. | Định hướng Công nghệ thông tin, Điện tử Hàng không | 27/69 |  |  |  | 
+Row 53: 42 | AER3005 | Nhập môn viễn thámIntroduction to Remote Sensing | 3 | 45 |  |  | 
+Row 54: 43 | AER3006 | Nhập môn Hệ thống thông tin địa lýIntroduction to GIS | 3 | 45 |  |  | 
+Row 55: 44 | AER3007 | Xử lý ảnh viễn thámDigital Image Processing in Remote Sensing | 3 | 30 | 15 |  | 
+Row 56: 45 | AER3008 | Phân tích dữ liệu không gianGeospatial Data Analysis | 3 | 30 | 15 |  | 
+Row 57: 46 | AER3009 | Hiển thị thông tin địa lý ba chiều3D GeoVisualization | 3 | 30 | 15 |  | 
+Row 58: 47 | AER3010 | Tính toán lớn trên dữ liệu không gianSpatial Data Computation | 3 | 30 | 15 |  | 
+Row 59: 48 | AER3011 | Cơ sở dữ liệu không gianSpatial Database Systems | 3 | 30 | 15 |  | 
+Row 60: 49 | AER3012 | Kho dữ liệu không gianSpatial Datawarehouse | 3 | 30 | 15 |  | 
+Row 61: 50 | AER3013 | Hạ tầng thông tin không gianSpatial Data Infrastructure | 3 | 45 |  |  | 
+Row 62: 51 | AER3014 | Các vấn đề hiện đại trong Viễn thám và GISAdvanced topics in Remote Sensing and GIS | 3 | 45 |  |  | 
+Row 63: 52 | INT2204 | Lập trình hướng đối tượngObject-oriented Programming | 3 | 30 | 15 |  | INT1006
+Row 64: 53 | INT3108 | Lập trình nhúng và thời gian thựcReal-time and Embedded Programming | 3 | 30 | 15 |  | INT2205,INT2202
+Row 65: 54 | AER3017 | Phát triển hệ thống nhúng bảo mậtDevelopment of Secure Embedded Systems | 3 | 30 | 15 |  | 
+Row 66: 55 | ELT3048 | Hệ thống vi xử lýMicroprocessors | 3 | 30 | 15 |  | 
+Row 67: 56 | ELT3057 | Truyền thông số và mã hóaDigital Communications and Coding Theory | 3 | 45 |  |  | 
+Row 68: 57 | ELT3069 | Thiết kế hệ thống máy tính nhúngEmbedded Computing System Design | 3 | 30 | 15 |  | 
+Row 69: 58 | ELT2036 | Kỹ thuật điện từElectromagnetics Engineering | 3 | 45 |  |  | 
+Row 70: 59 | ELT3060 | Kỹ thuật cao tầnHF Techniques | 3 | 45 |  |  | 
+Row 71: 60 | ELT3189 | Kỹ thuật AntenAntenna Techniques | 3 | 45 |  |  | 
+Row 72: 61 | AER3019 | Nguyên lý RadaRada Principles | 3 | 45 |  |  | 
+Row 73: 62 | AER3020 | Mạng truyền dữ liệuData communication networks | 3 | 45 |  |  | 
+Row 74: 63 | ELT3098 | Truyền thông vệ tinhSatellite Communication | 3 | 45 |  |  | 
+Row 75: 64 | AER3021 | Nguyên lý xử lý tín hiệu RadaFundamentals of Radar Signal Processing | 3 | 45 |  |  | 
+Row 76: V.3.2. | Địnhhướng Động lực học, Điều khiển và Cơ khí Hàng không | 27/60 |  |  |  | 
+Row 77: 65 | AER3023 | Động lực học bay và điều khiểnFlight Dynamics and Control | 3 | 30 | 15 |  | 
+Row 78: 66 | EMA3101 | Kết cấu thiết bị bay và đồ ánAircraft Structure and Term Project | 3 | 30 | 15 |  | 
+Row 79: 67 | EMA3109 | Khí động học thiết bị bayIntroduction to Dynamics of Flight Vehicles | 3 | 30 | 15 |  | 
+Row 80: 68 | EMA3048 | Thử nghiệm kết cấu thiết bị không gianStructure Testing of Aerospace Devices | 3 | 30 | 15 |  | EMA3101
+Row 81: 69 | AER3024 | Công nghệ chế tạo, CAM và CNCCAM and CNC | 3 | 30 | 15 |  | 
+Row 82: 70 | AER3025 | Kỹ thuật mô hình và mô phỏng thiết bị bayModeling and simulation of flying equipment | 3 | 30 | 15 |  | 
+Row 83: 71 | AER3026 | Kiểm tra và bảo dưỡng máy bayAviation Diagnostics and Maintenance | 3 | 30 | 15 |  | 
+Row 84: 72 | EMA3014 | Cơ học quỹ đạo bayTrajectory Mechanics | 3 | 30 | 15 |  | MAT1093MAT1042
+Row 85: 73 | AER3027 | Cảm biến, điều khiển vệ tinh và đồ ánSensor, Satellite Control and Term Project | 3 | 30 | 15 |  | 
+Row 86: 74 | AER3028 | Thiết kế, tích hợp vệ tinh nhỏ và đồ ánDesign and Assembly of Small Satellite and Term Project | 3 | 30 | 15 |  | 
+Row 87: 75 | AER3036 | Vật liệu Hàng khôngAerospace Materials | 3 | 45 |  |  | 
+Row 88: 76 | AER3029 | Mô phỏng, phân tích và điều khiển hệ thống động lực họcModelling, Analysis & Controlof Dynamical Systems | 3 | 30 | 15 |  | 
+Row 89: 77 | EMA3064 | Điều khiển điện thủy khíElec-Hydrolique Control Systems | 3 | 30 | 15 |  | 
+Row 90: 78 | AER3030 | Hệ thống Điều khiển phản hồi tuyến tínhLinear Feedback Control Systems | 3 | 40 | 5 |  | 
+Row 91: 79 | AER3031 | Lab Hệ thống điều khiểnControl Systems Lab | 3 | 10 | 35 |  | 
+Row 92: 80 | AER3032 | Hệ thống Điều khiển nhúngEmbbeded Control Systems | 3 | 30 | 15 |  | 
+Row 93: 81 | AER3033 | Động lực học bay và điều khiểnFlight Dynamics and Control | 3 | 30 | 15 |  | 
+Row 94: 82 | AER3034 | Phân tích dữ liệu và nhận dạng hệ thốngData analysis and System Identification | 3 | 30 | 15 |  | 
+Row 95: 83 | AER3035 | Nguyên lý Định vị và dẫn đường Thiết bị hàng khôngNavigation and Guidance of Aerospace Vehicles Principles | 3 | 40 | 5 |  | 
+Row 96: 84 | INT3108 | Lập trình nhúng và thời gian thựcReal-time and Embedded Programming | 3 | 30 | 15 |  | INT2205,INT2202
+Row 97: V.4 | Thực tập | 8 |  |  |  | 
+Row 98: 85 | AER4001 | Dự án thực tếCapstone Projects | 5 | 30 | 45 |  | 
+Row 99: 86 | AER4002 | Thực tập tốt nghiệpGraduate Practice | 3 |  |  | 45 | 
+Row 100: V.5 | Đồ án tốt nghiệp | 10 |  |  |  | 
+Row 101: 87 | AER4050 | Đồ án tốt nghiệpThesis | 10 |  |  | 150 | 
+Row 102: Tổng cộng | 160 |  |  |  | 
+
+Ghi chú:
+
+Học phần ngoại ngữ thuộc khối kiến thức chung được tính vào tổng số tín chỉ của chương trình đào tạo, nhưng kết quả đánh giá các học phần này không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy.
+
+Với khối kiến thức tự chọn trong khối kiến thức chuyên sâu, sinh viên lựa chọn định hướng nghề nghiệp để học các môn lựa chọn với 27 tín chỉ.

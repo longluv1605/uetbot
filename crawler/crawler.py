@@ -9,41 +9,42 @@ if not os.path.exists("data"):
     os.makedirs("data")
 
 # Đọc link từ file unused.txt
-def read_unused_links():
-    if not os.path.exists("unused.txt"):
+def read_unused_links(unused_path="crawler/unused.txt"):
+    if not os.path.exists(unused_path):
         return []
-    with open("unused.txt", "r", encoding="utf-8") as f:
+    with open(unused_path, "r", encoding="utf-8") as f:
+        print("Reading")
         return [line.strip() for line in f.readlines() if line.strip() and "uet" in line.lower()]
 
 # Đọc link đã dùng từ file used.txt
-def read_used_links():
-    if not os.path.exists("used.txt"):
+def read_used_links(used_path="crawler/used.txt"):
+    if not os.path.exists(used_path):
         return set()
-    with open("used.txt", "r", encoding="utf-8") as f:
+    with open(used_path, "r", encoding="utf-8") as f:
         return set(line.strip() for line in f.readlines() if line.strip())
 
 # Ghi danh sách link đã dùng vào used.txt
-def write_used_links(used_links):
-    with open("used.txt", "a", encoding="utf-8") as f:
+def write_used_links(used_links, used_path="crawler/used.txt"):
+    with open(used_path, "a", encoding="utf-8") as f:
         for link in used_links:
             f.write(link + "\n")
 
 # Cập nhật file unused.txt
-def update_unused_links(unused_links):
-    with open("unused.txt", "w", encoding="utf-8") as f:
+def update_unused_links(unused_links, unused_path="crawler/unused.txt"):
+    with open(unused_path, "w", encoding="utf-8") as f:
         for link in unused_links:
             f.write(link + "\n")
 
 # Đọc ID cuối cùng từ file last_id.txt
-def get_last_id():
-    if not os.path.exists("last_id.txt"):
+def get_last_id(last_id_path="crawler/last_id.txt"):
+    if not os.path.exists(last_id_path):
         return 0
-    with open("last_id.txt", "r", encoding="utf-8") as f:
+    with open(last_id_path, "r", encoding="utf-8") as f:
         return int(f.read().strip())
 
 # Lưu ID cuối cùng vào file last_id.txt
-def save_last_id(last_id):
-    with open("last_id.txt", "w", encoding="utf-8") as f:
+def save_last_id(last_id, last_id_path="crawler/last_id.txt"):
+    with open(last_id_path, "w", encoding="utf-8") as f:
         f.write(str(last_id))
 
 # Chuyển bảng thành văn bản
@@ -65,67 +66,53 @@ def crawl_page(url, doc_id, data_dir):
         # Loại bỏ thẻ <script>
         for script in soup(["script"]):
             script.decompose()
-        # Loại bỏ thẻ có id="main-nav"
-        main_nav = soup.find(id="main-nav")
-        if main_nav:
-            main_nav.decompose()  # Xóa thẻ và nội dung bên trong nó
-        top_nav = soup.find(id="top-nav")
-        if top_nav:
-            top_nav.decompose()  # Xóa thẻ và nội dung bên trong nó
-        bottom = soup.find(id="bottom")
-        if bottom:
-            bottom.decompose()  # Xóa thẻ và nội dung bên trong nó
-        bottom_nav = soup.find(id="bottom-nav")
-        if bottom_nav:
-            bottom_nav.decompose()  # Xóa thẻ và nội dung bên trong nó
-        page_heading = soup.find_all("div", {"class": "page-heading"})
-        if page_heading:
-            for ph in page_heading:
-                ph.decompose()
+        # # Loại bỏ thẻ có id="main-nav"
+        # main_nav = soup.find(id="main-nav")
+        # if main_nav:
+        #     main_nav.decompose()  # Xóa thẻ và nội dung bên trong nó
+        # top_nav = soup.find(id="top-nav")
+        # if top_nav:
+        #     top_nav.decompose()  # Xóa thẻ và nội dung bên trong nó
+        # bottom = soup.find(id="bottom")
+        # if bottom:
+        #     bottom.decompose()  # Xóa thẻ và nội dung bên trong nó
+        # bottom_nav = soup.find(id="bottom-nav")
+        # if bottom_nav:
+        #     bottom_nav.decompose()  # Xóa thẻ và nội dung bên trong nó
+        # page_heading = soup.find_all("div", {"class": "page-heading"})
+        # if page_heading:
+        #     for ph in page_heading:
+        #         ph.decompose()
 
         # Lấy tiêu đề trang
         title = soup.title.string.strip() if soup.title else "No Title"
-
-        # Xử lý nội dung tuần tự
-        # content_lines = []
-        # table_count = 0
-        # seen_texts = set()
-        # for element in soup.body.find_all(recursive=False):
-        #     if element.name == "table":
-        #         table_count += 1
-        #         table_text = table_to_text(element, table_count)
-        #         if table_text not in seen_texts:
-        #             content_lines.append(table_text)
-        #             seen_texts.add(table_text)
-        #     else:
-        #         text = element.get_text(separator="\n", strip=True)
-        #         if text and text not in seen_texts:
-        #             content_lines.append(text)
-        #             seen_texts.add(text)
         
-        # Tìm phần tử có id="content"
-        content_section = soup.find(id="content")
+        # Tìm phần tử có class="single-post-content-text content-pad"
+        content_section = soup.find("div", {"class": "single-post-content-text content-pad"})
         if not content_section:
-            print(f"Không tìm thấy phần tử id='content' trong {url}")
-            content_lines = ["Không có nội dung trong id='content'"]
+            print(f"Không tìm thấy phần tử class='single-post-content-text content-pad' trong {url}")
+            content_lines = ["Không có nội dung trong class='single-post-content-text content-pad'"]
             links = []
-        else:
-            # Xử lý nội dung trong id="content" tuần tự
-            content_lines = []
-            table_count = 0
-            seen_texts = set()
-            for element in content_section.find_all(recursive=False):
-                if element.name == "table":
-                    table_count += 1
-                    table_text = table_to_text(element, table_count)
-                    if table_text not in seen_texts:
-                        content_lines.append(table_text)
-                        seen_texts.add(table_text)
-                else:
-                    text = element.get_text(separator="\n", strip=True)
-                    if text and text not in seen_texts:
-                        content_lines.append(text)
-                        seen_texts.add(text)
+            content_section = soup.find("div", {"class": "blog-listing"})
+            if not content_section:
+                return links
+
+        # Xử lý nội dung trong class="single-post-content-text content-pad" tuần tự
+        content_lines = []
+        table_count = 0
+        seen_texts = set()
+        for element in content_section.find_all(recursive=False):
+            if element.name == "table":
+                table_count += 1
+                table_text = table_to_text(element, table_count)
+                if table_text not in seen_texts:
+                    content_lines.append(table_text)
+                    seen_texts.add(table_text)
+            else:
+                text = element.get_text(separator="\n", strip=True)
+                if text and text not in seen_texts:
+                    content_lines.append(text)
+                    seen_texts.add(text)
 
         # Kết hợp nội dung
         full_content = f"URL: {url}\nTitle: {title}\n\n" + "\n\n".join(content_lines)
@@ -162,7 +149,7 @@ def crawl_page(url, doc_id, data_dir):
 
 # Hàm chính
 def main():
-    data_dir = '../data'
+    data_dir = './data'
     unused_links = read_unused_links()
     if not unused_links:
         print("Không có link nào trong unused.txt chứa 'uet' để crawl.")
@@ -208,7 +195,8 @@ def main():
         # Cập nhật unused.txt
         update_unused_links(unused_links)
         # Lưu ID mới nhất
-        save_last_id(current_id)
+        if len(found_links) > 0:
+            save_last_id(current_id)
 
         file_path = f"data/doc{current_id}.txt"
         if os.path.exists(file_path) and os.path.getsize(file_path) > 0:

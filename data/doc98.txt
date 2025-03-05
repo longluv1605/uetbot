@@ -1,0 +1,150 @@
+URL: https://uet.vnu.edu.vn/chuong-trinh-dao-tao-nganh-ky-thuat-nang-luong-3/
+Title: Chương trình đào tạo ngành Kỹ thuật năng lượng - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology
+
+1. Tóm tắt yêu cầu chương trình đào tạo
+
+Tổng số tín chỉ của chương trình đào tạo:
+1
+52 tín chỉ
+
+(Chưa tính các
+học phần
+Giáo dục thể chất, Giáo dục Quốc phòng – An ninh
+)
+
+Table 1:
+Row 1: – | Khối kiến thức chung:                                                       16 tín chỉ
+Row 2: – | Khối kiến thức theo lĩnh vực: | 22 tín chỉ
+Row 3: – | Khối kiến thức theo khối ngành: | 11 tín chỉ
+Row 4: – | Khối kiến thức theo nhóm ngành: | 18 tín chỉ
+Row 5: – | Khối kiến thức ngành: | 85 tín chỉ
+Row 6:  | + Khối kiến thức bắt buộc: | 49tín chỉ
+Row 7:  | + Khối kiến thức định hướng chuyên sâu: | 20tín chỉ
+Row 8:  | Bắt buộc: | 14tín chỉ
+Row 9:  | Tự chọn: | 6tín chỉ
+Row 10:  | + Khối kiến thức bổ trợ: | 6 tín chỉ
+Row 11:  | +Đồ án tốt nghiệp/các học phần thay thế: | 10 tín chỉ
+
+2. Khung chương trình đào tạo
+
+Table 2:
+Row 1: Số TT | Mãhọc phần | Học phần(ghi bằng tiếng Việt và tiếng Anh) | Số tín chỉ | Số giờ tín chỉ | Mã số học phần tiên quyết
+Row 2: Lý thuyết | Thực hành | Tự học
+Row 3: I | Khối kiến thức chung(Chưa tính các học phần Giáo dục thể chất, Giáo dục Quốc phòng – An ninh) | 16 |  |  |  | 
+Row 4: 1. | PHI1006 | Triết học Mác – LêninMarxist-Leninist Philosophy | 3 | 30 | 15 |  | 
+Row 5: 2. | PEC1008 | Kinh tế chính trị Mác – LêninMarx-Lenin Political Economy | 2 | 20 | 10 |  | PHI1006
+Row 6: 3. | PHI1002 | Chủ nghĩa xã hội khoa họcScientific Socialism | 2 | 30 |  |  | 
+Row 7: 4. | HIS1001 | Lịch sử Đảng Cộng sản Việt NamRevolutionary Guidelines of Vietnam Communist Party | 2 | 20 | 10 |  | 
+Row 8: 5. | POL1001 | Tư tưởng Hồ Chí MinhHo Chi Minh’s Ideology | 2 | 20 | 10 |  | 
+Row 9: 6. | FLF1107 | Tiếng Anh B1English B1 | 5 | 20 | 35 | 20 | 
+Row 10: 7. |  | Giáo dục thể chấtPhysical Education | 4 |  |  |  | 
+Row 11: 8. |  | Giáo dục quốc phòng – an ninhNational Defence Education | 8 |  |  |  | 
+Row 12: II | Khối kiến thức theo lĩnh vực | 22 |  |  |  | 
+Row 13: 9.                     1 | MAT1093 | Đại sốAlgebra | 4 | 30 | 30 |  | 
+Row 14: 10.                1 | MAT1041 | Giải tích 1Calculus 1 | 4 | 30 | 30 |  | 
+Row 15: 11.                1 | MAT1042 | Giải tích 2Calculus 2 | 4 | 30 | 30 |  | MAT1041
+Row 16: 12. | EPN1095 | Vật lý đại cương 1General Physics 1 | 2 | 30 |  |  | 
+Row 17: 13. | EPN1096 | Vật lý đại cương 2General Physics 2 | 2 | 30 |  |  | EPN1095
+Row 18: 14. | INT1007 | Giới thiệu về Công nghệ thông tinIntroduction to Information Technology | 3 | 15 | 30 |  | 
+Row 19: 15. | INT1008 | Nhập môn lập trìnhIntroduction to Programming | 3 | 20 | 25 |  | 
+Row 20: III | Khối kiến thức theo khối ngành | 11 |  |  |  | 
+Row 21: 16.                1 | EPN2054 | Cơ – NhiệtMechanics and Thermodynamics | 3 | 32 | 10 | 3 | 
+Row 22: 17. | EPN2055 | Điện và QuangElectromagnetism and Optics | 3 | 32 | 10 | 3 | EPN2054
+Row 23: 18. | PHY1104 | Thực hành Vật lý đại cươngFundamental Physics Labolatory | 2 | 2 | 20 | 8 | EPN2054EPN2055
+Row 24: 19. | EMA2050 | Xác suất thống kê ứng dụngApplied Probability and Statistics | 3 | 30 | 15 |  | MAT1093MAT1042
+Row 25: IV | Khối kiến thức theo nhóm ngành | 18 |  |  |  | 
+Row 26: 20. | EPN2029 | Khoa học vật liệu đại cươngPrinciples of Materials Science | 3 | 30 | 15 |  | 
+Row 27: 21. | EMA2041 | Phương trình vi phân và đạo hàm riêngOrdinary and Partial Differential Equations | 4 | 45 | 15 |  | MAT1093MAT1042
+Row 28: 22. | EET2000 | Các nguyên lý cơ bản trong hóa họcPrinciples in Chemistry | 3 | 40 |  | 5 | 
+Row 29: 23. | EMA2036 | Cơ học kỹ thuật 1Engineering Mechanics 1 | 3 | 30 | 15 |  | MAT 1093MAT 1042
+Row 30: 24. | EMA2038 | Nhiệt động lực học kỹ thuậtEngineering Thermodynamics | 3 | 35 | 10 |  | EPN2055MAT1042
+Row 31: 25. | EMA2032 | Hình họa kỹ thuật và CADGeometric Engineering and CAD | 2 | 15 | 15 |  | MAT1093MAT1042
+Row 32: V | Khối kiến thức ngành | 85 |  |  |  | 
+Row 33: V.1 | Các học phần bắt buộc | 49 |  |  |  | 
+Row 34: 26. | EPN2004 | Mô hình hóa và mô phỏng trong vật lýModeling and simulation in physics | 3 | 22 | 23 |  | INT1008
+Row 35: 27. | EPN2002 | Kỹ thuật hóa học và ứng dụngChemical Engineering and Applications | 3 | 36 | 9 |  | EPN2055
+Row 36: 28. | EPN2014 | Vật lý bán dẫn và linh kiệnPhysics of semiconductors and devices | 2 | 30 |  |  | EPN2029
+Row 37: 29. | EPN2051 | Seminar và thảo luận nhóm về công nghệ nano và ứng dụngSeminar on Nanotechnology andApplications | 2 | 24 | 6 |  | 
+Row 38: 30. | EET2001 | Hóa học hữu cơOrganic Chemistry | 3 | 40 |  | 5 | 
+Row 39: 31. | EMA2004 | Cơ học môi trường liên tụcContinium Mechanics | 4 | 45 | 15 |  | EPN2055MAT1093MAT1042
+Row 40: 32. | EET2002 | Hóa học nhiên liệuFuel Chemistry | 3 | 30 | 10 | 5 | EET2000
+Row 41: 33. | EET2003 | Cơ sở công nghệ năng lượngFundamentals of Energy Engineering | 3 | 30 | 15 |  | EMA2038
+Row 42: 34. | EET2004 | Nguyên lý biến đổi năng lượngPrinciples of Energy Conversion | 3 | 30 | 15 |  | EMA2038
+Row 43: 35. | EET2005 | Vật liệu tiên tiến và compositeAdvance and Composite materials | 2 | 24 | 6 |  | EPN2054
+Row 44: 36. | EET2006 | Truyền nhiệt và truyền khốiHeat and Mass Transfer | 3 | 35 | 8 | 2 | MAT1042EPN2055
+Row 45: 37. | EET2007 | Thực hành kỹ thuật năng lượngEnergy Engineering Labolatory | 3 | 5 | 35 | 5 | EET2003EET2005
+Row 46: 38. | EET2008 | Thực hành công nghiệp kỹ thuật năng lượngIndustrial Internship in Energy Engineering | 2 | 5 | 25 |  | EET2007
+Row 47: 39. | EET2009 | Hệ thống năng lượngEnergy Systems | 3 | 30 | 12 | 3 | EMA2038EET2003
+Row 48: 40. | EET2010 | Kỹ thuật lạnh và điều hòa không khíRefrigeration and Air Conditioning | 3 | 30 | 15 |  | EMA2038
+Row 49: 41. | EET2011 | Cơ sở quản lý năng lượngPrinciples of Energy Management | 2 | 30 |  |  | 
+Row 50: 42. | EET2013 | Năng lượng tái tạoRenewable Energy | 3 | 35 | 5 | 5 | EET2003
+Row 51: 43. | EET2016 | Lựa chọn năng lượng bền vữngSustainable Energy Options | 2 | 30 |  |  | EET2003
+Row 52: V.2 | Kiến thức định hướng chuyên sâu | 20 |  |  |  | 
+Row 53: V.2.1 | Định hướng chuyên sâu vềNăng lượng mặt trời
+Row 54: V.2.1.1 | Các học phần bắt buộc | 14 |  |  |  | 
+Row 55: 44. | EET3001 | Bức xạ và biến đổi năng lượng mặt trờiSolar Radiation and Energy Conversion | 2 | 25 | 5 |  | EPN2014
+Row 56: 45. | EET3002 | Đồ án học phần bức xạ và biến đổi năng lượng mặt trờiProject in Solar Radiation and Energy Conversion | 2 |  | 30 |  | EPN2014
+Row 57: 46. | EET3003 | Hệ thống năng lượng nhiệt mặt trờiSolar Thermal Systems | 2 | 25 | 5 |  | EET2006
+Row 58: 47. | EET3004 | Đồ án học phần Hệ thống năng lượng nhiệt mặt trờiProject in Solar Thermal Systems | 2 |  | 30 |  | EET2006
+Row 59: 48. | EET3005 | Hệ thống quang điệnSolar Photovoltaic Systems | 2 | 25 | 5 |  | EET2003
+Row 60: 49. | EET3006 | Đồ án học phần Hệ thống quang điệnProject in Solar Photovoltaic Systems | 2 |  | 30 |  | EET2003
+Row 61: 50. | EET3007 | Thực tập Chuyên đề năng lượng mặt trờiSolar Energy Labolatory | 2 |  | 30 |  | EET2003EET3001
+Row 62: V.2.1.2 | Các học phần tự chọn | 6/12 |  |  |  | 
+Row 63: 51. | EET3008 | Kỹ thuật pin mặt trờiTechnology for Solar Cells | 3 | 35 | 5 | 5 | 
+Row 64: 52. | EET3009 | Khoa học vật liệu ứng dụng cho kỹ thuật năng lượng mặt trờiMaterials Science for Solar Applications | 3 | 35 | 10 |  | EPN2014EPN2029
+Row 65: 53. | EET3010 | Vật liệu nano ứng dụng trong năng lượng mặt trờiNano Materials for Solar Applications | 2 | 25 | 5 |  | EPN2014EPN2029
+Row 66: 54. | EET3011 | Phân tích nhiệt động học của các hệ thống năng lượngThermodynamic Analysis of Energy Systems | 2 | 20 | 10 |  | EMA2038
+Row 67: 55. | EET3012 | Thiết kế hệ thống năng lượng mặt trờiDesign of Solar Energy Systems | 2 | 20 | 10 |  | EET2003
+Row 68: V.2.2 | Định hướng chuyên sâu vềBiến đổi và tích trữ các nguồn năng lượng mới
+Row 69: V.2.2.1 | Các học phần bắt buộc | 14 |  |  |  | 
+Row 70: 56. | EET3013 | Công nghệ năng lượng Hydro và pin nhiên liệuFuel Cell and Hydrogen Technology | 2 | 25 | 5 |  | EET2004EPN2002
+Row 71: 57. | EET3014 | Đồ án học phần Công nghệ năng lượng Hydro và pin nhiên liệuProject in Fuel Cell and Hydrogen Technology | 2 | 5 | 20 | 5 | EET2004EPN2002
+Row 72: 58. | EET3015 | Hệ thống đồng phát và thu hồi nhiệt xả thảiCogeneration and Waste Heat Recovery Systems | 2 | 20 | 10 |  | EET2006
+Row 73: 59. | EET3016 | Đồ án học phần Hệ thống đồng phát và thu hồi nhiệt xả thảiProject in Cogeneration and Waste Heat Recovery Systems | 2 |  | 30 |  | EET2006
+Row 74: 60. | EET3017 | Tích trữ và biến đổi các nguồn năng lượng mớiEnergy Storage and Conversion | 2 | 5 | 25 |  | EET2003EET2004
+Row 75: 61. | EET3018 | Đồ án học phần Tích trữ và biến đổi các nguồn năng lượng mớiProject in Energy Storage and Conversion | 2 | 5 | 25 |  | EET2003EET2004
+Row 76: 62. | EET3019 | Thực tập Chuyên đề biến đổi và tích trữ các nguồn năng lượng mớiEnergy Storage and Conversion Laboratory | 2 | 5 | 20 | 5 | EET2003
+Row 77: V.2.2.2 | Các học phần tự chọn | 6/12 |  |  |  | 
+Row 78: 63. | EET3020 | Thủy điện và năng lượng biểnHydropower and Ocean Energy | 3 | 35 | 8 | 2 | EET2004EMA2004
+Row 79: 64. | EET3021 | Năng lượng địa nhiệtGeothermal Energy | 3 | 32 | 10 | 3 | EET2004EET2006
+Row 80: 65. | EET3022 | Năng lượng sinh họcBioenergy | 2 | 25 | 5 |  | EET2003
+Row 81: 66. | EET3023 | Biến đổi năng lượng điện hóaElectrochemical Energy Conversion | 2 | 25 | 5 |  | EPN2002
+Row 82: 67. | EET3024 | Điện gióWind Power | 2 | 30 |  |  | EET2003
+Row 83: V.2.3 | Định hướng chuyên sâu vềQuản lý và An toàn năng lượng
+Row 84: V.2.3.1 | Các học phần bắt buộc | 14 |  |  |  | 
+Row 85: 68. | EET3025 | Kiểm soát ô nhiễm trong các quá trình năng lượngPollution Control in the Energy Processes | 2 | 5 | 25 |  | EET2003
+Row 86: 69. | EET3026 | Đồ án học phần  Kiểm soát ô nhiễm trong các ngành năng lượngProject in Pollution Control in the Energy Processes | 2 |  | 30 |  | EET2003
+Row 87: 70. | EET3027 | An toàn hiệu quả trong kỹ thuật năng lượngSafety and Effective Use in Energy Engineering | 2 | 30 |  |  | EET2003EET2011
+Row 88: 71. | EET3028 | Đồ án học phần An toàn hiệu quả trong kỹ thuật năng lượngProject in Safety and Effective Use in Energy Engineering | 2 |  | 30 |  | EET2003EET2011
+Row 89: 72. | EET3029 | Kinh tế và chính sách năng lượngEconomics and Policy in Energy Engineering | 2 | 20 | 10 |  | EET2011
+Row 90: 73. | EET3030 | Đồ án học phần Kinh tế và chính sách năng lượngProject in Economics and Policy in Energy Engineering | 2 | 5 | 25 |  | EET2011
+Row 91: 74. | EET3031 | Thực tập Chuyên đề quản lý và an toàn năng lượngEconomics and Policy in Energy Engineering Laboratory | 2 | 20 | 5 | 5 | EET2011
+Row 92: V.2.3.2 | Các học phần tự chọn | 6/12 |  |  |  | 
+Row 93: 75. | EET3032 | Xây dựng và đánh giá các dự án năng lượngEnergy Project Accessment and Analysis | 3 | 30 | 15 |  | EET2003EET2011
+Row 94: 76. | EET3033 | Quản lý rủi ro trong công nghiệp năng lượngRisk Management in Energy Industries | 3 | 35 | 10 |  | EET2011
+Row 95: 77. | EET3034 | Năng lượng từ chất thảiWaste Energy | 2 | 20 | 10 |  | EET2003
+Row 96: 78. | EET3035 | Các vấn đề pháp lý trong quản lý năng lượngLegal Aspects of Energy Management | 2 | 20 | 10 |  | EET2011
+Row 97: 79. | EET3036 | Quản lý doanh nghiệp khởi nghiệpManaging an Entrepreneurial Start-up Company | 2 | 20 | 10 |  | EET2011
+Row 98: V.3 | Kiến thức bổ trợ | 6/22 |  |  |  | 
+Row 99: 80. | UET1001 | Tiếng Anh bổ trợGeneral English | 4 | 45 | 15 |  | 
+Row 100: 81. | PHY1105 | Vật lý hiện đạiModern Physics | 2 | 20 | 10 |  | EPN2054
+Row 101: 82. | ELT2028 | Chuyên nghiệp trong công nghệProfessional in technology | 2 | 30 |  |  | 
+Row 102: 83. | MNS1052 | Khoa học quản lý đại cươngFundamental of management | 2 | 20 | 10 |  | 
+Row 103: 84. | EET2012 | Đo lường và tự động hóa các hệ thống năng lượngMeasurement and Automation in Energy Systems | 2 | 20 | 8 | 2 | 
+Row 104: 85. | EET2014 | Cơ sở lý thuyết và thiết bị cháyTheory of Combustion and Equypments | 2 | 20 | 10 |  | EET2006
+Row 105: 86. | EET2017 | Kỹ thuật điện và thiết bịElectrical engineering and equypments | 2 | 20 | 10 |  | 
+Row 106: 87. | EET2018 | Điện tử công nghiệpIndustrial electronics | 2 | 15 | 15 |  | 
+Row 107: 88. | EET2019 | Hệ thống điện và mạng lướiElectrical systems and networks | 2 | 30 |  |  | 
+Row 108: 89. | EET2015 | Tiếng Anh chuyên ngành kỹ thuật năng lượngEnglish for Energy Engineering | 2 | 20 | 10 |  | 
+Row 109: V.4 | Khối kiến thức tốt nghiệp | 10 |  |  |  | 
+Row 110: 90. | EET4000 | Đồ án tốt nghiệpGraduate project | 10 |  |  |  | 
+Row 111:  |  | Các học phần thay thế đồ án tốt nghiệp | 10 |  |  |  | 
+Row 112:  |  | 4 học phần chọn từ danh sách các học phần tự chọn của các định hướng chuyên sâuEquyvalent courses (optional) | 10 |  |  |  | 
+Row 113: Tổng số | 152 |  |  |  | 
+
+Ghi chú:
+
+Học phần Tiếng Anh B1 thuộc khối kiến thức chung, được tính vào tổng số tín chỉ của chương trình đào tạo, nhưng kết quả đánh giá học phần này không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy.
+Học phần Tiếng Anh bổ trợ thuộc khối kiến thức bổ trợ, được tính vào tổng số tín chỉ của chương trình đào tạo, đây là học phần hỗ trợ lựa chọn cho học phần Tiếng Anh B1, kết quả đánh giá học phần này được tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy.
+Học phần Giáo dục thể chất, Giáo dục quốc phòng – an ninh không được tính vào tổng số tín chỉ của chương trình đào tạo, không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy, nhưng là điều kiện để xét tốt nghiệp.
+01 giờ tín chỉ thực hành tương ứng với 02 giờ thực tế trên lớp.

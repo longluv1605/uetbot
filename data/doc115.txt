@@ -1,0 +1,140 @@
+URL: https://uet.vnu.edu.vn/chuong-trinh-dao-tao-nganh-vat-ly-ky-thuat-7/
+Title: Chương trình đào tạo ngành Vật lý kỹ thuật - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology
+
+1. Tóm tắt yêu cầu chương trình đào tạo
+
+Tổng số tín chỉ của chương trình đào tạo:
+134 tín chỉ
+
+Table 1:
+Row 1: – | Khối kiến thức chung:                                                            29 tín chỉ(Không tính cáchọc phầnGDTC,  GDQP-AN vàKỹnăngbổ trợ)
+Row 2: – | Khối kiến thức theo lĩnh vực: | 18 tín chỉ
+Row 3: – | Khối kiến thức theo khối ngành: | 6 tín chỉ
+Row 4: – | Khối kiến thức theo nhóm ngành: | 14 tín chỉ
+Row 5: – | Khối kiến thức ngành: | 67 tín chỉ
+Row 6:  | + Các học phần bắt buộc: | 39tín chỉ
+Row 7:  | + Định hướng chuyên sâu: | 17tín chỉ
+Row 8:  | Bắt buộc:                    9 tín chỉ | 
+Row 9:  | Tự chọn:                    8 tín chỉ | 
+Row 10:  | + Bổ trợ:                                                                                  4/8 tín chỉ
+Row 11:  | +Thực tập và khóa luận tốt nghiệp/các học phần thay thế khóa luận tốt nghiệp:7 tín chỉ
+
+2. Khung chương trình đào tạo
+
+Table 2:
+Row 1: Số TT | Mãhọc phần | Học phần | Số tín chỉ | Số giờ tín chỉ | Mã số học phần tiên quyết
+Row 2: Lý thuyết | Thực hành | Tự học
+Row 3: I |  | Khối kiến thức chung(không tính các học phần từ 10-12) | 29 |  |  |  | 
+Row 4: 1. | PHI1004 | Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin 1Fundamental Principles of Marxism-Leninism 1 | 2 | 24 | 6 |  | 
+Row 5: 2. | PHI1005 | Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin 2Fundamental Principles of Marxism-Leninism 2 | 3 | 36 | 9 |  | PHI1004
+Row 6: 3. | POL1001 | Tư tưởng Hồ Chí MinhHo Chi Minh Ideology | 2 | 20 | 10 |  | PHI1005
+Row 7: 4. | HIS1002 | Đường lối cách mạng của Đảng Cộng sản Việt NamThe Revolutionary Line of the Communist Party of Vietnam | 3 | 42 | 3 |  | POL1001
+Row 8: 5. | INT1003 | Tin học cơ sở 1Introduction to Informatics 1 | 2 | 10 | 20 |  | 
+Row 9: 6. | INT1006 | Tin học cơ sở 4Introduction to Informatics 4 | 3 | 20 | 23 | 2 | INT1003
+Row 10: 7. | FLF2101 | Tiếng Anh cơ sở 1Fundamental English 1 | 4 | 16 | 40 | 4 | 
+Row 11: 8. | FLF2102 | Tiếng Anh cơ sở 2Fundamental English 2 | 5 | 20 | 50 | 5 | FLF1105
+Row 12: 9. | FLF2103 | Tiếng Anh cơ sở 3Fundamental English 3 | 5 | 20 | 50 | 5 | FLF1106
+Row 13: 10. |  | Giáo dục thể chấtPhysical Education | 4 |  |  |  | 
+Row 14: 11. |  | Giáo dục quốc phòng – an ninhNational Defence Education | 8 |  |  |  | 
+Row 15: 12. |  | Kỹ năng bổ trợSoft skills | 3 |  |  |  | 
+Row 16: II |  | Khối kiến thức theo lĩnh vực | 18 |  |  |  | 
+Row 17: 13.         1 | MAT1093 | Đại sốAlgebra | 4 | 45 | 15 |  | 
+Row 18: 14.         1 | MAT1041 | Giải tích 1Calculus 1 | 4 | 45 | 15 |  | 
+Row 19: 15.         1 | MAT1042 | Giải tích 2Calculus 2 | 4 | 45 | 15 |  | MAT1041
+Row 20: 16.         1 | PHY1100 | Cơ – NhiệtFundamental Physics 1: Mechanics and Thermodynamics | 3 | 32 | 10 | 3 | 
+Row 21: 17.         1 | PHY1103 | Điện và QuangFundamental Physics 2: Electromagnetism and Optics | 3 | 32 | 10 | 3 | PHY1100
+Row 22: III |  | Khối kiến thức theo khối ngành | 6 |  |  |  | 
+Row 23: 18. | EMA2050 | Xác suất thống kê ứng dụngApplied Probability and Statistics | 3 | 30 | 15 |  | MAT1093MAT1042
+Row 24: 19. | EMA2011 | Phương pháp tính trong kỹ thuậtNumerical methods in engineering | 3 | 30 | 15 |  | 
+Row 25: IV |  | Khối kiến thức theo nhóm ngành | 14 |  |  |  | 
+Row 26: 20. | PHY1104 | Thực hành Vật lý đại cươngFundamental Physics labolatory | 2 | 2 | 20 | 8 | PHY1100PHY1103
+Row 27: 21. | EPN2029 | Khoa học vật liệu đại cươngPrinciples of Materials Science | 3 | 30 | 15 |  | 
+Row 28: 22. | EPN2023 | Các phương pháp toán lýMathematico-Physical methods | 3 | 45 |  |  | MAT1093, MAT1042
+Row 29: 23. | EPN2015 | Vật lý lượng tửQuatum Physics | 3 | 45 |  |  | PHY1100, PHY1103EPN2023
+Row 30: 24. | EPN2030 | Vật lý thống kêStatistical Physics | 3 | 36 | 9 |  | PHY1100, PHY1103
+Row 31: V |  | Khối kiến thức ngành | 67 |  |  |  | 
+Row 32: V.1 |  | Các học phần bắt buộc | 39 |  |  |  | 
+Row 33: 25. | EPN2001 | Các phương pháp phân tích vật liệuMethods for characterization of structures of materials | 3 | 45 |  |  | EPN2029
+Row 34: 26. | EPN2006 | Thực hành công nghệTechnology practicum | 3 |  | 45 |  | EPN2025, EPN2002
+Row 35: 27. | EPN2053 | Sinh học đại cươngGeneral Biology | 3 | 30 | 15 |  | 
+Row 36: 28. | EPN2002 | Kỹ thuật hóa học và ứng dụngChemical engineering and applications | 3 | 36 | 9 |  | PHY1103
+Row 37: 29. | EPN2050 | Vật lý phân tửMolecular Physics | 3 | 45 |  |  | PHY1100, PHY1103
+Row 38: 30. | EPN2027 | Tin học vật lýPhysics informatics | 3 | 30 | 15 |  | INT1006
+Row 39: 31. | EPN2004 | Mô hình hóa và mô phỏng trong vật lýModeling and simulation in physics | 3 | 22 | 23 |  | INT1006, EPN2023,  EMA 2011
+Row 40: 32. | EPN2005 | Quang điện tửOptoelectronics | 2 | 30 |  |  | EPN2014
+Row 41: 33. | EPN2026 | Thông tin quangFiber optics telecommunication | 3 | 30 | 15 |  | EPN2014
+Row 42: 34. | EPN2025 | Kỹ thuật màng mỏng và công nghệ nanoThin films techniques and nanotechnology | 3 | 30 | 15 |  | EPN2029
+Row 43: 35. | EPN2014 | Vật lý bán dẫn và linh kiệnPhysics of semiconductors and devices | 2 | 30 |  |  | EPN2015, EPN2029
+Row 44: 36. | EPN2011 | Vật l‎ý các hiện tượng từ và ứng dụngPhysics of magnetism and applications | 3 | 35 | 10 |  | PHY1103
+Row 45: 37. | EPN2024 | Cơ sở vật lý của một số thiết bị y tếFundamental physics of medical  equipments | 3 | 45 |  |  | EPN2029
+Row 46: 38. | EPN2051 | Seminar và thảo luận nhóm về công nghệ nano và ứng dụngSeminar on nanotechnology andapplications | 2 | 24 | 6 |  | 
+Row 47: V.2 | Kiến thức định hướng chuyên sâu | 17 |  |  |  | 
+Row 48: V.2.1 | Kiến thức định hướng chuyên sâu về Công nghệ quang tử | 17 |  |  |  | 
+Row 49:  | Các học phần bắt buộc | 9 |  |  |  | 
+Row 50: 39. | EPN3039 | Vật lý và công nghệ laserPhysics and technology of lasers | 4 | 48 | 12 |  | EPN2005
+Row 51: 40. | EPN3017 | Quang phổ chất rắnSolid state spectroscopy | 2 | 27 | 3 |  | EPN2015, EPN2029
+Row 52: 41. | EPN3029 | Thực tập chuyên đề Công nghệ quang tửSpecializedpractice in photonics | 3 | 9 | 36 |  | EPN2006
+Row 53:  | Các học phần tự chọn | 8/14 |  |  |  | 
+Row 54: 42. | EPN3024 | Thiết bị quang tửPhotonic instruments | 2 | 22 | 8 |  | PHY1103
+Row 55: 43. | EPN3016 | Quang phi tuyếnNonlinear optics | 2 | 30 |  |  | EPN2015, EPN2029
+Row 56: 44. | EPN3020 | Quang tử nanoNanophotonics | 2 | 24 | 6 |  | EPN2014
+Row 57: 45. | EPN3018 | Quang phổ các vật liệu cấu trúc nanoNanostructured materials spectroscopy | 2 | 30 |  |  | EPN3017
+Row 58: 46. | EPN3038 | Vật liệu quang tử hữu cơ nanoNanostructured organic photonic materials | 2 | 30 |  |  | EPN2029
+Row 59: 47. | EPN3019 | Quang tử học lý thuyếtTheoretical photonics | 2 | 28 | 2 |  | EPN2015
+Row 60: 48. | EPN3011 | Cấu trúc điện tử của các hệ nanoElectronic structure of nanosystems | 2 | 30 |  |  | EPN2029
+Row 61: V.2.2 | Kiến thức định hướng chuyên sâu về Công nghệ nano, năng lượng và môi trường | 17 |  |  |  | 
+Row 62:  | Các học phần bắt buộc | 9 |  |  |  | 
+Row 63: 49. | EPN3035 | Vật liệu bán dẫn cấu trúc nanoNanostructured semiconductors | 2 | 30 |  |  | EPN2006
+Row 64: 50. | EPN3010 | Các vật liệu từ tính cấu trúc nano và kỹ thuật spin điện tửNanostructured magnetic materials and spin electronics | 2 | 30 |  |  | EPN2014, EPN2011
+Row 65: 51. | EPN3030 | Thực tập chuyên đề Công nghệ nanoSpecializedpractice innanotechnology | 3 | 9 | 36 |  | EPN2006
+Row 66: 52. | EPN3006 | Các hệ vi cơ điện tử và ứng dụngMicroelectromechanical systems and applications | 2 | 30 |  |  | 
+Row 67:  | Các học phần tự chọn | 8/14 |  |  |  | 
+Row 68: 53. | EPN3009 | Các vật liệu polymer chức năng cấu trúc nanoNanostructured functional polymers | 2 | 30 |  |  | EPN2006
+Row 69: 54. | EPN3020 | Quang tử nanoNanophotonics | 2 | 24 | 6 |  | EPN2014
+Row 70: 55. | EPN3040 | Polyme dẫnConducting polymer | 2 | 26 | 4 |  | EPN2014
+Row 71: 56. | EPN3052 | Vật liệu gốm kỹ thuậtCeramic materials | 2 | 30 |  |  | 
+Row 72: 57. | EPN3053 | Kỹ thuật bảo vệ vật liệu và ứng dụngCoating materials and applications | 2 | 30 |  |  | 
+Row 73: 58. | EPN3054 | Kỹ thuật nano trong chế tạo xúc tác công nghiệpNanocatalysis technology | 2 | 30 |  |  | 
+Row 74: 59. | EPN3055 | Công nghệ chế tạo pin mặt trờiSolar cells technology | 2 | 30 |  |  | 
+Row 75: V.2.3 | Kiến thức định hướng chuyên sâu về Vật lýtính toán | 17 |  |  |  | 
+Row 76:  | Các học phần bắt buộc | 9 |  |  |  | 
+Row 77: 60. | EPN3007 | Các phương pháp lập trình trong vật lý nanoProgramming methodsin nanophysics | 3 | 23 | 22 |  | 
+Row 78: 61. | EPN3008 | Các phương pháp tính trong Vật lýComputational physics | 3 | 37 | 8 |  | EPN2029
+Row 79: 62. | EPN3033 | Thực tập chuyên đề Vật lý nano tính toán và lý thuyếtSpecialized practice in computational and theoretical nanophysics | 3 | 9 | 36 |  | EPN2014
+Row 80:  | Các học phần tự chọn | 8/12 |  |  |  | 
+Row 81: 63. | EPN3015 | Lý thuyết nhóm và biểu diễn nhómGroups theory and groups representation | 2 | 30 |  |  | EPN2015
+Row 82: 64. | EPN3014 | Lý thuyết lượng tử hệ nhiều hạtQuantum many body physics | 2 | 26 | 4 |  | EPN2015
+Row 83: 65. | EPN3018 | Quang phổ các vật liệu cấu trúc nanoNanostructured materials spectroscopy | 2 | 30 |  |  | EPN3017
+Row 84: 66. | EPN3019 | Quang tử học lý thuyếtTheoretical photonics | 2 | 28 | 2 |  | EPN2015
+Row 85: 67. | EPN3011 | Cấu trúc điện tử của các hệ nanoElectronic sructure of nanosystems | 2 | 30 |  |  | EPN2029
+Row 86: 68. | EPN3026 | Thực hành chuyên đề các phương pháp tínhSpecialized practice in computational methods | 2 | 9 | 21 |  | 
+Row 87: V.2.4 | Kiến thức định hướng chuyên sâu về Công nghệ nano sinh học | 17 |  |  |  | 
+Row 88:  | Các học phần bắt buộc | 9 |  |  |  | 
+Row 89: 69. | EPN3061 | Sinh học phân tửMolecular biology | 3 | 30 | 15 |  | EPN2053
+Row 90: 70. | EPN3056 | Công nghệ nano sinh họcBio-nanotechnology | 3 | 30 | 15 |  | EPN2053
+Row 91: 71. | EPN3027 | Thực hành các phương pháp thực nghiệm nano sinh họcSpecialized practice in nanobiology | 3 | 9 | 36 |  | EPN2053
+Row 92:  | Các học phần tự chọn | 8/14 |  |  |  | 
+Row 93: 72. | EPN3013 | Lý sinh họcBiophysics | 2 | 30 |  |  | EPN2053
+Row 94: 73. | EPN3005 | Các chip sinh họcBiochips | 2 | 30 |  |  | EPN2053
+Row 95: 74. | EPN3001 | Chẩn đoán phân tửMolecular diagnostics | 2 | 17 | 13 |  | EPN2053
+Row 96: 75. | EPN3002 | Công nghệ ADN tái tổ hợpRecombinant DNA technology | 2 | 30 |  |  | EPN2053
+Row 97: 76. | EPN3041 | Công nghệ sinh học phân tử nanoNano-molecular biotechnology | 2 | 22 | 8 |  | EPN2053
+Row 98: 77. | EPN3040 | Polyme dẫnConducting polymer | 2 | 26 | 4 |  | EPN2053
+Row 99: 78. | EPN3037 | Vật liệu nano sinh họcNano-biomaterials | 2 | 30 |  |  | EPN2053
+Row 100: V.3 | Kiến thức bổ trợ | 4/8 |  |  |  | 
+Row 101: 79. | PHY1105 | Vật lý hiện đạiModern Physics | 2 | 20 | 10 |  | PHY1100
+Row 102: 80. | ELT2028 | Chuyên nghiệp trong công nghệProfessional in technology | 2 | 30 |  |  | 
+Row 103: 81. | MAT1100 | Tối ưu hóaOptimization | 2 | 30 |  |  | MAT1093MAT1041
+Row 104: 82. | MNS1052 | Khoa học quản lý đại cươngFundamental of management | 2 | 20 | 10 |  | 
+Row 105: 83. | ELT2041 | Điện tử sốDigital electronics | 3 | 45 |  |  | PHY1103
+Row 106: 84. | ELT2030 | Kỹ thuật điệnElectrical engineering | 3 | 45 |  |  | PHY1103
+Row 107: V.4 | Khối kiến thức thực tập và khóa luận tốt nghiệp/các học phần thay thế khóa luận tốt nghiệp | 7 |  |  |  | 
+Row 108: 85. | EPN4051 | Khóa luận tốt nghiệpGraduation thesis | 7 |  |  |  | 
+Row 109:  | Các học phần thay thế khóa luận tốt nghiệp | 7 |  |  |  | 
+Row 110: 86. | EPN3042 | Niên luậnScientific report | 3 | 45 |  |  | 
+Row 111:  |  | 2 học phần chọn từ danh sách các học phần tự chọn của các định hướng chuyên sâuEquivalent courses (optional) | 4 |  |  |  | 
+Row 112: Tổng số | 134 |  |  |  | 
+
+Ghi chú:
+Học phần ngoại ngữ thuộc khối kiến thức chung được tính vào tổng số tín chỉ của chương trình đào tạo, nhưng kết quả đánh giá các học phần này không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy
+.

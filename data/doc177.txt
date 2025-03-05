@@ -1,0 +1,148 @@
+URL: https://uet.vnu.edu.vn/chuong-trinh-dao-tao-nganh-cong-nghe-ky-thuat-dien-tu-vien-thong-3/
+Title: Chương trình đào tạo ngành Công nghệ kỹ thuật điện tử – viễn thông - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology
+
+1. Tóm tắt yêu cầu chương trình đào tạo
+
+Tổng số tín chỉ của chương trình đào tạo
+(Chưa tính các học phần Giáo dục thể chất, Giáo dục quốc phòng-an ninh
+, Kỹ năng bổ trợ
+)
+: 1
+35 tín chỉ
+
+– Khối kiến thức chung: 26 tín chỉ
+
+– Khối kiến thức theo lĩnh vực: 19 tín chỉ
+
+– Khối kiến thức theo khối ngành: 10 tín chỉ
+
+– Khối kiến thức theo nhóm ngành: 31 tín chỉ
+
+– Khối kiến thức ngành: 49 tín chỉ
+
+Các học phần bắt buộc
+: 18
+tín chỉ
+Các học phần
+lựa chọn
+theo định hướng
+: 12/24
+tín chỉ
+Các học phần bổ trợ
+: 06
+tín chỉ
+Khối kiến thức thực tập và tốt nghiệp
+:
+1
+3
+tín chỉ
+
+2. Khung chương trình đào tạo
+
+Table 1:
+Row 1: STT | Mãhọc phần | Tên học phần | Số tín chỉ | Số giờ tín chỉ | Mã số học phần tiên quyết
+Row 2: Lý thuyết | Thực hành | Tự học
+Row 3: I | Khối kiến thức chung(Chưa tính các học phần Giáo dục thể chất, Giáo dục quốc phòng-an ninh, Kỹ năng bổ trợ) | 26 |  |  |  | 
+Row 4: 1 | PHI1006 | Triết học Mác – LêninMarxist-Leninist Philosophy | 3 | 30 | 15 |  | 
+Row 5: 2 | PEC1008 | Kinh tế chính trị Mác – LêninMarx-Lenin Political Economy | 2 | 20 | 10 |  | PHI1006
+Row 6: 3 | PHI1002 | Chủ nghĩa xã hội khoa họcScientific Socialism | 2 | 30 |  |  | 
+Row 7: 4 | HIS1001 | Lịch sử Đảng Cộng sản Việt NamRevolutionary Guidelines of Vietnam Communist Party | 2 | 20 | 10 |  | 
+Row 8: 5 | POL1001 | Tư tưởng Hồ Chí MinhHo Chi Minh’s Ideology | 2 | 20 | 10 |  | 
+Row 9: 6 | FLF1107 | Tiếng Anh B1English B1 | 5 | 20 | 35 | 20 | 
+Row 10: 7 | FLF1108 | Tiếng Anh B2English B2 | 5 | 20 | 35 | 20 | 
+Row 11: 8 | THL1057 | Nhà nước và pháp luật đại cương | 2 | 20 | 5 | 5 | 
+Row 12: 9 | INT1009 | Tin học cơ sởIntroduction to Informatics | 3 | 15 | 30 |  | 
+Row 13: 10 |  | Kỹ năng bổ trợSoft Skills | 3 |  |  |  | 
+Row 14: 11 |  | Giáo dục thể chấtPhysical Education | 4 |  |  |  | 
+Row 15: 12 |  | Giáo dục quốc phòng – an ninhNational Defence Education | 8 |  |  |  | 
+Row 16: II | Khối kiến theo lĩnh vực | 19 |  |  |  | 
+Row 17: 13 | MAT1093 | Đại sốAlgebra | 4 | 30 | 30 |  | 
+Row 18: 14 | MAT1041 | Giải tích 1Calculus 1 | 4 | 30 | 30 |  | 
+Row 19: 15 | MAT1042 | Giải tích 2Calculus 2 | 4 | 30 | 30 |  | MAT1041
+Row 20: 16 | EPN1095 | Vật lý đại cương 1General Physics1 | 2 | 30 |  |  | 
+Row 21: 17 | EPN1096 | Vật lý đại cương 2General Physics2 | 2 | 30 |  |  | EPN1095
+Row 22: 18 | INT1008 | Nhập môn lập trìnhIntroduction to Programming | 3 | 20 | 25 |  | 
+Row 23: III | Khối kiến thức theo khối ngành | 10 |  |  |  | 
+Row 24: 19 | ELT2035 | Tín hiệu và hệ thốngSignals and systems | 3 | 45 |  |  | MAT1041
+Row 25: 20 | INT2210 | Cấu trúc dữ liệu và giải thuậtData structure and algorithms | 4 | 45 | 15 |  | INT1008
+Row 26: 21 | MAT1101 | Xác suất thống kêProbability and Statistics | 3 | 30 | 15 |  | MAT1041
+Row 27: IV | Khối kiến thức theo nhóm ngành | 31 |  |  |  | 
+Row 28: 22 | ELT1007 | Nhập môn kỹ thuật công nghệIntroduction to Engineering and Technology | 2 | 15 | 15 |  | 
+Row 29: 23 | ELT2032 | Linh kiện điện tửElectronics Devices | 3 | 45 |  |  | 
+Row 30: 24 | ELT2030 | Kỹ thuật điệnElectrical Engineering | 3 | 45 |  |  | 
+Row 31: 25 | ELT2040 | Điện tử tương tựAnalog Electronics | 3 | 45 |  |  | ELT2030
+Row 32: 26 | ELT2041 | Điện tử sốDigital Electronics | 3 | 45 |  |  | 
+Row 33: 27 | ELT3102 | Thực tập điện tử tương tựAnalog Electronics Lab | 2 |  | 30 |  | ELT2040
+Row 34: 28 | ELT3103 | Thực tập điện tử sốDigital Electronics Lab | 2 |  | 30 |  | ELT2041
+Row 35: 29 | ELT3144 | Xử lý tín hiệu sốDigital Signal Processing | 4 | 45 | 15 |  | ELT2035
+Row 36: 30 | ELT3051 | Kỹ thuật điều khiểnControl Engineering | 3 | 45 |  |  | ELT2035
+Row 37: 31 | ELT3290 | Thiết kế số và vi xử lýDigital Design and Microprocessor | 3 | 30 | 15 |  | ELT2041
+Row 38: 32 | ELT3240 | Nhập môn hệ thống nhúngIntroduction to Embedded Systems | 3 | 30 | 15 |  | INT1008ELT2041
+Row 39: V | Khối kiến thức ngành | 49 |  |  |  | 
+Row 40: V.1 | Khối kiến thức ngành bắt buộc | 18 |  |  |  | 
+Row 41: 33 | ELT3043 | Truyền thôngCommunications | 3 | 45 |  |  | 
+Row 42: 34 | ELT2036 | Kỹ thuật điện từElectromagnetics Engineering | 3 | 45 |  |  | EPN1096
+Row 43: 35 | ELT3212 | Mạng truyền thông máy tính 1Computer Communications Networks 1 | 3 | 36 | 9 |  | 
+Row 44: 36 | ELT3057 | Truyền thông số và mã hóaDigital Communications and Coding Theory | 3 | 45 |  |  | ELT3043
+Row 45: 37 | AIT2004 | Cơ sở trí tuệ nhân tạoFoundations of Artificial Intelligence | 3 | 30 | 15 |  | INT2210
+Row 46: 38 | ELT3296 | Kỹ thuật lập trình nâng caoAdvanced Programming Techniques | 3 | 30 | 15 |  | INT1008
+Row 47: V.2 | Khối kiến thức ngành lựa chọn | 12 |  |  |  | 
+Row 48:  | Định hướng Truyền thông và Mạng | 12/24 |  |  |  | 
+Row 49: 39 | ELT3189 | Kỹ thuật antenAntenna Techniques | 3 | 45 |  |  | ELT2036
+Row 50: 40 | ELT3213 | Truyền thông quangOptical Communication | 3 | 36 | 9 |  | EPN1096
+Row 51: 41 | ELT3062 | Mạng truyền thông máy tính 2Computer Communications Networks 2 | 3 | 36 | 9 |  | ELT3212
+Row 52: 42 | ELT3247 | Truyền thông di độngMolile Communication | 3 | 45 |  |  | 
+Row 53: 43 | ELT3164 | Mạng điều khiển mềmSoftware Defined networks | 3 | 36 | 9 |  | ELT3212
+Row 54: 44 | ELT3244 | IoT và ứng dụngIoT and application | 3 | 36 | 9 |  | 
+Row 55: 45 | ELT3098 | Truyền thông vệ tinhSatellite Communication | 3 | 45 |  |  | 
+Row 56: 46 | ELT3231 | Kỹ thuật xử lý và truyền thông đa phương tiệnMultimedia Processing and Communications | 3 | 45 |  |  | 
+Row 57:  | Định hướng Xử lý tín hiệu và Điện tử y sinh | 12/24 |  |  |  | 
+Row 58: 47 | ELT3095 | Xử lý tín hiệu và tạo ảnh y -sinhSignal Processing and Bio-medical Imaging | 3 | 45 |  |  | ELT3144
+Row 59: 48 | ELT3105 | Mạch xử lý tín hiệu y sinhBiomedical signal processing circuits | 3 | 30 | 15 |  | 
+Row 60: 49 | ELT3099 | Các phương pháp xử lý tín hiệuSignal Processing Methods | 3 | 45 |  |  | ELT2035
+Row 61: 50 | ELT3087 | Thiết bị và phân tích tín hiệu y sinhBiomedical signal equipments and analysis | 3 | 45 |  |  | 
+Row 62: 51 | ELT3088 | MEMS sinh học và các thiết bị y-sinhBio-MEMS and BioMedical devices | 3 | 45 |  |  | ELT2040
+Row 63: 52 | ELT3246 | Lập trình DSPDSP Programming | 3 | 15 | 30 |  | INT1008ELT3144
+Row 64: 53 | ELT3096 | Cơ sở điện sinh họcBioelectromagnetism | 3 | 45 |  |  | 
+Row 65: 54 | ELT3207 | Cơ sở đo lường và điều khiển sốIntroduction to Measurement and Digital Control | 3 | 30 | 15 |  | ELT2041ELT3051
+Row 66:  | Định hướng chuyên sâu về Vi điện tử và hệ thống nhúng | 12/24 |  |  |  | 
+Row 67: 55 | ELT3293 | Công nghệ vi cơ điện tửMEMS Technology | 3 | 45 |  |  | 
+Row 68: 56 | ELT3205 | Kỹ thuật cảm biếnSensor Engineering | 3 | 30 | 15 |  | 
+Row 69: 57 | ELT3203 | Thiết kế mạch tích hợp tương tựAnalog integrated circuit design | 3 | 30 | 15 |  | ELT2040
+Row 70: 58 | ELT3202 | Thiết kế mạch tích hợp sốDigital integrated circuit design | 3 | 30 | 15 |  | ELT2041
+Row 71: 59 | ELT3291 | Thiết kế hệ thống nhúng trên chipSystem on Chip Design | 3 | 30 | 15 |  | ELT3240
+Row 72: 60 | ELT3244 | IoT và ứng dụngIoT and application | 3 | 36 | 9 |  | 
+Row 73: 61 | ELT3294 | Cơ sở chế tạo, đóng gói linh kiện vi điện tửFundamentals of microelectronic fabrication and packaging | 3 | 30 | 15 |  | 
+Row 74: 62 | AIT3017 | Thiết kế phần cứng cho học sâuHardware Design for Deep Learning | 3 | 30 | 15 |  | 
+Row 75:  | Định hướng chuyên sâu về IoT và các hệ thống thông minh | 12/24 |  |  |  | 
+Row 76: 63 | ELT3205 | Kỹ thuật cảm biếnSensor Engineering | 3 | 30 | 15 |  | 
+Row 77: 64 | ELT3207 | Cơ sở đo lường và điều khiển sốIntroduction to Measurement and Digital Control | 3 | 30 | 15 |  | ELT2041ELT3051
+Row 78: 65 | ELT3244 | IoT và ứng dụngIoT and application | 3 | 36 | 9 |  | 
+Row 79: 66 | ELT3097 | Lập trình cho thiết bị di độngProgramming for Mobile Devices | 3 | 30 | 15 |  | INT1008
+Row 80: 67 | ELT3077 | Hệ thống robot thông minhIntelligent Robot Systems | 3 | 36 | 9 |  | ELT3051
+Row 81: 68 | ELT3292 | Điều khiển logic và PLCLogic Control and PLC | 3 | 30 | 15 |  | ELT3051
+Row 82: 69 | ELT3047 | Kiến trúc máy tínhComputer Architecture | 3 | 45 |  |  | INT1008ELT3290
+Row 83: 70 | AIT3003 | Khai phá và phân tích dữ liệuData mining and analytics | 3 | 45 |  |  | MAT1101INT2210
+Row 84: V.3 | Khối kiến thức bổ trợ | 6/21 |  |  |  | 
+Row 85: 71 | UET1002 | Kỹ năng khởi nghiệpEntrepreneurship | 2 | 30 |  |  | 
+Row 86: 72 | INT3103 | Tối ưu hóaOptimization | 3 | 45 |  |  | INT1050
+Row 87: 73 | PSY1050 | Tâm lý học đại cươngGeneral Psychology | 2 | 26 |  | 4 | 
+Row 88: 74 | INE1050 | Kinh tế vi môMicro Economics | 3 | 30 | 10 | 5 | 
+Row 89: 75 | INE1051 | Kinh tế vĩ môMacro Economics | 3 | 30 | 10 | 5 | 
+Row 90: 76 | HIS1056 | Cơ sở văn hóa Việt NamFundamentals of Vietnamese Culture | 3 | 42 | 3 |  | 
+Row 91: 77 | HIS1053 | Lịch sử văn minh thế giớiHistory of World Civilization | 3 | 42 | 3 |  | 
+Row 92: V.4 | Khối kiến thức thực tập và tốt nghiệp | 13 |  |  |  | 
+Row 93: 78 | ELT3086 | Thực tập chuyên đềElectronics and Communication Practice | 3 |  | 45 |  | 
+Row 94: 79 | ELT4005 | Thực tập ngành Điện tử Viễn thôngElectronics and Communication Internship | 3 |  | 45 |  | 
+Row 95: 80 | ELT4053 | Khóa luận tốt nghiệpGraduation Thesis | 7 |  |  |  | 
+Row 96:  | Các học phần thay thế khóa luận tốt nghiệp |  |  |  |  | 
+Row 97: 81 | ELT4006 | Dự án ngành Điện tử Viễn thông (bắt buộc) | 4 |  |  | 60 | 
+Row 98: 82 |  | 3 tín chỉ từ danh sách các học phần tự chọn theo các định hướng mà sinh viên chưa học | 3 |  |  |  | 
+Row 99: Tổng cộng | 135 |  |  |  | 
+
+Ghi chú:
+
+Học phần Tiếng Anh B1, Tiếng Anh B2 thuộc khối kiến thức chung, được tính vào tổng số tín chỉ của chương trình đào tạo, kết quả đánh giá các học phần này được tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy
+Học phần Kỹ năng bổ trợ, Giáo dục thể chất, Giáo dục quốc phòng – an ninh, không được tính vào tổng số tín chỉ của chương trình đào tạo, không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy, nhưng là điều kiện để xét tốt nghiệp.
+01 giờ tín chỉ thực hành tương ứng với 02 giờ thực tế trên lớp
+.

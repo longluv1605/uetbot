@@ -1,0 +1,157 @@
+URL: https://uet.vnu.edu.vn/chuong-trinh-dao-tao-nganh-cong-nghe-ky-thuat-dien-tu-truyen-thong-clc-tt23-3/
+Title: Chương trình đào tạo ngành Công nghệ kỹ thuật điện tử - truyền thông (CLC TT23) - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology
+
+1. Tóm tắt yêu cầu chương trình đào tạo
+
+Tổng số tín chỉ của chương trình đào tạo:                       15
+4
+tín chỉ
+
+–    Khối kiến thức chung:                                                 34 tín chỉ
+
+(chưa tính Giáo dục thể chất, Giáo dục quốc phòng-an ninh, Kĩ năng bổ trợ)
+
+–    Khối kiến thức theo lĩnh vực:                                       18 tín chỉ
+
++ Bắt buộc: 18 tín chỉ
+
++ Tự chọn: 0 tín chỉ
+
+–    Khối kiến thức theo khối ngành (CNTT, ĐTTT):          9 tín chỉ
+
++ Bắt buộc: 6 tín chỉ
+
++ Tự chọn: 3 tín chỉ/6 tín chỉ
+
+–    Khối kiến thức theo nhóm ngành:                                30 tín chỉ
+
++ Bắt buộc: 30 tín chỉ
+
+–    Khối kiến thức ngành                                                  63 tín chỉ
+
++ Bắt buộc: 12 tín chỉ
+
++ Theo định hướng bắt buộc: 12 tín chỉ /15 tín chỉ
+
++ Tự chọn: 12 tín chỉ/30 tín chỉ
+
++ Bổ trợ: 10 tín chỉ/33 tín chỉ
+
++ Khối kiến thức thực tập và tốt nghiệp: 17 tín chỉ
+
+2. Khung chương trình đào tạo
+
+Table 1:
+Row 1: SốTT | Mãhọc phần | Tên học phần | Số tín chỉ | Số giờ tín chỉ | Mã số học phần tiên quyết
+Row 2: Lý thuyết | Thực hành | Tự học
+Row 3: I |  | Khối kiến thức chung(chưa tính Giáo dục thể chất, Giáo dục quốc phòng-an ninh, Kĩ năng bổ trợ) | 34 |  |  |  | 
+Row 4: 1 | PHI1004 | Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin 1Fundamental principles  of Marxism-Leninism 1 | 2 | 24 | 6 |  | 
+Row 5: 2 | PHI1005 | Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin 2Fundamental  principles of Marxism-Leninism 2 | 3 | 36 | 9 |  | PHI1004
+Row 6: 3 | POL1001 | Tư tưởng Hồ Chí MinhHo Chi Minh Ideology | 2 | 20 | 10 |  | PHI1005
+Row 7: 4 | HIS1002 | Đường lối cách mạng của Đảng Cộng sản Việt NamThe revolutionary  Line of the Communist Party of Vietnam | 3 | 42 | 3 |  | PHI1005
+Row 8: 5 | INT1003 | Tin học cơ sở 1Introduction to IT 1 | 2 | 10 | 20 |  | 
+Row 9: 6 | INT1006 | Tin học cơ sở 4Introduction to IT 4 | 3 | 20 | 23 | 2 | INT1003
+Row 10: 7 | FLF2101 | Tiếng Anh cơ sở 1General English 1 | 4 | 16 | 40 | 4 | 
+Row 11: 8 | FLF2102 | Tiếng Anh cơ sở 2General English 2 | 5 | 20 | 50 | 5 | FLF2101
+Row 12: 9 | FLF2103 | Tiếng Anh cơ sở 3General English 3 | 5 | 20 | 50 | 5 | FLF2102
+Row 13: 10 | FLF2104 | Tiếng Anh cơ sở 4General English 4 | 5 | 20 | 50 | 5 | FLF2103
+Row 14: 11 |  | Giáo dục thể chất 1Physical Education 1 | 4 |  |  |  | 
+Row 15: 12 |  | Giáo dục quốc phòng – an ninh 1Homeland Defense and Security Education1 | 8 |  |  |  | 
+Row 16: 13 |  | Kỹ năng bổ trợSoft Skills | 3 |  |  |  | 
+Row 17: II |  | Khối kiến theo lĩnh vực | 18 |  |  |  | 
+Row 18: 14 | MAT1093 | Đại sốAlgebra | 4 | 45 | 15 |  | 
+Row 19: 15 | MAT1041 | Giải tích 1Calculus 1 | 4 | 45 | 15 |  | 
+Row 20: 16 | MAT1042 | Giải tích 2Calculus 2 | 4 | 45 | 15 |  | MAT1094
+Row 21: 17 | PHY1100 | Cơ – NhiệtMechanical and Heat | 3 | 32 | 10 | 3 | 
+Row 22: 18 | PHY1103 | Điện – QuangElectricity and Optics | 3 | 32 | 10 | 3 | PHY1100
+Row 23: III |  | Khối kiến thức theo khối ngành(Công nghệ Thông tin và Công nghệ kĩ thuật Điện tử, Truyền thông) | 9/12 |  |  |  | 
+Row 24: 19 | ELT2035 | Tín hiệu và hệ thốngSignals and systems | 3 | 45 |  |  | MAT1093
+Row 25: 20 | INT2043 | Cấu trúc dữ liệu và giải thuậtData structure and algorithms | 3 | 30 | 15 |  | INT1006
+Row 26:  | Chọn thêm 1 trong 2 học phần sau |  |  |  |  | 
+Row 27: 21 | ELT2029 | Toán trong Công nghệEngineering Mathematics | 3 | 45 |  |  | MAT1093
+Row 28: 22 | MAT1101 | Xác suất thống kêProbability and Statistics | 3 | 45 |  |  | MAT1041
+Row 29: IV |  | Khối kiến thức theo nhóm ngành(Công nghệ kĩ thuật Điện tử, Truyền thông) | 30 |  |  |  | 
+Row 30: 23 | MAT1099 | Phương pháp tínhCalculus Methods | 3 | 45 |  |  | 
+Row 31: 24                             + | ELT2028 | Chuyên nghiệp trong Công nghệProfessional in Technology | 2 | 30 |  |  | 
+Row 32: 25 | ELT2030 | Kỹ thuật điện *Electrical Engineering | 3 | 45 |  |  | PHY1103
+Row 33: 26 | ELT2031 | Mô hình hóa và mô phỏng *Modeling and Simulation | 2 | 20 | 10 |  | INT1006
+Row 34: 27 | ELT2032 | Linh kiện điện tử *Electronics Devices | 3 | 45 |  |  | PHY1103
+Row 35: 28 | ELT2040 | Điện tử tương tự *Analog Electronics | 3 | 45 |  |  | PHY1103
+Row 36: 29 | ELT2041 | Điện tử số *Digital Electronics | 3 | 45 |  |  | PHY1103
+Row 37: 30 | ELT2036 | Kỹ thuật điện từElectromagnetics Engineering | 3 | 45 |  |  | MAT1093
+Row 38: 31 | ELT3144 | Xử lý tín hiệu số *Digital Signal Processing | 4 | 45 | 15 |  | MAT1093
+Row 39: 32 | ELT 3102 | Thực tập điện tử tương tựAnalog Electronic Engineering Practice | 2 |  | 30 |  | ELT2040
+Row 40: 33 | ELT 3103 | Thực tập điện tử sốDigital Electronic Engineering Practice | 2 |  | 30 |  | ELT2041
+Row 41: V |  | Khối kiến thức ngành | 63 |  |  |  | 
+Row 42: V.1 |  | Khối kiến thức ngành bắt buộc | 12 |  |  |  | 
+Row 43: 34 | ELT3043 | Truyền thông *Communications | 3 | 45 |  |  | 
+Row 44: 35 | ELT3046 | Mạng truyền thông máy tính 1 *Computer Communications Networks 1 | 3 | 30 | 15 |  | ELT2030
+Row 45: 36 | ELT3047 | Kiến trúc máy tính *Computer Architecture | 3 | 45 |  |  | INT1006
+Row 46: 37 | ELT3051 | Kỹ thuật điều khiển *Control Engineering | 3 | 45 |  |  | ELT2030
+Row 47: V.2 |  | Khối kiến thức ngành theo định hướng bắt buộc | 12/15 |  |  |  | 
+Row 48: V.2.1 | Chuyên ngành truyền thông | 12/15 | 
+Row 49: 38 | ELT3067 | Truyền thông quangOptical Communication | 3 | 45 |  |  | PHY1103
+Row 50: 39 | ELT3056 | Truyền thông vô tuyến *Wireless Communications | 3 | 45 |  |  | ELT2035/ ELT3043
+Row 51: 40 | ELT3062 | Mạng truyền thông máy tính 2 *Computer Communications Networks 2 | 3 | 45 |  |  | ELT2030
+Row 52: 41 | ELT3098 | Truyền thông vệ tinhSatellite Communication | 3 | 45 |  |  | 
+Row 53: 42 | ELT3057 | Truyền thông số và mã hóaDigital Communications and Coding Theory | 3 | 45 |  |  | ELT2035/ ELT3043
+Row 54: V.2.2 | Chuyên ngành mạng | 12/15 | 
+Row 55: 43 | ELT3163 | Mạng truyền thông di độngMobile Communication Systems | 3 | 45 |  |  | 
+Row 56: 44 | ELT3062 | Mạng truyền thông máy tính 2 *Computer Communications Networks 2 | 3 | 45 |  |  | ELT2030
+Row 57: 45 | ELT3057 | Truyền thông số và mã hóaDigital Communications and Coding Theory | 3 | 45 |  |  | ELT2035/ ELT3043
+Row 58: 46 | ELT3056 | Truyền thông vô tuyếnWireless Communications | 3 | 45 |  |  | ELT2035/ ELT3043
+Row 59: 47 | ELT3168 | Quản trị mạng viễn thông *Communication Network Administrator | 3 | 45 |  |  | ELT3046
+Row 60: V.2.3 | Chuyên ngành kỹ thuật máy tính | 12/15 | 
+Row 61: 48 | ELT3097 | Lập trình cho thiết bị di độngProgramming for Mobile Devices | 3 | 30 | 15 |  | INT1006
+Row 62: 49 | ELT3048 | Hệ thống vi xử lý *Microprocessors | 3 | 30 | 15 |  | ELT2030
+Row 63: 50 | ELT3069 | Thiết kế hệ thống máy tính nhúngEmbedded Computing System Design | 3 | 30 | 15 |  | ELT2041/ELT3047
+Row 64: 51 | ELT3104 | Lập trình và ghép nối máy tínhProgramming for Computer Interfaces | 3 | 30 | 15 |  | INT1006
+Row 65: 52 | ELT3077 | Hệ thống robot thông minhIntelligent Robot Systems | 3 | 45 |  |  | ELT3051
+Row 66: V.2.4 | Chuyên ngành Điều khiển và tự động hóa | 12/15 | 
+Row 67: 53 | ELT3071 | Hệ thống nhúng thời gian thực *Real-time Embedded Systems | 3 | 45 |  |  | ELT2041/ELT3047
+Row 68: 54 | ELT3049 | Hệ thống điều khiển số *Digital Control System | 3 | 45 |  |  | ELT2030
+Row 69: 55 | ELT3097 | Lập trình cho thiết bị di động *Programming for Mobile Devices | 3 | 30 | 15 |  | INT1006
+Row 70: 56 | ELT3048 | Hệ thống vi xử lý *Microprocessors | 3 | 30 | 15 |  | ELT2030
+Row 71: 57 | ELT3077 | Hệ thống robot thông minhIntelligent Robot Systems | 3 | 45 |  |  | ELT3047/ELT3049
+Row 72: V.2.5 | Chuyên ngành điện tử y – sinh | 12/15 | 
+Row 73: 58 | ELT3095 | Xử lý tín hiệu và tạo ảnh y-sinhSignal Processing and Bio-medical Imaging | 3 | 45 |  |  | ELT2035
+Row 74: 59 | ELT3105 | Mạch xử lý tín hiệu y sinhBiomedical signal processing circuits | 3 | 30 | 15 |  | 
+Row 75: 60 | ELT3096 | Cơ sở điện sinh học *Bioelectromagnetism | 3 | 45 |  |  | 
+Row 76: 61 | ELT3106 | Giải phẫu và sinh lý họcAnatomy and physiology | 3 | 45 |  |  | 
+Row 77: 62 | ELT3087 | Thiết bị và phân tích tín hiệu y-sinhBiomedical signal  equipments and analysis | 3 | 45 |  |  | 
+Row 78: V.2.6 | Chuyên ngành vi điện tử | 12/15 | 
+Row 79: 63 | ELT3048 | Hệ thống vi xử lý *Microprocessors | 3 | 30 | 15 |  | ELT2030
+Row 80: 64 | ELT3097 | Lập trình cho thiết bị di động *Programming for Mobile Devices | 3 | 30 | 15 |  | INT1006
+Row 81: 65 | ELT3107 | Nhập môn công nghệ vi cơ điện tửIntroduction to MEMS | 3 | 45 |  |  | 
+Row 82: 66 | ELT3108 | Nhập môn thiết kế mạch tích hợp tương tựIntroduction to analog integrated circuit design | 3 | 45 |  |  | ELT2040
+Row 83: 67 | ELT3109 | Nhập môn thiết kế mạch tích hợp sốIntroduction to digital integrated circuit design | 3 | 45 |  |  | ELT2041
+Row 84: V.3 |  | Khối kiến thức ngành tự chọn | 12/30 |  |  |  | 
+Row 85: 68 | ELT3094 | Nhập môn Xử lý tín hiệu cho hệ thống đa phương tiệnIntroduction to Signal Processing for Multimedia Systems | 3 | 45 |  |  | ELT2035
+Row 86: 69 | ELT3045 | Nhập môn hệ thống và mạch cao tầnIntroduction to High Frequency Circuits and Systems | 3 | 45 |  |  | ELT2030
+Row 87: 70 | ELT3060 | Kỹ thuật cao tầnHF Techniques | 3 | 45 |  |  | ELT2030/ ELT3045
+Row 88: 71 | ELT3189 | Kỹ thuật antenAntenna Techniques | 3 | 45 |  |  | ELT2036
+Row 89: 72 | ELT3075 | Hệ thống điều khiển nâng caoAdvanced control system | 3 | 45 |  |  | ELT3047/ ELT3049
+Row 90: 73 | ELT3099 | Các phương pháp xử lý tín hiệuSignal Processing Methods | 3 | 45 |  |  | ELT2035
+Row 91: 74 | ELT3110 | Quang điện tửOptoelectronics | 3 | 45 |  |  | ELT2030/ELT3032
+Row 92: 75 | ELT3088 | MEMS sinh học và các thiết bị y-sinhBio-MEMS and BioMedical devices | 3 | 45 |  |  | ELT2040
+Row 93: 76 | ELT3073 | Thiết kế và mô phỏng hệ thống điều khiểnDesign and Simulation of control systems | 3 | 45 |  |  | ELT3047/ ELT3049
+Row 94: 77 | ELT3111 | Hệ thống logic mờFuzzy logic system | 3 | 45 |  |  | 
+Row 95: V.4 |  | Các học phần lựa chọn bổ trợ | 10/33 |  |  |  | 
+Row 96: 78 | INT2202 | Lập trình nâng caoAdvanced Programming | 3 | 30 | 15 |  | INT1006
+Row 97: 79 | PHY1105 | Vật lý hiện đạiModern Physics | 2 | 30 |  |  | 
+Row 98: 80 | MAT1100 | Tối ưu hóaOptimization | 2 | 30 |  |  | MAT1093MAT1094
+Row 99: 81 | SPY1050 | Tâm lý học đại cươngGeneral Psychology | 2 | 26 |  | 4 | 
+Row 100: 82 | MNS1052 | Khoa học quản lý đại cươngIntroduction to Management Science | 2 | 20 | 10 |  | 
+Row 101: 83 | THL1057 | Nhà nước và pháp luật đại cươngState and Law | 2 | 30 |  |  | 
+Row 102: 84 | INE1050 | Kinh tế vi môMicro Economics | 3 | 30 | 10 | 5 | 
+Row 103: 85 | INE1051 | Kinh tế vĩ môMacro Economics | 3 | 30 | 10 | 5 | 
+Row 104: 86 | BSA2002 | Nguyên lý marketingPrinciples Of Marketing | 3 | 21 | 23 | 1 | 
+Row 105: 87 | INT2207 | Cơ sở dữ liệuDatabase | 3 | 30 | 15 |  | INT1006
+Row 106: 88 | INT2206 | Nguyên lý hệ điều hànhPrinciples of Operating Systems | 3 | 45 |  |  | INT1006
+Row 107: V.5 |  | Khối kiến thức thực tập và tốt nghiệp | 17 |  |  |  | 
+Row 108: 89 | ELT2037 | Thực tập thiết kế hệ thốngSystem Design Project | 4 | 12 | 48 |  | 
+Row 109: 90 | ELT3086 | Thực tập chuyên đềElectronics and Communication Practice | 3 |  | 45 |  | 
+Row 110: 91 | ELT4053 | Khóa luận tốt nghiệpGraduation Thesis | 10 |  |  |  | 
+Row 111:  | Tổng cộng | 154 |  |  |  | 
+
+Ghi chú: Những môn đánh dấu (*) được giảng dạy bằng tiếng Anh

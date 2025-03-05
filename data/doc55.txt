@@ -1,0 +1,110 @@
+URL: https://uet.vnu.edu.vn/chuong-trinh-dao-tao-nganh-ky-thuat-may-tinh-7/
+Title: Chương trình đào tạo ngành Kỹ thuật máy tính - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology
+
+1. Tóm tắt yêu cầu chương trình đào tạo
+
+Table 1:
+Row 1: Tổng số tín chỉ của chương trình đào tạo:155tín chỉ
+Row 2:  | Khối kiến thức chung(Chưatính GDTC,GDQP-AN  vàkỹ năngbổ trợ) | 29 tín chỉ
+Row 3:  | Khối kiến thứctheolĩnh vực(Lĩnh vực kĩ thuật công nghệ) | 16tín chỉ
+Row 4:  | Khối kiến thứctheokhối ngành(Khối ngành CNTT & ĐTVT) | 9 tín chỉ
+Row 5: Các học phầnbắt buộc | 6
+Row 6: Các học phần tự chọn | 3/6
+Row 7:  | Khối kiến thứctheonhóm ngành | 38tín chỉ
+Row 8:  | Các học phầnbắt buộc | 32
+Row 9:  | Các học phần tự chọn | 6/12
+Row 10:  | Khối kiến thức ngành | 63tín chỉ
+Row 11: Các học phần bắt buộc | 29
+Row 12: Các học phần tự chọn | 18/33
+Row 13: Các học phần lựa chọn bổ trợ | 6/20
+Row 14:  | Đồ án tốt nghiệp | 10
+
+2. Khung chương trình đào tạo
+
+Table 2:
+Row 1: SốTT | Mãsố | Học phần | Số tín chỉ | Sốgiờ tín chỉ | Mã Học phầntiên quyết
+Row 2: Lý thuyết | Thực hành | Tự học
+Row 3: I | Khối kiến thức chung(không tính các Học phần từ 10-12) | 29 |  |  |  | 
+Row 4: 1 | PHI1004 | Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin 1Fundamental principles  of Marxism-Leninism 1 | 2 | 24 | 6 |  | 
+Row 5: 2 | PHI1005 | Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin 2Fundamental  principles of Marxism-Leninism 2 | 3 | 36 | 9 |  | PHI1004
+Row 6: 3 | POL1001 | Tư tưởng Hồ Chí MinhHo Chi Minh Ideology | 2 | 20 | 10 |  | PHI1005
+Row 7: 4 | HIS1002 | Đường lối cách mạng của Đảng Cộng sản Việt NamThe revolutionary  Line of the Communist Party of Vietnam | 3 | 42 | 3 |  | PHI1005
+Row 8: 5 | INT1003 | Tin học cơ sở 1Introduction to IT 1 | 2 | 10 | 20 |  | 
+Row 9: 6 | INT1006 | Tin học cơ sở 4Introduction to IT 4 | 3 | 20 | 23 | 2 | INT1003
+Row 10: 7 | FLF2101 | Tiếng Anh cơ sở 1General English 1 | 4 | 16 | 40 | 4 | 
+Row 11: 8 | FLF2102 | Tiếng Anh cơ sở 2General English 2 | 5 | 20 | 50 | 5 | FLF2101
+Row 12: 9 | FLF2103 | Tiếng Anh cơ sở 3General English 3 | 5 | 20 | 50 | 5 | FLF2102
+Row 13: 10 |  | Giáo dục thể chấtPhysical Education | 4 |  |  |  | 
+Row 14: 11 |  | Giáo dục quốc phòng – an ninhNational Defence Education | 8 |  |  |  | 
+Row 15: 12 |  | Kỹ năng bổ trợSoft Skills | 3 |  |  |  | 
+Row 16: II | Khối kiến thức theo lĩnh vực | 16 |  |  |  | 
+Row 17: 13 | MAT1093 | Đại sốAlgebra | 4 | 45 | 15 |  | 
+Row 18: 14 | MAT1041 | Giải tích 1Calculus 1 | 4 | 45 | 15 |  | 
+Row 19: 15 | MAT1042 | Giải tích 2Calculus 2 | 4 | 45 | 15 |  | MAT1041
+Row 20: 16 | EPN1095 | Vật lý đại cương 1General Physics 1 | 2 | 30 |  |  | 
+Row 21: 17 | EPN1096 | Vật lý đại cương 2General Physics  2 | 2 | 30 |  |  | 
+Row 22: III | Khối kiến thứctheokhối ngành(Công nghệ Thông tin và Công nghệ Điện tử – Viễn thông) | 9 |  |  |  | 
+Row 23: III.1 | Các học phần bắt buộc | 6 |  |  |  | 
+Row 24: 18 | ELT2035 | Tín hiệu và hệ thốngSignals and systems | 3 | 45 |  |  | MAT1093
+Row 25: 19 | INT2203 | Cấu trúc dữ liệu và giải thuậtData structure and algorithms | 3 | 30 | 15 |  | INT1006
+Row 26: III.2 | Các học phần tự chọn | 3/6 |  |  |  | 
+Row 27: 20 | ELT2029 | Toán trong Công nghệEngineering Mathematics | 3 | 45 |  |  | MAT1093
+Row 28: 21 | MAT1101 | Xác suất thống kêProbability and Statistics | 3 | 45 |  |  | MAT1041
+Row 29: IV | Khối kiến thứctheonhóm ngành | 38 |  |  |  | 
+Row 30: IV.1 | Các học phần bắt buộc | 32 |  |  |  | 
+Row 31: 22 | INT2290 | Lập trìnhProgramming | 3 | 30 | 15 |  | INT1006
+Row 32: 23 | INT2209 | Mạng máy tínhComputer Networks | 3 | 30 | 15 |  | INT1006
+Row 33: 24 | INT2206 | Nguyên lý hệ điều hànhPrinciples of Operating Sysstems | 3 | 45 |  |  | INT1006
+Row 34: 25 | ELT2032 | Linh kiện điện tửElectronics Devices | 3 | 45 |  |  | 
+Row 35: 26 | ELT2030 | Kỹ thuật điệnElectrical Engineering | 3 | 45 |  |  | 
+Row 36: 27 | ELT2040 | Điện tử tương tựAnalog Electronics | 3 | 45 |  |  | 
+Row 37: 28 | ELT2041 | Điện tử sốDigital Electronics | 3 | 45 |  |  | 
+Row 38: 29 | INT2291 | Nhập môn công nghệ phần mềmIntroduction to Software Engineering | 3 | 30 | 15 |  | INT1006
+Row 39: 30 | ELT3144 | Xử lý tín hiệu sốDigital Signal Processing | 4 | 45 | 15 |  | MAT1093
+Row 40: 31 | ELT3102 | Thực tập điện tử tương tựAnalog Electronic Engineering Practice | 2 |  | 30 |  | ELT2040
+Row 41: 32 | ELT3103 | Thực tập điện tử sốDigital Electronic Engineering Practice | 2 |  | 30 |  | ELT2041
+Row 42: IV.2 | Các học phầntự chọn | 6/12 |  |  |  | 
+Row 43: 33 | INT2292 | Cấu trúc rời rạcDiscrete Structure | 3 | 30 | 15 |  | 
+Row 44: 34 | INT2204 | Lập trình hướng đối tượngObject-Oriented Programming | 3 | 30 | 15 |  | INT1006
+Row 45: 35 | INT2044 | Lý thuyết thông tinInformation Theory | 3 | 45 |  |  | MAT1101
+Row 46: 36 | INT2207 | Cơ sở dữ liệuDatabase | 3 | 30 | 15 |  | INT1006
+Row 47: V | Khối kiến thức ngành | 63 |  |  |  | 
+Row 48: V.1 | Các học phần bắt buộc | 29 |  |  |  | 
+Row 49: 37 | ELT3047 | Kiến trúc máy tínhComputer Architecture | 3 | 45 |  |  | INT1006
+Row 50: 38 | ELT3048 | Hệ thống vi xử lýMicroprocessors | 3 | 30 | 15 |  | ELT2030
+Row 51: 39 | ELT3051 | Kỹ thuật điều khiểnControl Engineering | 3 | 45 |  |  | ELT2035
+Row 52: 40 | ELT3240 | Nhập môn hệ thống nhúngIntroduction to Embedded Systems | 3 | 30 | 15 |  | INT2207
+Row 53: 41 | ELT3207 | Cơ sở đo lường và điều khiển sốIntroduction toMeasurement andDigital Control | 3 | 30 | 15 |  | 
+Row 54: 42 | INT3217 | Lập trình hệ thốngSystem Programing | 3 | 30 | 15 |  | INT2207
+Row 55: 43 | ELT3057 | Truyền thông số và mã hóaDigital Communications and Coding Theory | 3 | 45 |  |  | ELT2035
+Row 56: 44 | INT3404 | Xử lý ảnhImage Processing | 3 | 45 |  |  | INT2203
+Row 57: 45 | ELT3241 | Các vấn đề hiện đại của Kỹ thuật Máy tínhAdvanced Topics in Computer Engineering | 2 | 15 |  | 15 | 
+Row 58: 46 | ELT3242 | Thực tập ngành Kỹ thuật máy tínhComputer Engineering Practice | 3 |  | 45 |  | 
+Row 59: V.2 | Các học phần tự chọn | 18/33 |  |  |  | 
+Row 60: 47 | ELT3202 | Thiết kế mạch tích hợp sốDigital Integrated Circuit Design | 3 | 30 | 15 |  | 
+Row 61: 48 | ELT3203 | Thiết kế mạch tích hợp tương tựAnalog Integrated Circuit Design | 3 | 30 | 15 |  | 
+Row 62: 49 | ELT3206 | Quản trị mạng máy tínhComputer Network Administrator | 3 | 30 | 15 |  | 
+Row 63: 50 | INT3120 | Phát triển ứng dụng di độngMobile Application Development | 3 | 30 | 15 |  | INT1006
+Row 64: 51 | ELT3205 | Kỹ thuật cảm biếnSensor Engineering | 3 | 30 | 15 |  | 
+Row 65: 52 | INT3402 | Chương trình dịchCompiler | 3 | 45 |  |  | INT2203
+Row 66: 53 | ELT3211 | MEMS sinh học và các vi thiết bị y sinhBio-MEMS and BioMedical devices | 3 | 30 | 15 |  | ELT2033
+Row 67: 54 | ELT3077 | Hệ thống robot thông minhIntelligent Robot Systems | 3 | 45 |  |  | ELT3051
+Row 68: 55 | INT3405 | Học máyMachine Learning | 3 | 45 |  |  | MAT1101
+Row 69: 56 | ELT3231 | Kỹ thuật xử lý và Truyền thông Đa phương tiệnMultimedia Processing and Communications | 3 | 30 | 15 |  | 
+Row 70: 57 | INT3412 | Thị giác máyComputer Vision | 3 | 45 |  |  | INT2203
+Row 71: V.3 | Cáchọc phầnlựa chọnbổ trợ | 6/20 |  |  |  | 
+Row 72: 58 | PSY1050 | Tâm lý học đại cươngGeneral Psychology | 2 | 26 |  | 4 | 
+Row 73: 59 | ELT2028 | Chuyên nghiệp trong công nghệProfessional in Technology | 2 | 30 |  |  | 
+Row 74: 60 | MNS1052 | Khoa học quản lý đại cươngIntroduction to Management Science | 2 | 20 | 10 |  | 
+Row 75: 61 | THL1057 | Nhà nước và pháp luật đại cươngState and Law | 2 | 30 |  |  | 
+Row 76: 62 | INE1150 | Kinh tế vi mô 1Micro Economics | 3 | 30 | 10 | 5 | 
+Row 77: 63 | INE1151 | Kinh tế vĩ mô 1Macro Economics | 3 | 30 | 10 | 5 | 
+Row 78: 64 | HIS1053 | Lịch sử văn minh thế giớiHistory of World Civilization | 3 | 42 | 3 |  | 
+Row 79: 65 | HIS1056 | Cơ sở văn hóa Việt NamFundamentals of Vietnamese Culture | 3 | 42 | 3 |  | 
+Row 80: V.4 | Đồántốt nghiệp | 10 |  |  |  | 
+Row 81: 66 | ELT4068 | Đồ án tốt nghiệpThesis | 10 |  |  | 150 | 
+Row 82:  | Tổng cộng | 155 |  |  |  | 
+
+Ghi chú:
+Học phần ngoại ngữ thuộc khối kiến thức chung được tính vào tổng số tín chỉ của chương trình đào tạo, nhưng kết quả đánh giá các học phần này không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy
+.

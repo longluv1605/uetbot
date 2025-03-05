@@ -1,0 +1,120 @@
+URL: https://uet.vnu.edu.vn/chuong-trinh-dao-tao-nganh-cong-nghe-nong-nghiep-3/
+Title: Chương trình đào tạo ngành Công nghệ nông nghiệp - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology
+
+1. Tóm tắt yêu cầu chương trình đào tạo
+
+Table 1:
+Row 1: Tổng số tín chỉ của chương trình đào tạo: 151tín chỉ
+Row 2: (Chưa tính các học phầnGiáo dục thể chất, Giáo dục quốc phòng – an ninh)
+Row 3: – Khối kiến thức chung: | 16 tín chỉ
+Row 4: – Khối kiến thức theo lĩnh vực: | 22tín chỉ
+Row 5: –Khối kiến thứctheokhối ngành: | 9tín chỉ
+Row 6: –Khối kiến thứctheonhóm ngành: | 36tín chỉ
+Row 7: + Các học phầnbắt buộc: | 24 tín chỉ
+Row 8: + Các học phần tự chọn: | 12/34 tín chỉ
+Row 9: –Khối kiến thức ngành: | 68tín chỉ
+Row 10: +Bắt buộccủa ngành: | 22 tín chỉ
+Row 11: +Bắt buộc theo định hướng chuyên sâu: | 15 tín chỉ
+Row 12: +Tự chọncủa ngành: | 12/30 tín chỉ
+Row 13: +Tự chọn bổ trợ: | 6/16 tín chỉ
+Row 14: + Thực tập và Tốt nghiệp: | 13 tín chỉ
+
+2. Khung chương trình đào tạo
+
+Table 2:
+Row 1: SốTT | Mãsố | Học phần | Số tín chỉ | Sốgiờ tín chỉ | Mã học phầntiên quyết
+Row 2: Lý thuyết | Thực hành | Tự học
+Row 3: I | Khối kiến thức chung(chưatính các học phầnGiáo dục thể chất, Giáo dục quốc phòng – an ninh) | 16 |  |  |  | 
+Row 4: 1. | PHI1006 | Triết học Mác – LêninMarxist-Leninist Philosophy | 3 | 30 | 15 |  | 
+Row 5: 2. | PEC1008 | Kinh tế chính trị Mác – LêninMarx-Lenin Political Economy | 2 | 20 | 10 |  | PHI1006
+Row 6: 3. | PHI1002 | Chủ nghĩa xã hội khoa họcScientific Socialism | 2 | 30 |  |  | 
+Row 7: 4. | HIS1001 | Lịch sử Đảng Cộng sản Việt NamRevolutionary Guidelines of Vietnam Communist Party | 2 | 20 | 10 |  | 
+Row 8: 5. | POL1001 | Tư tưởng Hồ Chí MinhHo Chi Minh’s Ideology | 2 | 20 | 10 |  | 
+Row 9: 6. | FLF1107 | Tiếng Anh B1English B1 | 5 | 20 | 35 | 20 | 
+Row 10: 7. |  | Giáo dục thể chấtPhysical Education | 4 |  |  |  | 
+Row 11: 8. |  | Giáo dục quốc phòng – an ninhNational Defence Education | 8 |  |  |  | 
+Row 12: II | Khối kiến thức theo lĩnh vực | 22 |  |  |  | 
+Row 13: 9. | MAT1093 | Đại sốAlgebra | 4 | 30 | 30 |  | 
+Row 14: 10. | MAT1041 | Giải tích 1Calculus 1 | 4 | 30 | 30 |  | 
+Row 15: 11. | MAT1042 | Giải tích 2Calculus 2 | 4 | 30 | 30 |  | MAT1041
+Row 16: 12. | EPN1095 | Vật lý đại cương 1General Physics 1 | 2 | 30 |  |  | 
+Row 17: 13. | EPN1096 | Vật lý đại cương 2General Physics 2 | 2 | 30 |  |  | EPN1095
+Row 18: 14. | INT1007 | Giới thiệu về Công nghệ thông tinIntroduction to Information Technology | 3 | 15 | 30 |  | 
+Row 19: 15. | INT1008 | Nhập môn lập trìnhIntroduction to Programming | 3 | 20 | 25 |  | 
+Row 20: III | Khối kiến thức theo khối ngành | 9 |  |  |  | 
+Row 21: 16. | AGT2000 | Nhập môn Công nghệ Nông nghiệpIntroduction to Agricultural Technology | 3 | 45 |  |  | 
+Row 22: 17. | AGT2001 | Thực vật, động vật và vi sinh vật họcPlants, Animals and Microorganisms | 3 | 40 | 5 |  | 
+Row 23: 18. | ELT2035 | Tín hiệu và hệ thốngSignals and Systems | 3 | 45 |  |  | MAT1093
+Row 24: IV | Khối kiến thứctheonhóm ngành | 36 |  |  |  | 
+Row 25: IV.1 | Các học phần bắt buộc | 24 |  |  |  | 
+Row 26: 19. | AGT2002 | Các quá trình sinh học ở sinh vậtBiological Processes in Organisms | 3 | 40 | 5 |  | 
+Row 27: 20. | AGT2003 | Hóa hữu cơ ứng dụng trong nông nghiệpOrganic Chemistry for Agricultural Applications | 3 | 40 | 5 |  | 
+Row 28: 21. | AGT2004 | Hóa phân tích ứng dụng trong nông nghiệpAnalytical Chemistry for Agricultural Applications | 3 | 40 | 5 |  | 
+Row 29: 22. | AGT2005 | Trồng trọt đại cươngFundamentals of Crop Production | 3 | 40 | 5 |  | 
+Row 30: 23. | AGT2006 | Chăn nuôi đại cươngFundamentals of Livestock Production | 3 | 45 |  |  | 
+Row 31: 24. | AGT2007 | Nuôi trồng thủy sản đại cươngFundamentals of Aquaculture | 3 | 45 |  |  | 
+Row 32: 25. | EMA2005 | Kỹ thuật điện và điện tửElectrical, Electronic Engineering | 3 | 35 | 10 |  | 
+Row 33: 26. | ELT3051 | Kỹ thuật điều khiểnControl Engineering | 3 | 45 |  |  | ELT2035
+Row 34: IV.2 | Các học phầntự chọn | 12/34 |  |  |  | 
+Row 35: 27. | AGT2008 | Khí tượng nông nghiệp và biến đổi khí hậuAgricultural Meteorology and Climate Change | 3 | 45 |  |  | 
+Row 36: 28. | AGT2009 | Công nghệ nano trong nông nghiệpNanotechnology in Agriculture | 3 | 40 | 5 |  | 
+Row 37: 29. | AGT2010 | Đa dạng sinh họcBiodiversity | 3 | 45 |  |  | 
+Row 38: 30. | AGT2011 | Công nghệ sinh học đại cươngFundamentals of Biotechnology | 3 | 40 | 5 |  | 
+Row 39: 31. | AGT2012 | Quản trị sản xuất và logistics trong nông nghiệpProduction Management and Logistics in Agriculture | 3 | 45 |  |  | 
+Row 40: 32. | MAT1101 | Xác suất thống kêProbablity and Statistics | 3 | 30 | 15 |  | MAT1041
+Row 41: 33. | INT2211 | Cơ sở dữ liệuDatabase | 4 | 30 | 30 |  | INT1008
+Row 42: 34. | INT2215 | Lập trình nâng caoAdvanced Programming | 4 | 30 | 30 |  | INT1008
+Row 43: 35. | INT2210 | Cấu trúc dữ liệu và giải thuậtData structures and algorithms | 4 | 30 | 30 |  | INT1008
+Row 44: 36. | ELT3144 | Xử lý tín hiệu sốDigital Signal Processing | 4 | 45 | 15 |  | MAT1093
+Row 45: V | Khối kiến thức ngành | 68 |  |  |  | 
+Row 46: V.1 | Các học phần bắt buộc | 22 |  |  |  | 
+Row 47: 37. | AGT3013 | Hệ sinh thái nông nghiệp và nông nghiệp bền vữngAgro-ecosystems and Sustainable Agriculture | 3 | 45 |  |  | 
+Row 48: 38. | AGT3014 | Trồng cây không đấtFarming without Soil | 3 | 30 | 15 |  | 
+Row 49: 39. | AGT3015 | Bảo vệ thực vậtPlant Protection | 3 | 30 | 15 |  | 
+Row 50: 40. | AGT3016 | Công nghệ sau thu hoạchPostharvest Technology | 3 | 30 | 15 |  | 
+Row 51: 41. | AGT3017 | Hệ thống kiểm định chất lượng nông sản, thực phẩmQuality Control Systems for Food and Agricultural Products | 3 | 30 | 15 |  | 
+Row 52: 42. | AGT4001 | Dự án Công nghệ Nông nghiệpAgricultural Technology Project | 2 | 10 | 10 | 10 | 
+Row 53: 43. | AGT4003 | Rèn nghề Công nghệ Nông nghiệpProfessional Skills in Agricultural Technology | 3 |  | 45 |  | 
+Row 54: 44. | UET1002 | Kỹ năng khởi nghiệpEntrepreneurship | 2 | 30 |  |  | 
+Row 55: V.2 | Các học phần bắt buộc theo định hướng chuyên sâu | 15 |  |  |  | 
+Row 56: V.2.1 | Định hướng chuyên sâu vềNông nghiệp kỹ thuật số
+Row 57: 45. | INT2204 | Lập trình hướng đối tượngObject-Oriented Programming | 3 | 30 | 15 |  | INT1008
+Row 58: 46. | INT2013 | Kiến trúc máy tính và mạng truyền thông công nghiệpComputer Structure and Industrial Communication Networks | 3 | 30 | 15 |  | INT1008
+Row 59: 47. | AGT3018 | Kỹ thuật đo lường và cảm biến ứng dụng trong nông nghiệpSensors and Measurement  Engineering for Agricultural Applications | 3 | 30 | 15 |  | 
+Row 60: 48. | ELT3048 | Hệ thống vi xử lýMicroprocessors | 3 | 30 | 15 |  | 
+Row 61: 49. | AGT3019 | Các vấn đề hiện đại trong nông nghiệp kỹ thuật sốAdvanced Topics in Digital Agriculture | 3 | 45 |  |  | 
+Row 62: V.2.2 | Định hướng chuyên ngànhCông nghệ sinh học Nông nghiệp
+Row 63: 50. | AGT3020 | Công nghệ sinh học phân tửMolecular Biology Technology | 3 | 30 | 15 |  | 
+Row 64: 51. | AGT3021 | Công nghệ vi sinh nông nghiệpAgricultural Microbiology Technology | 3 | 30 | 15 |  | 
+Row 65: 52. | AGT3022 | Công nghệ tế bào động và thực vậtAnimal and Plant Cell Technology | 3 | 30 | 15 |  | 
+Row 66: 53. | AGT3023 | Công nghệ nhân giống cây trồng và vật nuôiPlant and Livestock Breeding Technology | 3 | 30 | 15 |  | 
+Row 67: 54. | AGT3024 | Các vấn đề hiện đại trong công nghệ sinh học nông nghiệpAdvanced Topics in Agricultural Biotechnology | 3 | 45 |  |  | 
+Row 68: V.3 | Các học phần tự chọn | 12/30 |  |  |  | 
+Row 69: 55. | AGT3025 | Thiết kế, quản lý và vận hành các hệ thống thiết bị nông nghiệpDesign, Management and Operation of agricultural equypment systems | 3 | 30 | 15 |  | 
+Row 70: 56. | AGT3026 | Marketing trong nông nghiệpMarketing in Agriculture | 3 | 45 |  |  | 
+Row 71: 57. | AGT3027 | Công nghệ lên men và phát triển sinh phẩmFermentation Technology and Bioproduct Development | 3 | 30 | 15 |  | 
+Row 72: 58. | INT3407 | Tin sinh họcBioinformatics | 3 | 45 |  |  | 
+Row 73: 59. | AGT3030 | Công nghệ sinh học nấm ăn, nấm dược liệu và vi tảoBiotechnology of Edible Mushrooms, Medicinal Mushrooms and Microalgae | 3 | 30 | 15 |  | 
+Row 74: 60. | AGT3031 | PLC và ứng dụng trong nông nghiệpPLC and Its Application in Agriculture | 3 | 30 | 15 |  | 
+Row 75: 61. | AGT3032 | Kiểm soát ô nhiễm trong sản xuất nông nghiệpPollution control in agricultural production | 3 | 45 |  |  | 
+Row 76: 62. | INT3022 | Phát triển ứng dụng Internet of ThingsIoT application development | 3 | 30 | 15 |  | 
+Row 77: 63. | INT3306 | Phát triển ứng dụng WebWeb application development | 3 | 30 | 15 |  | 
+Row 78: 64. | INT3401 | Trí tuệ nhân tạoArtificial Intelligent | 3 | 45 |  |  | 
+Row 79: V.4 | Cáchọc phầnbổ trợ | 6/16 |  |  |  | 
+Row 80: 65. | PSY1050 | Tâm lý học đại cươngGeneral Psychology | 2 | 26 |  | 4 | 
+Row 81: 66. | MNS1052 | Khoa học quản lý đại cươngIntroduction to Management Science | 2 | 20 | 10 |  | 
+Row 82: 67. | THL1057 | Nhà nước và pháp luật đại cươngState and Law | 2 | 30 |  |  | 
+Row 83: 68. | INE1050 | Kinh tế vi môMicro Economics | 3 | 30 | 10 | 5 | 
+Row 84: 69. | INE1051 | Kinh tế vĩ môMacro Economics | 3 | 30 | 10 | 5 | 
+Row 85: 70. | UET1001 | Tiếng Anh bổ trợGeneral English | 4 | 45 | 15 |  | 
+Row 86: V.5 | Thực tập và Tốt nghiệp | 13 |  |  |  | 
+Row 87: 71. | AGT4002 | Thực tập Công nghệ Nông nghiệpAgricultural TechnologyPractice | 3 |  | 45 |  | 
+Row 88: 72. | AGT4000 | Đồ án tốt nghiệpThesis | 10 |  |  | 150 | 
+Row 89: Tổng cộng | 151 |  |  |  | 
+
+Ghi chú:
+
+Học phần Tiếng Anh B1 thuộc khối kiến thức chung, được tính vào tổng số tín chỉ của chương trình đào tạo, nhưng kết quả đánh giá học phần này không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy.
+Học phần Tiếng Anh bổ trợ thuộc khối kiến thức bổ trợ, được tính vào tổng số tín chỉ của chương trình đào tạo, đây là học phần hỗ trợ lựa chọn cho học phần Tiếng Anh B1, kết quả đánh giá học phần này được tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy.
+Học phần Giáo dục thể chất, Giáo dục quốc phòng – an ninh không được tính vào tổng số tín chỉ của chương trình đào tạo, không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy, nhưng là điều kiện để xét tốt nghiệp.
+01 giờ tín chỉ thực hành tương ứng với 02 giờ thực tế trên lớp.

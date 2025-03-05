@@ -1,0 +1,119 @@
+URL: https://uet.vnu.edu.vn/chuong-trinh-dao-tao-nganh-ky-thuat-robot-3/
+Title: Chương trình đào tạo ngành Kỹ thuật robot - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology
+
+Chương trình đào tạo có tính liên ngành giữa nhóm ngành Điện tử – Viễn thông, Công nghệ Thông tin, và Cơ học Kỹ thuật & Tự động hóa, với thời gian đào tạo chuẩn 4,5 năm và nhận văn bằng kỹ sư.
+
+1. Tóm tắt yêu cầu chương trình đào tạo
+
+Table 1:
+Row 1: Tổng số tín chỉ của chương trình đào tạo:150tín chỉ(Chưa tính các học phầnGiáo dục thể chất, Giáo dục Quốc phòng – An ninh)
+Row 2: – | Khối kiến thức chung | 16 tín chỉ
+Row 3: – | Khối kiến thức theo lĩnh vực | 22tín chỉ
+Row 4: – | Khối kiến thức theo khối ngành | 10 tín chỉ
+Row 5:  | +Các học phầnbắt buộc | 7tín chỉ
+Row 6:  | +Các học phần tự chọn | 3/6tín chỉ
+Row 7: – | Khối kiến thức theo nhóm ngành | 37tín chỉ
+Row 8:  | +Các học phầnbắt buộc | 33tín chỉ
+Row 9:  | +Các học phần tự chọn | 4/8tín chỉ
+Row 10: – | Khối kiến thức ngành | 65tín chỉ
+Row 11:  | + Các học phần bắt buộc | 29tín chỉ
+Row 12:  | + Các học phần tự chọn | 18/41tín chỉ
+Row 13:  | + Các học phần lựa chọn bổ trợ | 6/23tín chỉ
+Row 14:  | +Thực tập và Tốt nghiệp | 12tín chỉ
+
+2. Khung chương trình đào tạo
+
+Table 2:
+Row 1: SốTT | Mãsố | Học phần(ghi bằng tiếng Việt và tiếng Anh) | Số tín chỉ | Số giờ tín chỉ | Mã học phần tiên quyết
+Row 2: Lý thuyết | Thực hành | Tự học
+Row 3: I | Khối kiến thức chung(Chưa tính các học phầnGiáo dục thể chất, Giáo dục Quốc phòng – An ninh) | 16 |  |  |  | 
+Row 4: 1. | PHI1006 | Triết học Mác – LêninMarxist-Leninist Philosophy | 3 | 30 | 15 |  | 
+Row 5: 2. | PEC1008 | Kinh tế chính trị Mác – LêninMarx-Lenin Political Economy | 2 | 20 | 10 |  | PHI1006
+Row 6: 3. | PHI1002 | Chủ nghĩa xã hội khoa họcScientific Socialism | 2 | 30 |  |  | 
+Row 7: 4. | HIS1001 | Lịch sử Đảng Cộng sản Việt NamRevolutionary Guidelines of Vietnam Communist Party | 2 | 20 | 10 |  | 
+Row 8: 5. | POL1001 | Tư tưởng Hồ Chí MinhHo Chi Minh’s Ideology | 2 | 20 | 10 |  | 
+Row 9: 6. | FLF1107 | Tiếng Anh B1English B1 | 5 | 20 | 35 | 20 | 
+Row 10: 7. |  | Giáo dục thể chấtPhysical Education | 4 |  |  |  | 
+Row 11: 8. |  | Giáo dục quốc phòng – an ninhNational Defence Education | 8 |  |  |  | 
+Row 12: II | Khối kiến thức theo lĩnh vực | 22 |  |  |  | 
+Row 13: 9. | MAT1093 | Đại sốAlgebra | 4 | 30 | 30 |  | 
+Row 14: 10. | MAT1041 | Giải tích 1Calculus 1 | 4 | 30 | 30 |  | 
+Row 15: 11. | MAT1042 | Giải tích 2Calculus 2 | 4 | 30 | 30 |  | MAT1041
+Row 16: 12. | EPN1095 | Vật lý đại cương 1General Physics 1 | 2 | 30 |  |  | 
+Row 17: 13. | EPN1096 | Vật lý đại cương 2General Physics 2 | 2 | 30 |  |  | EPN1095
+Row 18: 14. | INT1007 | Giới thiệu về Công nghệ thông tinIntroduction to Information Technology | 3 | 15 | 30 |  | 
+Row 19: 15. | INT1008 | Nhập môn lập trìnhIntroduction to Programming | 3 | 20 | 25 |  | 
+Row 20: III | Khối kiến thứctheokhối ngành | 10 |  |  |  | 
+Row 21: 16. | ELT2035 | Tín hiệu và hệ thốngSignals and systems | 3 | 45 |  |  | MAT1042
+Row 22: 17. | INT2210 | Cấu trúc dữ liệu và giải thuậtData structure and algorithms | 4 | 30 | 30 |  | INT1008
+Row 23: 18. | Chọn 1 trong 2 học phần: | 3/6 |  |  |  | 
+Row 24: ELT2029 | Toán trong Công nghệEngineering Mathematics | 3 | 45 |  |  | MAT1041
+Row 25: MAT1101 | Xác suất thống kêProbability and Statistics | 3 | 30 | 15 |  | MAT1041
+Row 26: IV | Khối kiến thứctheonhóm ngành | 37 |  |  |  | 
+Row 27: IV.1 | Các học phần bắt buộc | 33 |  |  |  | 
+Row 28: 19. | RBE1002 | Nhập môn lập trình RobotRobot Programming | 3 | 30 | 15 |  | 
+Row 29: 20. | RBE1001 | Trải nghiệm và Khám phá về RobotAdventures in Robotics | 2 |  | 30 |  | 
+Row 30: 21. | RBE2001 | Vẽ kỹ thuậtMechanical Drawing | 2 | 15 | 15 |  | 
+Row 31: 22. | RBE2003 | Động học và động lực họcKinematics and Dynamics | 3 | 45 |  |  | 
+Row 32: 23. | RBE2004 | Nhập môn kỹ thuật robotIntroduction to Robotics | 2 | 30 |  |  | 
+Row 33: 24. | ELT2201 | Nguyên lý Kỹ thuật điện tửElectronics Engineering | 3 | 45 |  |  | EPN1096
+Row 34: 25. | ELT3134 | Thực tập Kỹ thuật điện tửElectronics Engineering Practice | 2 |  | 30 |  | ELT2201
+Row 35: 26. | ELT3144 | Xử lý tín hiệu sốDigital Signal Processing | 4 | 45 | 15 |  | MAT1093
+Row 36: 27. | RBE2031 | Toán ứng dụng trong Kỹ thuật RobotApplied Mathematics for Robotics Engineering | 2 | 30 |  |  | MAT1093
+Row 37: 28. | ELT3051 | Kỹ thuật điều khiểnControl Engineering | 3 | 45 |  |  | ELT2035
+Row 38: 29. | ELT3281 | Vi xử lý và hệ thống nhúngMicroprocessor and Embedded System | 3 | 30 | 15 |  | ELT2035
+Row 39: 30. | RBE2021 | Thực hành Thiết kế và xây dựng Robot 1Robot Designing and Construction Laboratory 1 | 2 |  | 30 |  | RBE1001
+Row 40: 31. | RBE2022 | Thực hành Thiết kế và xây dựng Robot 2Robot Designing and Construction Laboratory 2 | 2 |  | 30 |  | RBE1001
+Row 41: IV.2 | Các học phần tự chọn | 4/8 |  |  |  | 
+Row 42: 32. | RBE3001 | Cơ lý thuyếtTheoretical Mechanics | 2 | 30 |  |  | EPN1095
+Row 43: 33. | RBE3002 | Gia công và thiết kế CAD/CAM/CAECAD/CAM/CAE | 2 | 15 | 15 |  | RBE2001
+Row 44: 34. | ELT2028 | Chuyên nghiệp trong công nghệProfessional in Technology | 2 | 30 |  |  | 
+Row 45: 35. | RBE3003 | Tiếng Anh kỹ thuậtTechnical English | 2 | 30 |  |  | 
+Row 46: V | Khối kiến thức ngành | 65 |  |  |  | 
+Row 47: V.1 | Các học phần bắt buộc | 29 |  |  |  | 
+Row 48: 36. | RBE3017 | Lập trình Robot với ROSProgramming robot with ROS | 3 | 30 | 15 |  | RBE1002
+Row 49: 37. | INT3405 | Học máyMachine Learning | 3 | 45 |  |  | 
+Row 50: 38. | RBE3011 | Mô hình hóa động lực học và điều khiển RobotModelling and Control of Robotic Systems | 2 | 20 | 10 |  | RBE2003
+Row 51: 39. | RBE3012 | Các cơ cấu chấp hành RobotRobot Manipulator | 3 | 30 | 15 |  | 
+Row 52: 40. | RBE3013 | Các cơ cấu truyền độngActuators and Power-train | 3 | 30 | 15 |  | RBE2002
+Row 53: 41. | RBE3014 | Điều khiển tự độngRobotic Control | 3 | 30 | 15 |  | ELT2201
+Row 54: 42. | RBE3015 | Xử lý ảnh và thị giác RobotImage Processing and Robot Vision | 3 | 30 | 15 |  | 
+Row 55: 43. | RBE3016 | Thiết kế kiểu dáng công nghiệpIndustrial Design | 3 | 30 | 15 |  | 
+Row 56: 44. | RBE3021 | Đồ án 1: Thiết kế và xây dựng Robot 1Project 1: Robot Designing and Construction 1 | 2 |  | 30 |  | RBE2022
+Row 57: 45. | RBE3022 | Đồ án 2:  Thiết kế và xây dựng Robot 2Project 2: Robot Designing and Construction 2 | 2 |  | 30 |  | RBE2022
+Row 58: 46. | UET1002 | Kỹ năng khởi nghiệpEntrepreneurship | 2 | 30 |  |  | 
+Row 59: V.2 | Các học phần tự chọn | 18/41 |  |  |  | 
+Row 60: 47. | INT3102 | Phương pháp tínhNumerical Computing | 3 | 30 | 15 |  | MAT1042
+Row 61: 48. | RBE3040 | Các vấn đề hiện đại trong Kỹ thuật RobotAdvanced Topics in Robotics | 3 | 30 |  | 15 | 
+Row 62: 49. | RBE3041 | Cơ học vật liệu và kết cấu RobotMechanics of Robot Materials and Structures | 3 | 45 |  |  | RBE2002
+Row 63: 50. | RBE3042 | Cảm biến và Đo lường cho RobotRobot Sensing and Measurement | 3 | 30 | 15 |  | 
+Row 64: 51. | RBE3043 | Các thuật toán thích nghiAdaptation Algorithms | 3 | 45 |  |  | INT2210
+Row 65: 52. | RBE3044 | Robot hình ngườiSpecial Topics in Humanoid Robot | 3 | 45 |  |  | 
+Row 66: 53. | RBE3045 | Robot phân tánSpecial Topics in Distributed Robot | 3 | 45 |  |  | 
+Row 67: 54. | RBE3046 | Khoa học nhận thứcCognitive Science | 3 | 45 |  |  | INT2210
+Row 68: 55. | RBE3047 | Giải thuật cho robot thông minhElements of Intelligent Robot | 3 | 30 | 15 |  | 
+Row 69: 56. | INT3998 | Nhập môn tương tác người – máyIntroduction to Human Machine Interface | 3 | 30 | 15 |  | INT1008
+Row 70: 57. | ELT3231 | Kỹ thuật xử lý và Truyền thông Đa phương tiệnMultimedia Processing and Communications | 3 | 30 | 15 |  | 
+Row 71: 58. | INT3401 | Trí tuệ nhân tạoArtificial Intelligent | 3 | 45 |  |  | INT2210
+Row 72: 59. | ELT3996 | Điện tử công suất và điều khiểnPower Electronics and Control | 3 | 30 | 15 |  | ELT2201
+Row 73: 60. | RBE3048 | Mạng truyền thông công nghiệpIndustrial Communication Networks | 3 | 30 | 15 |  | 
+Row 74: V.3 | Cáchọc phầnbổ trợ | 6/23 |  |  |  | 
+Row 75: 61. | UET1001 | Tiếng Anh bổ trợGenenal English | 4 | 45 | 15 |  | 
+Row 76: 62. | INT3103 | Tối ưu hóaOptimization | 3 | 30 | 15 |  | MAT1093MAT1042
+Row 77: 63. | PSY1050 | Tâm lý học đại cươngGeneral Psychology | 2 | 26 |  | 4 | 
+Row 78: 64. | THL1057 | Nhà nước và pháp luật đại cươngState and Law | 2 | 30 |  |  | 
+Row 79: 65. | INE1050 | Kinh tế vi môMicro Economics | 3 | 30 | 10 | 5 | 
+Row 80: 66. | INE1051 | Kinh tế vĩ môMacro Economics | 3 | 30 | 10 | 5 | 
+Row 81: 67. | HIS1056 | Cơ sở văn hóa Việt NamFundamentals of Vietnamese Culture | 3 | 42 | 3 |  | 
+Row 82: 68. | HIS1053 | Lịch sử văn minh thế giớiHistory of World Civilization | 3 | 42 | 3 |  | 
+Row 83: V.4 | Thực tập và Tốt nghiệp | 12 |  |  |  | 
+Row 84: 69. | RBE4002 | Thực tập ngành kỹ thuật RobotRobotics Engineering Practice | 2 |  | 30 |  | 
+Row 85: 70. | RBE4001 | Đồ án tốt nghiệpThesis | 10 |  |  | 150 | 
+Row 86: Tổng cộng | 150 |  |  |  | 
+
+Ghi chú:
+
+Học phần Tiếng Anh B1 thuộc khối kiến thức chung, được tính vào tổng số tín chỉ của chương trình đào tạo, nhưng kết quả đánh giá học phần này không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy.
+Học phần Tiếng Anh bổ trợ thuộc khối kiến thức bổ trợ, được tính vào tổng số tín chỉ của chương trình đào tạo, đây là học phần hỗ trợ lựa chọn cho học phần Tiếng Anh B1, kết quả đánh giá học phần này được tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy.
+Học phần Giáo dục thể chất, Giáo dục quốc phòng – an ninh không được tính vào tổng số tín chỉ của chương trình đào tạo, không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy, nhưng là điều kiện để xét tốt nghiệp.
+01 giờ tín chỉ thực hành tương ứng với 02 giờ thực tế trên lớp.

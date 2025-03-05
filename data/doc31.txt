@@ -1,0 +1,150 @@
+URL: https://uet.vnu.edu.vn/chuong-trinh-dao-tao-nganh-thong-thong-tin-chat-luong-cao-theo-thong-tu-23-3/
+Title: Chương trình đào tạo ngành Hệ thống thông tin (CLC TT23) - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology
+
+1. Tóm tắt yêu cầu chương trình đào tạo
+
+Tổng số tín chỉ của chương trình đào tạo:
+14
+8 tín chỉ
+
+(Chưa tính các học phần Giáo dục thể chất, Giáo dục Quốc phòng – An ninh)
+
+–  Khối kiến thức chung
+21
+tín chỉ
+
+–  Khối kiến thức chung theo lĩnh vực
+22
+tín chỉ
+
+–  Khối kiến thức chung cho khối ngành                                         10 tín chỉ
+
++ Các học phần bắt buộc:                                                         7 tín chỉ
+
++ Các học phần tự chọn:                                                           3/6 tín chỉ
+
+–  Khối kiến thức chung cho nhóm ngành                                       30 tín chỉ
+
+–  Khối kiến thức ngành
+65
+tín chỉ
+
++ Các học phần bắt buộc:                                                         3
+0
+tín chỉ
+
++ Các học phần tự chọn:
+18
+/52 tín chỉ
+
++ Các học phần bổ trợ:                                                              7 tín chỉ
+
++ Khoá luận tốt nghiệp:                                                              10 tín chỉ
+
+2. Chương trình đào tạo
+
+Table 1:
+Row 1: Số TT | Mãhọc phần | Tên học phần | Số tín chỉ | Số giờ tín chỉ | Mã số học phần tiên quyết
+Row 2: Lý thuyết | Thực hành | Tự học
+Row 3: I | Khối kiến thức chung(Chưa tính các học phần Giáo dục thể chất, Giáo dục Quốc phòng – An ninh) | 21 |  |  |  | 
+Row 4: 1 | PHI1006 | Triết học Mác – LêninMarxist-Leninist Philosophy | 3 | 30 | 15 |  | 
+Row 5: 2 | PEC1008 | Kinh tế chính trị Mác – LêninMarx-Lenin Political Economy | 2 | 20 | 10 |  | PHI1006
+Row 6: 3 | PHI1002 | Chủ nghĩa xã hội khoa họcScientific Socialism | 2 | 30 |  |  | 
+Row 7: 4 | HIS1001 | Lịch sử Đảng Cộng sản Việt NamRevolutionary Guidelines of Vietnam Communist Party | 2 | 20 | 10 |  | 
+Row 8: 5 | POL1001 | Tư tưởng Hồ Chí MinhHo Chi Minh’s Ideology | 2 | 20 | 10 |  | 
+Row 9: 6 | FLF1107 | Tiếng Anh B1English B1 | 5 | 20 | 35 | 20 | 
+Row 10: 7 | FLF1108 | Tiếng Anh B2English B2 | 5 | 20 | 35 | 20 | 
+Row 11: 8 |  | Giáo dục thể chấtPhysical Education | 4 |  |  |  | 
+Row 12: 9 |  | Giáo dục quốc phòng – an ninhNational Defence Education | 8 |  |  |  | 
+Row 13: II | Khối kiến thức chung theo lĩnh vực | 22 |  |  |  | 
+Row 14: 10 | MAT1093 | Đại sốAlgebra | 4 | 30 | 30 |  | 
+Row 15: 11 | MAT1041 | Giải tích 1Calculus 1 | 4 | 30 | 30 |  | 
+Row 16: 12 | MAT1042 | Giải tích 2Calculus 2 | 4 | 30 | 30 |  | MAT1041
+Row 17: 13 | EPN1095 | Vật lý đại cương 1General Physics 1 | 2 | 30 |  |  | 
+Row 18: 14 | EPN1096 | Vật lý đại cương 2General Physics 2 | 2 | 30 |  |  | EPN1095
+Row 19: 15 | INT1007 | Giới thiệu về Công nghệ thông tinIntroduction to Information Technology | 3 | 15 | 30 |  | 
+Row 20: 16 | INT1008 | Nhập môn lập trìnhIntroduction to Programming | 3 | 20 | 25 |  | 
+Row 21: III | Khối kiến thức chung cho khối ngành | 10 |  |  |  | 
+Row 22: 17 | ELT2035 | Tín hiệu và hệ thốngSignals and systems | 3 | 45 |  |  | MAT1042
+Row 23: 18 | INT2210 | Cấu trúc dữ liệu và giải thuậtData structures and algorithms | 4 | 30 | 30 |  | INT1008
+Row 24: 19 | Lựa chọn 1 trong 2 học phần: | 3/6 |  |  |  | 
+Row 25: ELT2029 | Toán trong công nghệMathematics for Engineering | 3 | 45 |  |  | MAT1041
+Row 26: MAT1101 | Xác suất thống kêProbability and Statistics | 3 | 30 | 15 |  | MAT1041
+Row 27: IV | Khối kiến thức chung của nhóm ngành | 30 |  |  |  | 
+Row 28: 20 | INT2215 | Lập trình nâng caoAdvanced Programming | 4 | 30 | 30 |  | INT1008
+Row 29: 21 | INT1050 | Toán học rời rạcDiscrete Mathematics | 4 | 45 | 15 |  | 
+Row 30: 22 | INT2212 | Kiến trúc máy tínhComputer Architecture | 4 | 45 | 15 |  | INT1007
+Row 31: 23 | INT2214 | Nguyên lý hệ điều hànhPrinciples of operating systems | 4 | 45 | 15 |  | INT1008
+Row 32: 24 | INT2211 | Cơ sở dữ liệuDatabase | 4 | 30 | 30 |  | INT1008
+Row 33: 25 | INT2213 | Mạng máy tínhComputer Network | 4 | 30 | 30 |  | INT1008
+Row 34: 26 | INT2208E | Công nghệ phần mềmSoftware Engineering | 3 | 45 |  |  | INT1008
+Row 35: 27 | INT2204 | Lập trình hướng đối tượngObject-oriented Programming | 3 | 30 | 15 |  | INT1008
+Row 36: V | Khối kiến thức ngành | 65 |  |  |  | 
+Row 37: V.1 | Các học phần bắt buộc | 30 |  |  |  | 
+Row 38: 28 | INT3201E | Cơ sở các hệ thống thông tinFoundation of Information Systems | 4 | 45 | 15 |  | INT2211
+Row 39: 29 | INT2020E | Phân tích thiết kế các hệ thống thông tinInformation System Analysis and Design | 3 | 45 |  |  | INT2211
+Row 40: 30 | INT3202E | Hệ quản trị cơ sở dữ liệuDatabase Management Systems | 3 | 30 | 15 |  | INT2211
+Row 41: 31 | INT3209E | Khai phá dữ liệuDataMining | 3 | 45 |  |  | INT2211
+Row 42: 32 | INT3306E | Phát triển ứng dụng WebWeb application development | 3 | 30 | 15 |  | INT2204, INT2211
+Row 43: 33 | INT3225E | Thông minh kinh doanhBusiness Intelligence | 4 | 30 | 30 |  | INT2211, INT3201E
+Row 44: 34 | INT2045E | Quản lý dự án HTTTInformation System Project Management | 4 | 30 | 30 |  | INT2020E
+Row 45: 35 | INT4002 | Thực tập doanh nghiệpIndustrial Internship | 3 | 15 | 30 |  | 
+Row 46: 36 | Chọn một trong hai học phần | 3/6 |  |  |  | 
+Row 47: INT3131 | Dự án khoa họcScience Project | 3 | 21 | 24 |  | 
+Row 48: INT3132 | Dự án công nghệTechnology Project | 3 | 21 | 24 |  | 
+Row 49: V.2 | Các học phần tự chọn | 18/52 |  |  |  | 
+Row 50: V.2.1 | Định hướng chuyên sâu vềTích hợp dịch vụ và quản lý dữ liệu lớn
+Row 51: 37 | INT3227E | Tích hợp dịch vụService Integration | 4 | 30 | 30 |  | INT3201E
+Row 52: 38 | INT3228E | Thiết kế và phân tích thực nghiệmDesign and Analysis of Experiments | 4 | 30 | 30 |  | 
+Row 53: 39 | INT3229E | Kỹ thuật và công nghệ dữ liệu lớnBigData Techniques and Technologies | 4 | 30 | 30 |  | 
+Row 54: 40 | INT3230E | Mật mã và An toàn thông tinCryptography and Information security | 4 | 30 | 30 |  | INT3201E
+Row 55: 41 | INT3231E | Công nghệ BlockchainBlockchain and Distributed Ledger Technologies | 4 | 30 | 30 |  | 
+Row 56: 42 | INT3505E | Kiến trúc hướng dịch vụService-oriented Architectures | 3 | 45 |  |  | 
+Row 57: 43 | INT3506E | Các hệ thống thương mại điện tửE-commerce Systems | 3 | 45 |  |  | INT1007
+Row 58: V.2.2 | Định hướng chuyên sâu về Khoa học dữ liệu và phân tích kinh doanh
+Row 59: 44 | INT3401E | Trí tuệ nhân tạoArtificial Intelligence | 3 | 45 |  |  | INT2210
+Row 60: 45 | INT3501E | Khoa học dịch vụService Science | 3 | 45 |  |  | INT3201E
+Row 61: 46 | INT3232E | Phân tích kinh doanhBusiness Analytics | 4 | 45 | 15 |  | INT3201E
+Row 62: 47 | INT3233E | Khai phá dữ liệu hướng lĩnh vựcDomain-driven Data Mining | 4 | 45 | 15 |  | 
+Row 63: 48 | INT3234E | Phân tích dữ liệu dự báoPredictive analytics | 4 | 45 | 15 |  | 
+Row 64: 49 | INT3235E | Phân tích mạng phương tiện xã hội trong kinh doanhSocial Media Network Analysis for Business | 4 | 30 | 30 |  | 
+Row 65: 50 | INT3236E | Phát triển ứng dụng doanh nghiệpApplication Development for Enterprise | 4 | 30 | 30 |  | 
+Row 66: V.3 | Các học phần bổ trợ | 7 |  |  |  | 
+Row 67: V.3.1 | Các học phần bổ trợ bắt buộc | 4 |  |  |  | 
+Row 68: 51 | UET1002 | Kỹ năng khởi nghiệpEntrepreneurship | 2 | 30 |  |  | 
+Row 69: 52 | INT3514 | Pháp luật và đạo đức nghề nghiệp trong CNTTProfessional in Technology | 2 | 30 |  |  | 
+Row 70: V.3.2 | Các học phần bổ trợ lựa chọn | 3/50 |  |  |  | 
+Row 71: 53 | INT3102 | Phương pháp tínhNumerical Methods | 3 | 30 | 15 |  | MAT1093MAT1042
+Row 72: 54 | INT3103 | Tối ưu hóaOptimization | 3 | 30 | 15 |  | MAT1093MAT1042
+Row 73: 55 | UET1001 | Tiếng Anh bổ trợGeneral English | 4 | 45 | 15 |  | 
+Row 74: 56 | Các học phần thuộc Ngành CNKT ĐT-VT
+Row 75: ELT3144 | Xử lý tín hiệu sốDigital Signal Processing | 4 | 45 | 15 |  | MAT1093
+Row 76: ELT2032 | Linh kiện điện tửElectronics Devices | 3 | 45 |  |  | 
+Row 77: ELT2030 | Kỹ thuật điệnElectrical Engineering | 3 | 45 |  |  | 
+Row 78: ELT2040 | Điện tử tương tựAnalog Electronics | 3 | 45 |  |  | 
+Row 79: ELT2041 | Điện tử sốDigital Electronics | 3 | 45 |  |  | 
+Row 80: 57 | Các học phần thuộc Khối ngành Kinh tế
+Row 81: INE1050 | Kinh tế vi môMicroeconomics | 3 | 30 | 10 | 5 | 
+Row 82: BSA2103 | Nguyên lý quản trị kinh doanhPrinciples of Business Administration | 3 | 27 | 18 |  | 
+Row 83: BSA2002 | Nguyên lý MarketingPrinciples of Marketing | 3 | 21 | 23 | 1 | 
+Row 84: BSA3020 | Khởi sự và tạo lập doanh nghiệpEntrepreneurship | 3 | 35 | 10 |  | 
+Row 85: 58 | Các học phần thuộc Khối ngành Luật Kinh doanh
+Row 86: THL1054 | Lý luận về nhà nước và pháp luậtGeneral Theory of  State and Law | 3 | 27 | 12 | 6 | 
+Row 87: THL1058 | Lịch sử nhà nước và pháp luậtHistory of State and Law | 3 | 24 | 15 | 6 | 
+Row 88: CAL1007 | Luật hiến phápConstitutional Law | 3 | 36 |  | 9 | 
+Row 89: CAL1008 | Luật hành chínhAdministrative Law | 3 | 30 | 6 | 9 | 
+Row 90: V.4 | Khóa luận tốt nghiệp | 10 |  |  |  | 
+Row 91: 59 | INT4054 | Khoá luận tốt nghiệpGraduation Thesis | 10 |  |  |  | 
+Row 92: Tổng cộng | 148 |  |  |  | 
+
+Ghi chú:
+
+Học phần Tiếng Anh B1
+, Tiếng Anh B2
+thuộc khối kiến thức chung, được tính vào tổng số tín chỉ của chương trình đào tạo, nhưng kết quả đánh giá
+các
+học phần này không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy.
+Học phần Tiếng Anh bổ trợ thuộc khối kiến thức bổ trợ, được tính vào tổng số tín chỉ của chương trình đào tạo, đây là học phần hỗ trợ lựa chọn cho học phần Tiếng Anh B1, kết quả đánh giá học phần này được tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy.
+Học phần Giáo dục thể chất, Giáo dục quốc phòng – an ninh không được tính vào tổng số tín chỉ của chương trình đào tạo, không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy, nhưng là điều kiện để xét tốt nghiệp.
+01 giờ tín chỉ thực hành tương ứng với 02 giờ thực tế trên lớp.
+Các học phần có mã học phần thêm chữ “E” được giảng dạy bằng tiếng Anh.

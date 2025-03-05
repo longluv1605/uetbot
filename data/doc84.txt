@@ -1,0 +1,171 @@
+URL: https://uet.vnu.edu.vn/chuong-trinh-dao-tao-nganh-co-ky-thuat-3/
+Title: Chương trình đào tạo ngành Cơ kỹ thuật - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology
+
+1. Tóm tắt yêu cầu chương trình đào tạo
+
+Tổng số tín chỉ của chương trình đào tạo:
+150 tín chỉ
+
+(
+Chưa
+tính các
+học phần
+Giáo dục thể chất, Giáo dục quốc phòng
+– an ninh
+)
+
+Table 1:
+Row 1: – | Khối kiến thức chung:                                                    16 tín chỉ
+Row 2: – | Khối kiến thức chung theo lĩnh vực: | 22 tín chỉ
+Row 3: – | Khối kiến thức theo khối ngành: | 6 tín chỉ
+Row 4: – | Khối kiến thức theo nhóm ngành: | 14tín chỉ
+Row 5: – | Khối kiến thức ngành: | 92 tín chỉ
+Row 6:  | + Khối kiến thức bắt buộc: | 45tín chỉ
+Row 7:  | + Khối kiến thức bổ trợ: | 7/23 tín chỉ
+Row 8:  | + Khối kiến thức định hướng chuyên sâu: | 27 tín chỉ
+Row 9:  | Các học phần bắt buộc: | 18tín chỉ
+Row 10:  | Các học phần tự chọn: | 4tín chỉ
+Row 11:  | Các học phần thực tập: | 5tín chỉ
+Row 12:  | +Thực tập vàtốt nghiệp: | 13tín chỉ
+
+2. Khung chương trình đào tạo
+
+Table 2:
+Row 1: STT | Mãhọc phần | Học phần | Số tín chỉ | Số giờ tín chỉ | Mã sốhọc phầntiên quyết
+Row 2: Lí thuyết | Thực hành | Tựhọc
+Row 3: I | Khối kiến thức chung(chưa tínhcác học phầnGiáo dục thể chất, Giáo dục quốc phòng– an ninh) | 16 |  |  |  | 
+Row 4: 1. | PHI1006 | Triết học Mác – LêninMarxist-Leninist Philosophy | 3 | 30 | 15 |  | 
+Row 5: 2. | PEC1008 | Kinh tế chính trị Mác – LêninMarx-Lenin Political Economy | 2 | 20 | 10 |  | PHI1006
+Row 6: 3. | PHI1002 | Chủ nghĩa xã hội khoa họcScientific Socialism | 2 | 30 |  |  | 
+Row 7: 4. | HIS1001 | Lịch sử Đảng Cộng sản Việt NamRevolutionary Guidelines of Vietnam Communist Party | 2 | 20 | 10 |  | 
+Row 8: 5. | POL1001 | Tư tưởng Hồ Chí MinhHo Chi Minh’s Ideology | 2 | 20 | 10 |  | 
+Row 9: 6. | FLF1107 | Tiếng Anh B1English B1 | 5 | 20 | 35 | 20 | 
+Row 10: 7. |  | Giáo dục thể chấtPhysical education | 4 |  |  |  | 
+Row 11: 8. |  | Giáo dục quốc phòng – an ninhNational Defence Education | 8 |  |  |  | 
+Row 12: II | Khối kiến thức theo lĩnh vực | 22 |  |  |  | 
+Row 13: 9. | MAT1093 | Đại sốAlgebra | 4 | 30 | 30 |  | 
+Row 14: 10. | MAT1041 | Giải tích 1Analytics 1 | 4 | 30 | 30 |  | 
+Row 15: 11. | MAT1042 | Giải tích 2Analytics 2 | 4 | 30 | 30 |  | MAT1041
+Row 16: 12. | EPN1095 | Vật lý đại cương 1General Physics 1 | 2 | 30 |  |  | 
+Row 17: 13. | EPN1096 | Vật lý đại cương 2General Physics 2 | 2 | 30 |  |  | EPN1095
+Row 18: 14. | INT1007 | Giới thiệu về Công nghệ thông tinIntroduction to Information Technology | 3 | 15 | 30 |  | 
+Row 19: 15. | INT1008 | Nhập môn lập trìnhIntroduction to Programming | 3 | 20 | 25 |  | 
+Row 20: III | Khối kiến thức theo khối ngành | 6 |  |  |  | 
+Row 21: 16. | EMA2050 | Xác suất thống kê ứng dụngApplied Probability and Statistic | 3 | 30 | 15 |  | MAT1093 MAT1042
+Row 22: 17. | EMA2011 | Phương pháp tính trong kỹ thuậtComputational Methods for Engineering | 3 | 30 | 15 |  | INT1008MAT1093 MAT1042
+Row 23: IV | Khối kiến thức theo nhóm ngành | 14 |  |  |  | 
+Row 24: 18. | EMA2036 | Cơ học kỹ thuật 1Engineering Mechanics 1 | 3 | 30 | 15 |  | MAT1093 MAT1042
+Row 25: 19. | EMA2037 | Cơ học kỹ thuật 2Engineering Mechanics 2 | 3 | 30 | 15 |  | EMA2036
+Row 26: 20. | EMA2006 | Matlab và ứng dụngMatlab and Applications | 3 | 30 | 15 |  | INT1008 MAT1093 MAT1042
+Row 27: 21. | EMA2013 | Lý thuyết điều khiển tự độngAutomatic Control Theory | 3 | 30 | 15 |  | MAT1093 MAT1042 EMA2005
+Row 28: 22. | EMA2032 | Hình hoạ kỹ thuật và CADGeometric Engineering and CAD | 2 | 15 | 15 |  | MAT1093 MAT1042
+Row 29: V | Khối kiến thức ngành | 92 |  |  |  | 
+Row 30: V.1 | Khối kiến thức ngành bắt buộc | 45 |  |  |  | 
+Row 31: 23. | EMA2004 | Cơ học môi trường liên tụcContinuum Mechanics | 4 | 45 | 15 |  | EPN1096 MAT1093 MAT1042 EMA2041 EMA2037
+Row 32: 24. | EMA2012 | Sức bền vật liệu và cơ học kết cấuStrength of Materials and Structural Mechanics | 4 | 45 | 15 |  | EMA2037
+Row 33: 25. | EMA2033 | Cơ sở thiết kế máyFundamental of Machine Design | 4 | 40 | 20 |  | EPN1096
+Row 34: 26. | EMA2041 | Phương trình vi phân và đạo hàm riêngOrdinary and Partial Differential Equations | 4 | 45 | 15 |  | MAT1093MAT1042
+Row 35: 27. | EMA2005 | Kỹ thuật điện và điện tửElectrical and Electronic Engineering | 3 | 35 | 10 |  | EPN1095, EPN1096
+Row 36: 28. | EMA2007 | Cơ học vật rắn biến dạngMechanics of Deformable Bodies | 3 | 30 | 15 |  | EMA2036 EMA2037
+Row 37: 29. | EMA2008 | Cơ học chất lỏngFluid Mechanics | 3 | 30 | 15 |  | MAT1041 MAT1042 EMA2041
+Row 38: 30. | EMA2035 | Kỹ thuật mô hình – mô phỏngModeling and Simulation Techniques | 3 | 30 | 15 |  | INT1008 EMA2037 EMA2006
+Row 39: 31. | EMA2015 | Phương pháp thực nghiệm trong cơ họcExperimental Methods in Mechanics | 3 | 30 | 15 |  | EPN1095 EPN1096 EMA2036  EMA2037 EMA2004 EMA2005 EMA2050
+Row 40: 32. | EMA2038 | Nhiệt động lực học kỹ thuậtThermodynamic  Engineering | 3 | 35 | 10 |  | EPN1095EPN1096
+Row 41: 33. | EMA2045 | Lý thuyết cắt gọt kim loạiTheory of Metal Cutting | 2 | 30 |  |  | 
+Row 42: 34. | EMA3090 | Kỹ thuật hiển thị máy tínhComputer Graphics Display Techniques | 2 | 20 | 10 |  | INT1008 MAT1093 MAT1042 EMA2006
+Row 43: 35. | EMA2039 | Thủy khí động lực ứng dụngApplied Fluid Dynamic | 3 | 30 | 15 |  | MAT1093 MAT1042 EMA2008
+Row 44: 36. | EMA2040 | Máy CNC và CAD/CAMCNC and CAD/CAM | 2 | 18 | 12 |  | EMA2013EMA3099
+Row 45: 37. | UET1002 | Kỹ năng khởi nghiệpEntrepreneurship | 2 | 30 |  |  | 
+Row 46: V.2 | Khối kiến thức bổ trợ | 7/23 |  |  |  | 
+Row 47: 38. | INT2208 | Công nghệ phần mềmSoftware Engineering | 3 | 45 |  |  | INT1008
+Row 48: 39. | INT2213 | Mạng máy tínhComputer Network | 4 | 30 | 30 |  | INT1008
+Row 49: 40. | INT3103 | Tối ưu hóaOptimization | 3 | 30 | 15 |  | MAT1093MAT1042
+Row 50: 41. | ELT2028 | Chuyên nghiệp trong công nghệProfessional in Technology | 2 | 30 |  |  | 
+Row 51: 42. | BSA2002 | Nguyên lý marketingPrinciples of Marketing | 3 | 21 | 23 | 1 | 
+Row 52: 43. | MNS1052 | Khoa học quản lý đại cươngFundamentals of Management Science | 2 | 20 | 10 |  | 
+Row 53: 44. | EMA2046 | Một số vấn đề cơ bản cho Kỹ sư toàn cầuGlobal engineering skill | 2 | 20 | 10 |  | 
+Row 54: 45. | UET1001 | Tiếng Anh bổ trợGeneral English | 4 | 45 | 15 |  | 
+Row 55: V.3 | Khối kiến thức định hướng chuyên sâu | 27 |  |  |  | 
+Row 56: V.3.1. | Khối kiến thức định hướng chuyên sâu vềThủy khí công nghiệp và môi trường
+Row 57: V.3.1.1. | Các học phần bắt buộc | 18 |  |  |  | 
+Row 58: 46. | EMA3091 | Động lực học sông và đồ ánHydrodynamic and Term Project | 4 | 30 | 30 |  | EMA2008
+Row 59: 47. | EMA3092 | Động lực học – môi trường không khí và đồ ánAir Environmental Dynamics and Term Project | 4 | 36 | 24 |  | EMA2004
+Row 60: 48. | EMA3093 | Máy – thiết bị thủy khí và đồ ánHydraulic and Pneumatic Devices and Term Project | 4 | 42 | 18 |  | EMA2008
+Row 61: 49. | EMA3104 | Cơ học chất lỏng thực nghiệmExperimental Fluid Mechanics | 3 | 15 | 30 |  | EMA2008 EMA2015 EMA2039
+Row 62: 50. | EMA3110 | Kỹ thuật đường ốngPipelines Engineering | 3 | 39 | 6 |  | EMA2008 EMA2012
+Row 63: V.3.1.2. | Các học phần tự  chọn | 4/6 |  |  |  | 
+Row 64: 51. | EMA3027 | Kỹ thuật môi trườngIntroduction to Environment Engineerng | 2 | 15 | 15 |  | EMA2004 EMA3093
+Row 65: 52. | EMA3022 | Dòng chảy hai phaTwo-phase Flow | 2 | 24 | 6 |  | EMA2004 EMA2008 EMA2038
+Row 66: 53. | EMA3023 | Dòng chảy trong môi trường rỗngFuid Flow in Porous Media | 2 | 24 | 6 |  | EMA2041 EMA2004 EMA2008
+Row 67: V.3.1.3. | Học phần thực tập | 5 |  |  |  | 
+Row 68: 54. | EMA3049 | Thực tập kỹ thuật định hướng Thủy khí công nghiệp và môi trườngEngineering Practice | 5 | 15 | 60 |  | EMA3091EMA3092EMA3093EMA3104
+Row 69: V.3.2. | Khối kiến thức định hướng chuyên sâu vềCơ học kỹ thuật biển
+Row 70: V.3.2.1. | Các học phần bắt buộc | 18 |  |  |  | 
+Row 71: 55. | EMA3094 | Thủy động lực học – môi trường biểnHydrodynamics for Marine  Environment | 4 | 60 |  |  | EMA2037 EMA2006 EMA2008
+Row 72: 56. | EMA3105 | Đồ án thủy động lực học – môi trường biểnProject on Hydrodynamics for Marine Environment | 3 | 14 | 7 | 24 | EMA3094
+Row 73: 57. | EMA3096 | Công trình biển ngoài khơi, độ tin cậy và đồ ánOff-Shore Structures, Reliability and Term Project | 4 | 30 | 22 | 8 | EMA2012 EMA2050
+Row 74: 58. | EMA3097 | Công trình biển ven bờ (đê, cảng, đường ống, bể chứa) và đồ ánIn-Shore Structures: Dykes, Habours, Pipeline and Term Project | 4 | 30 | 30 |  | EMA2007 EMA2012
+Row 75: 59. | EMA3107 | Thí nghiệm đo đạc môi trường biểnExperimental Measurement in Marine Environment | 3 | 15 | 30 |  | EMA3094 EMA2024
+Row 76: V.3.2.2. | Các học phần tự  chọn | 4/12 |  |  |  | 
+Row 77: 60. | EMA3043 | Thiết kế và thi công công trình biểnMarine Structures Design and Manufacturing | 4 | 45 | 15 |  | EMA2007 EMA2012
+Row 78: 61. | EMA2030 | Cơ sở dữ liệu và GISDatabase and GIS | 2 | 20 | 10 |  | INT1008 MAT1093 MAT1042
+Row 79: 62. | EMA3063 | Điều khiển kết cấuStructural Control | 2 | 26 | 4 |  | EMA2037 EMA2012
+Row 80: 63. | EMA3013 | Cơ học phá hủyMechanical Destruction | 2 | 30 |  |  | EMA2004 EMA2007 EMA2012
+Row 81: 64. | EMA3015 | Cơ học vật liệu compositeMechanics of Composite Materials | 2 | 24 | 6 |  | EMA2041 EMA2037 EMA2004 EMA2007
+Row 82: V.3.2.3. | Học phần thực tập | 5 |  |  |  | 
+Row 83: 65. | EMA3050 | Thực tập kỹ thuật định hướng Cơ học kỹ thuật biểnEngineering Practice | 5 | 15 | 60 |  | EMA3094 EMA3105 EMA3096 EMA3097 EMA3107
+Row 84: V.3.3. | Khối kiến thức định hướng chuyên sâu vềCơ điện tử
+Row 85: V.3.3.1. | Các học phần bắt buộc | 18 |  |  |  | 
+Row 86: 66. | EMA2027 | Nhập môn cơ điện tửIntroduction to Mechatronics | 3 | 30 | 15 |  | EMA2037 EMA2005 EMA2013
+Row 87: 67. | EMA3098 | Mô phỏng và thiết kế hệ cơ điện tử và đồ ánSimulation and Design of Mechatronic Systems and Term Project | 4 | 30 | 30 |  | EMA2006
+Row 88: 68. | EMA3099 | Kỹ thuật đo lường, đầu đo và đồ ánMeasurement Techniques, Sensors and Term Project | 4 | 30 | 30 |  | EPN1095 EPN1096 MAT1093 MAT1042
+Row 89: 69. | EMA3100 | Điện tử công suất, điều khiển động cơ và đồ ánPower Electronics, Drives Control and Term Project | 4 | 30 | 30 |  | EPN1095 EPN1096 MAT1093 MAT1042 EMA2005
+Row 90: 70. | EMA3108 | Tự động hóa quá trình sản xuấtAutomation in Manufacturing | 3 | 30 | 15 |  | EMA2037 EMA2005 EMA2006 EMA3099 EMA2013
+Row 91: V.3.3.2. | Các học phần tự chọn | 4/10 |  |  |  | 
+Row 92: 71. | EMA3016 | Cơ điện thực nghiệmExperimental Mechatronics | 2 | 12 | 18 |  | EMA2037 EMA2007
+Row 93: 72. | EMA3068 | Động cơ và cơ sở truyền động điệnMotors and Fundamentals of Electrical Drive | 2 | 26 | 4 |  | EMA2005 EMA2013 EMA3099
+Row 94: 73. | EMA3020 | RobotRobotics | 2 | 22 | 8 |  | MAT1093 MAT1042EMA2037 EMA2013
+Row 95: 74. | EMA3060 | Vi điều khiển và các hệ nhúngMicro-controller and Embedded Systems | 2 | 24 | 6 |  | EMA2005 ELT2012
+Row 96: 75. | ELT2012 | Lý thuyết mạchCircuit Theory | 2 | 24 | 6 |  | EMA2005
+Row 97: V.3.3.3. | Học phần thực tập | 5 |  |  |  | 
+Row 98: 76. | EMA3051 | Thực tập kỹ thuật định hướng Cơ điện tửEngineering Practice | 5 | 15 | 60 |  | EMA2027EMA3098EMA3099EMA3100EMA3108
+Row 99: V.3.4. | Khối kiến thức định hướng chuyên sâu vềCông nghệ vũ trụ
+Row 100: V.3.4.1. | Các học phần bắt buộc | 18 |  |  |  | 
+Row 101: 77. | EMA3106 | Nhập môn công nghệ vũ trụIntroduction to Astromechanics Engineering | 3 | 33 | 12 |  | MAT1093 MAT1042 EPN1095 EPN1096 EMA2037
+Row 102: 78. | EMA3101 | Kết cấu thiết bị bay và đồ ánAircraft Structure and Term Project | 4 | 30 | 15 | 15 | EMA2037 EMA2012 EMA3106
+Row 103: 79. | EMA3102 | Cảm biến, điều khiển vệ tinh và đồ ánSensor, Satellite Control and Term Project | 4 | 30 | 30 |  | EMA2037 EMA2005 EMA2006 EMA2013
+Row 104: 80. | EMA3103 | Thiết kế, tích hợp vệ tinh nhỏ và đồ ánDesign and Assembly of Small Satellite and Term Project | 4 | 30 | 30 |  | EMA2032 EMA2005 EMA3108 EMA3026 EMA3106
+Row 105: 81. | EMA3109 | Nhập môn khí động học thiết bị bayIntroduction to Dynamics of Flight Vehicles | 3 | 30 | 15 |  | EMA2037 EMA2004 EMA2007
+Row 106: V.3.4.2. | Các học phần tự chọn | 4/10 |  |  |  | 
+Row 107: 82. | EMA3048 | Thử nghiệm kết cấu thiết bị không gianStructure Testing of Aerospace Devices | 2 | 25 | 5 |  | EMA2037 EMA2015EMA3101
+Row 108: 83. | EMA3014 | Cơ học quỹ đạo bayTrajectory Mechanics | 2 | 22 | 8 |  | MAT1093 MAT1042 EMA2037
+Row 109: 84. | EMA3057 | Truyền thông vệ tinhSatellite Communication | 2 | 22 | 8 |  | EMA2005
+Row 110: 85. | EMA3061 | Vật liệu thiết bị bayFlight Vehicle’s Materials | 2 | 30 |  |  | EMA2037 EMA2004 EMA2012
+Row 111: 86. | EMA3025 | Hệ thống đẩy thiết bị bayAerospace Propulsion System | 2 | 22 | 6 | 2 | EMA3106 EMA3026
+Row 112: V.3.4.3. | Học phần thực tập | 5 |  |  |  | 
+Row 113: 87. | EMA3052 | Thực tập kỹ thuật định hướng Công nghệ vũ trụEngineering Practice | 5 | 15 | 60 |  | EMA3106 EMA3101 EMA3102 EMA3103 EMA3109
+Row 114: V.3.5. | Khối kiến thức định hướng chuyên sâu vềVật liệu và kết cấu tiên tiến
+Row 115: V.3.5.1. | Các học phần bắt buộc | 18 |  |  |  | 
+Row 116: 88. | EMA3117 | Cơ học vật liệu CompositeMechanics of Composite Materials | 3 | 30 | 15 |  | EMA2004EMA2041EMA2007
+Row 117: 89. | EMA3118 | Lý thuyết tấm và vỏTheory of Plates and Shells | 4 | 45 | 15 |  | EMA2007EMA2012
+Row 118: 90. | EMA3119 | Các phương pháp số trong cơ học vật liệu và kết cấuNumerical Methods in Mechanics of Materials and Structures | 4 | 45 | 15 |  | 
+Row 119: 91. | EMA3120 | Động lực học trong công trìnhDynamic of Constructions | 4 | 45 | 15 |  | EMA2007EMA2012
+Row 120: 92. | EMA3121 | Lý thuyết dẻoTheory of Plastic | 3 | 30 | 15 |  | EMA2004EMA2041EMA2007EMA2037
+Row 121: V.3.5.2. | Các học phần tự chọn | 4/8 |  |  |  | 
+Row 122: 93. | EMA3122 | Ổn định tĩnh của kết cấuStatic Stability of Structures | 2 | 25 | 5 |  | EMA2004EMA2041EMA2007EMA2037
+Row 123: 94. | EMA3123 | Ổn định động lực học của kết cấuDynamic Stability of Structures | 2 | 25 | 5 |  | EMA2004EMA2041EMA2007EMA2037
+Row 124: 95. | EMA3124 | Vật liệu học cơ sởFundamental of Materials Sciences | 2 | 25 | 5 |  | 
+Row 125: 96. | EMA3125 | Nhiệt đàn hồiThermo-elastic theory | 2 | 25 | 5 |  | EMA2004EMA2041EMA2007EMA2037
+Row 126: V.3.5.3. | Học phần thực tập | 5 |  |  |  | 
+Row 127: 97. | EMA3126 | Thực tập kỹ thuật định hướng Vật liệu và kết cấu tiên tiếnEngineering Practice | 5 | 15 | 60 |  | 
+Row 128: V.4. | Thực tập vàtốt nghiệp | 13 |  |  |  | 
+Row 129: 98. | EMA4015 | Thực tập tốt nghiệpGraduate Practice | 3 |  | 45 |  | 
+Row 130: 99. | EMA4050 | Đồ án tốt nghiệpThesis | 10 |  |  |  | 
+Row 131: Tổng cộng | 150 |  |  |  | 
+
+Ghi chú:
+
+Học phần Tiếng Anh B1 thuộc khối kiến thức chung, được tính vào tổng số tín chỉ của chương trình đào tạo, nhưng kết quả đánh giá học phần này không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy.
+Học phần Tiếng Anh bổ trợ thuộc khối kiến thức bổ trợ, được tính vào tổng số tín chỉ của chương trình đào tạo, đây là học phần hỗ trợ lựa chọn cho học phần Tiếng Anh B1, kết quả đánh giá học phần này được tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy.
+Học phần Giáo dục thể chất, Giáo dục quốc phòng – an ninh không được tính vào tổng số tín chỉ của chương trình đào tạo, không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy, nhưng là điều kiện để xét tốt nghiệp.
+01 giờ tín chỉ thực hành tương ứng với 02 giờ thực tế trên lớp.

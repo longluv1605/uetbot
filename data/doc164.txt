@@ -1,0 +1,160 @@
+URL: https://uet.vnu.edu.vn/chuong-trinh-dao-tao-nganh-cong-nghe-ky-thuat-co-dien-tu-3/
+Title: Chương trình đào tạo ngành Công nghệ kỹ thuật cơ điện tử - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology
+
+1. Tóm tắt yêu cầu chương trình đào tạo
+
+Tổng số tín chỉ của chương trình đào tạo:
+134 tín chỉ
+
+Table 1:
+Row 1: – | Khối kiến thức chung:                                                            29 tín chỉ(Không tính cáchọc phầnGDTC,  GDQP-AN vàKĩ năngbổ trợ)
+Row 2: – | Khối kiến thức theo lĩnh vực: | 18 tín chỉ
+Row 3: – | Khối kiến thức theo khối ngành: | 6 tín chỉ
+Row 4: – | Khối kiến thức theo nhóm ngành: | 22 tín chỉ
+Row 5: – | Khối kiến thức ngành: | 59 tín chỉ
+Row 6:  | + Các học phần bắt buộc: | 21tín chỉ
+Row 7:  | + Bổ trợ: | 5/15 tín chỉ
+Row 8:  | + Định hướng chuyên sâu: | 
+Row 9:  | Bắt buộc: | 11tín chỉ
+Row 10:  | Tự chọn: | 8tín chỉ
+Row 11:  | + Thực tập: | 7tín chỉ
+Row 12:  | +Khóa luận tốt nghiệp/các học phần thay thế khóa luận tốt nghiệp:7tín chỉ
+
+2. Khung chương trình đào tạo
+
+Table 2:
+Row 1: STT | Mãhọc phần | Học phần | Số tín chỉ | Số giờ tín chỉ | Mã sốhọc phầntiên quyết
+Row 2: Lí thuyết | Thực hành | Tựhọc
+Row 3: I |  | Khối kiến thức chung(chưa tínhcác học phầnGiáo dục thể chất, Giáo dục quốc phòng– an ninh, Kĩ năng bổ trợ) | 29 |  |  |  | 
+Row 4: 1. | PHI1004 | Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin 1Fundamental Principles of Marxism-Leninism 1 | 2 | 24 | 6 |  | 
+Row 5: 2. | PHI1005 | Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin 2Fundamental Principles of Marxism-Leninism 2 | 3 | 36 | 9 |  | PHI1004
+Row 6: 3. | POL1001 | Tư tưởng Hồ Chí MinhHo Chi Minh Ideology | 2 | 20 | 10 |  | PHI1005
+Row 7: 4. | HIS1002 | Đường lối cách mạng của Đảng Cộng sản Việt NamThe Revolutionary Line of the Communist Party of Vietnam | 3 | 42 | 3 |  | POL1001
+Row 8: 5. | INT1003 | Tin học cơ sở 1Introduction to Informatics 1 | 2 | 10 | 20 |  | 
+Row 9: 6. | INT1006 | Tin học cơ sở 4Introduction to Informatics 4 | 3 | 20 | 23 | 2 | INT1003
+Row 10: 7. | FLF2101 | Tiếng Anh cơ sở 1General English 1 | 4 | 16 | 40 | 4 | 
+Row 11: 8. | FLF2102 | Tiếng Anh cơ sở 2General English 2 | 5 | 20 | 50 | 5 | FLF1105
+Row 12: 9. | FLF2103 | Tiếng Anh cơ sở 3General  English 3 | 5 | 20 | 50 | 5 | FLF1106
+Row 13: 10. |  | Giáo dục thể chấtPhysical education | 4 |  |  |  | 
+Row 14: 11. |  | Giáo dục quốc phòng – an ninhNational Defence Education | 8 |  |  |  | 
+Row 15: 12. |  | Kỹ năng bổ trợSoft skills | 3 |  |  |  | 
+Row 16: II |  | Khối kiến thức theo lĩnh vực | 18 |  |  |  | 
+Row 17: 13. | MAT1093 | Đại sốAlgebra | 4 | 30 | 30 |  | 
+Row 18: 14. | MAT1041 | Giải tích 1Analytics 1 | 4 | 30 | 30 |  | 
+Row 19: 15. | MAT1042 | Giải tích 2Analytics 2 | 4 | 30 | 30 |  | MAT1041
+Row 20: 16. | PHY1100 | Cơ – NhiệtMechanics – Thermology | 3 | 32 | 10 | 3 | 
+Row 21: 17. | PHY1103 | Điện và QuangElectricity – Optics | 3 | 32 | 10 | 3 | PHY1100
+Row 22: III |  | Khối kiến thức theo khối ngành | 6 |  |  |  | 
+Row 23: 18. | EMA2050 | Xác suất thống kê ứng dụngApplied Probability and Statistic | 3 | 30 | 15 |  | MAT1093 MAT1042
+Row 24: 19. | EMA2011 | Phương pháp tính trong kỹ thuậtComputational Methods for Engineering | 3 | 30 | 15 |  | INT1006MAT1093 MAT1042
+Row 25: IV |  | Khối kiến thức theo nhóm ngành | 22 |  |  |  | 
+Row 26: 20. | EMA2036 | Cơ học kỹ thuật 1Engineering Mechanics 1 | 3 | 30 | 15 |  | MAT1093 MAT1042
+Row 27: 21. | EMA2037 | Cơ học kỹ thuật 2Engineering Mechanics 2 | 3 | 30 | 15 |  | EMA2036
+Row 28: 22. | EMA2006 | Matlab và ứng dụngMatlab and Applications | 3 | 30 | 15 |  | INT1006MAT1093MAT1042
+Row 29: 23. | EMA2013 | Lý thuyết điều khiển tự độngAutomatic Control Theory | 3 | 30 | 15 |  | MAT1093 MAT1042 EMA2005
+Row 30: 24. | EMA2012 | Sức bền vật liệu và cơ học kết cấuStrength of Materials and Structural Mechanics | 4 | 45 | 15 |  | EMA2037
+Row 31: 25. | EMA2032 | Hình hoạ kỹ thuật và CADGeometric Engineering and CAD | 2 | 15 | 15 |  | MAT1093 MAT1042
+Row 32: 26. | EMA2033 | Cơ sở thiết kế máyFundamental of Machine Design | 4 | 40 | 20 |  | PHY1103
+Row 33: V |  | Khối kiến thức ngành | 59 |  |  |  | 
+Row 34: V.1 |  | Khối kiến thức ngành bắt buộc | 21 |  |  |  | 
+Row 35: 27. | ELT2050 | Nguyên lý kỹ thuật điện tửPrinciples of Electronics Engineering | 3 | 30 | 15 |  | EMA2026
+Row 36: 28. | EMA2021 | Linh kiện bán dẫn và vi mạchSemiconductors and IC | 2 | 23 | 7 |  | PHY1103
+Row 37: 29. | EMA2022 | Cơ sở công nghệ chế tạo máyFundamentals of Machinery Manufacturing Technology | 3 | 30 | 15 |  | EMA2012EMA2019EMA2032EMA2033
+Row 38: 30. | EMA2023 | Kỹ thuật sốDigital Techniques | 2 | 20 | 10 |  | EMA2026
+Row 39: 31. | EMA2024 | Kỹ thuật đo lường và cảm biếnMeasurement Techniques and Sensors | 3 | 30 | 15 |  | EMA2021
+Row 40: 32. | EMA2026 | Cơ sở kỹ thuật điệnFundamentals of Electrotechniques | 2 | 22 | 8 |  | PHY1103
+Row 41: 33. | INT2013 | Kiến trúc máy tính và mạng truyền thông công nghiệpComputer Structure and Industrial Communication Networks | 3 | 30 | 15 |  | PHY1103
+Row 42: 34. | EMA2027 | Nhập môn cơ điện tửIntroduction to Mechatronics | 3 | 30 | 15 |  | EMA2036EMA2037EMA2013ELT2050
+Row 43: V.2 |  | Khối kiến thức bổ trợ | 5/15 |  |  |  | 
+Row 44: 35. | MNS1052 | Khoa học quản lý đại cươngGeneral Management Science | 2 | 20 | 10 |  | 
+Row 45: 36. | ELT2028 | Chuyên nghiệp trong công nghệProfessional in Technology | 2 | 30 |  |  | 
+Row 46: 37. | INT2208 | Công nghệ phần mềmSoftware Technology | 3 | 45 |  |  | 
+Row 47: 38. | INT2209 | Mạng máy tínhComputer Network | 3 | 30 | 15 |  | 
+Row 48: 39. | MAT1100 | Tối ưu hóaOptimization | 2 | 30 |  |  | MAT1093MAT1041
+Row 49: 40. | BSA2002 | Nguyên lý marketingPrinciples of Marketing | 3 | 21 | 23 | 1 | 
+Row 50: V.3 |  | Khối kiến thức định hướng chuyên sâu | 19 |  |  |  | 
+Row 51: V.3.1. | Khối kiến thức định hướng chuyên sâu về hệ thống cơ điện tử | 19 |  |  |  | 
+Row 52: V.3.1.1 |  | Các học phần bắt buộc | 11 |  |  |  | 
+Row 53: 41. | EMA3083 | Hệ thống cơ điện tửMechatronics Systems | 3 | 25 | 20 |  | 
+Row 54: 42. | EMA3084 | Vi xử lý và vi điều khiểnMicroprocessors and Microcontrollers | 3 | 25 | 20 |  | EMA2006ELT2050
+Row 55: 43. | EMA3085 | Robot công nghiệpIndustrial Robots | 2 | 21 | 9 |  | MAT1093MAT1042EMA2013EMA2036EMA2037
+Row 56: 44. | EMA3062 | Điều khiển PLCPLC | 3 | 25 | 20 |  | EMA2026EMA2024EMA3084ELT2050
+Row 57: V.3.1.2 |  | Các học phần tự  chọn | 8/17 |  |  |  | 
+Row 58: 45. | EMA3071 | Ứng dụng máy tính trong đo lường và điều khiểnComputer based Control and Measurement | 3 | 30 | 15 |  | EMA2013INT2013
+Row 59: 46. | EMA3116 | Kỹ thuật thuỷ khíHydrolics and Pneumatics Engineering | 3 | 30 | 15 |  | MAT1083MAT1084
+Row 60: 47. | EMA3064 | Điều khiển điện, thuỷ khíElectrohydrolic Control | 2 | 24 | 6 |  | EMA2013EMA2026
+Row 61: 48. | INT3017 | Lập trình CC Programming | 2 | 20 | 10 |  | INT1003INT1006EMA2006
+Row 62: 49. | EMA3033 | Mô phỏng và thiết kế hệ cơ điện tửSimulation and Design Mechatronic Systems | 3 | 30 | 15 |  | MAT1093MAT1041MAT1042PHY1100ELT2050
+Row 63: 50. | EMA2028 | Nhập môn công nghệ vi cơ điện tửIntroduction to Micromechatronics | 2 | 30 |  |  | EMA2026INT2013
+Row 64: 51. | EMA2019 | Vật liệu chức năngFunctional Materials | 2 | 30 |  |  | PHY1100PHY1103
+Row 65: V.3.2. |  | Khối kiến thức định hướng chuyên sâu về Chế tạo thiết bị | 19 |  |  |  | 
+Row 66: V.3.2.1 |  | Các học phần bắt buộc | 11 |  |  |  | 
+Row 67: 52. | EMA3005 | Công nghệ chế tạo máyMachinery Manufacturing Technology | 3 | 39 | 6 |  | EMA2033  EMA2022
+Row 68: 53. | EMA3035 | Máy công cụ – CNCCNC Machines | 3 | 30 | 15 |  | 
+Row 69: 54. | EMA3004 | Công nghệ CAD/CAM/CNCCAD/CAM/CNC Technology | 2 | 18 | 12 |  | EMA2032
+Row 70: 55. | EMA3062 | Điều khiển PLCPLC | 3 | 25 | 20 |  | EMA2026EMA2024EMA3084ELT2050
+Row 71: V.3.2.2 |  | Các học phần tự  chọn | 8/12 |  |  |  | 
+Row 72: 56. | EMA3042 | Thiết kế khuôn mẫuTemplates Design | 2 | 20 | 10 |  | EMA2032EMA2022EMA3044
+Row 73: 57. | EMA3006 | Công nghệ gia công phi truyền thống và tạo mẫu nhanhNon-Traditional Machining Technology and Fast Prototyping | 3 | 30 | 15 |  | EMA2022
+Row 74: 58. | EMA3116 | Kỹ thuật thuỷ khíHydrolics and Pneumatics Engineering | 3 | 30 | 15 |  | MAT1083MAT1084
+Row 75: 59. | EMA2019 | Vật liệu chức năngFunctional Graded Materials | 2 | 30 |  |  | PHY1100PHY1103
+Row 76: 60. | EMA2028 | Nhập môn công nghệ vi cơ điện tửIntroduction to Micromechatronics Technology | 2 | 30 |  |  | EMA2026INT2013
+Row 77: V.3.3. | Khối kiến thức định hướng chuyên sâu về Đo l­ường và điều khiển | 19 |  |  |  | 
+Row 78: V.3.3.1 |  | Các học phần bắt buộc | 11 |  |  |  | 
+Row 79: 61. | EMA3065 | Điện tử công suấtPower Electronics | 2 | 30 |  |  | ELT2050EMA2023
+Row 80: 62. | EMA3084 | Vi xử lý và vi điều khiểnMicroprocessors and Microcontrollers | 3 | 25 | 20 |  | EMA2006ELT2050
+Row 81: 63. | EMA3028 | Kỹ thuật xung -số – tương tự và kỹ thuật đo và điều khiểnDigital – Analog techniques and Measurement and Control Techniques | 3 | 30 | 15 |  | ELT2050EMA2021EMA2024EMA2013
+Row 82: 64. | EMA3062 | Điều khiển PLCPLC | 3 | 25 | 20 |  | EMA2026EMA2024EMA3084ELT2050
+Row 83: V.3.3.2 |  | Các học phần tự chọn | 8/12 |  |  |  | 
+Row 84: 65. | EMA3071 | Ứng dụng máy tính trong đo lường và điều khiểnComputer Applications in Measurement and Control | 3 | 30 | 15 |  | EMA2013INT2013
+Row 85: 66. | EMA3021 | Các phương pháp điều khiển tiên tiếnAdvanced Control Methods | 2 | 24 | 6 |  | EMA2013MAT1093MAT1042EMA2006
+Row 86: 67. | INT3017 | Lập trình CC Programming | 2 | 20 | 10 |  | INT1003INT1006EMA2006
+Row 87: 68. | EMA3116 | Kỹ thuật thuỷ khíHydraulics and Pneumatics Techniques | 3 | 30 | 15 |  | PHY1100PHY1103
+Row 88: 69. | EMA2028 | Nhập môn công nghệ vi cơ điện tửIntroduction to Micromechatronics | 2 | 30 |  |  | EMA2026INT2013
+Row 89: V.3.4. |  | Khối kiến thức định hướng chuyên sâu về Hệ thống vi cơ điện tử và nanô cơ điện tử | 19 |  |  |  | 
+Row 90: V.3.4.1 |  | Các học phần bắt buộc | 11 |  |  |  | 
+Row 91: 70. | EMA3007 | Công nghệ vi chế tạoMicromanufacturing Technology | 3 | 35 | 10 |  | EMA2028
+Row 92: 71. | EMA3084 | Vi xử lý và vi điều khiểnMicroprocessors and Microcontrollers | 3 | 25 | 20 |  | EMA2006ELT2050
+Row 93: 72. | ELT3014 | Kỹ thuật đo lường và điều khiểnMeasurement and Control Engineering | 3 | 30 | 15 |  | EMA2024ELT3029
+Row 94: 73. | EMA3041 | Thiết kế các hệ vi cơ điện tửMicromechatronics Systems Design | 2 | 24 | 6 |  | PHY1100PHY1103
+Row 95: V.3.4.2 |  | Các học phần tự chọn | 8/12 |  |  |  | 
+Row 96: 74. | EMA3116 | Kỹ thuật thuỷ khíHydraulics and Pneumatics Techniques | 3 | 30 | 15 |  | PHY1100PHY1103
+Row 97: 75. | EMA2028 | Nhập môn công nghệ vi cơ điện tửIntroduction to Micromechatronics | 2 | 30 |  |  | EMA2026INT2013
+Row 98: 76. | EMA3086 | Các vật liệu cho công nghệ MEMS và NEMSMaterials for NEMS and MEMS Technology | 2 | 30 |  |  | PHY1100PHY1103
+Row 99: 77. | ELT3093 | Ứng dụng MEMS trong Điện tử Viễn thôngMEMS Applications in Telecommunication | 2 | 30 |  |  | EMA2027 EMA2028 EMA2006
+Row 100: 78. | EMA3071 | Ứng dụng máy tính trong đo lường và điều khiểnComputer Applications in Measurement and Control | 3 | 30 | 15 |  | EMA2013INT2013
+Row 101: V.3.5. |  | Khối kiến thức định hướng chuyên sâu về Kỹ thuật robot | 19 |  |  |  | 
+Row 102: V.3.5.1 |  | Các học phần bắt buộc | 11 |  |  |  | 
+Row 103: 79. | EMA3087 | Mô phỏng và thiết kế robotRobot – Simulation and Design | 3 | 25 | 20 |  | MAT1093MAT1041MAT1042PHY1100PHY1103ELT2050EMA2013EMA2036EMA2037
+Row 104: 80. | EMA3017 | Cảm biến và cơ cấu chấp hànhSensors and Actuators | 2 | 24 | 6 |  | ELT2050
+Row 105: 81. | EMA3088 | Điều khiển robotRobot Control | 3 | 25 | 20 |  | EMA2036EMA2037EMA2013ELT2050
+Row 106: 82. | EMA3114 | Vi điều khiển và hệ thống nhúngMicrocontrollers and Embedded Systems | 3 | 30 | 15 |  | EMA2023 EMA2026
+Row 107: V.3.5.2 |  | Các học phần tự chọn | 8/12 |  |  |  | 
+Row 108: 83. | INT3039 | Xử lý và nhận dạng ảnhImage Processing | 2 | 20 | 10 |  | MAT1041MAT1042MAT1093EMA2013
+Row 109: 84. | EMA3116 | Kỹ thuật thuỷ khíHydraulics and Pneumatics Techniques | 3 | 30 | 15 |  | PHY1100PHY1103
+Row 110: 85. | EMA2019 | Vật liệu chức năngFunctional Materials | 2 | 30 |  |  | MAT1093MAT1042
+Row 111: 86. | EMA2028 | Nhập môn công nghệ vi cơ điện tửIntroduction to Micromechatronics | 2 | 30 |  |  | EMA2026INT2013
+Row 112: 87. | EMA3071 | Ứng dụng máy tính trong đo lường và điều khiểnComputer Applications in Measurement and Control | 3 | 30 | 15 |  | EMA2013INT2013
+Row 113: V.3.6. |  | Khối kiến thức định hướng chuyên sâu về Chẩn đoán kỹ thuật | 19 |  |  |  | 
+Row 114: V.3.6.1 |  | Các học phần bắt buộc | 11 |  |  |  | 
+Row 115: 88. | EMA3033 | Mô phỏng và thiết kế hệ cơ điện tửSimulation and Design Mechatronics Systems | 3 | 30 | 15 |  | MAT1093MAT1041MAT1042PHY1100PHY1103ELT2050
+Row 116: 89. | EMA3001 | Chẩn đoán kỹ thuậtvà kiểm tra không phá huỷDiagnostic Techniques and Non-destructive Testing | 3 | 30 | 15 |  | EMA2023 EMA2006
+Row 117: 90. | EMA3037 | Nhận dạng hệ thống và đặc tínhSystem Identification | 2 | 26 | 4 |  | MAT1093MAT1041MAT1042PHY1100PHY1103EMA2036EMA2037EMA2011
+Row 118: 91. | EMA3115 | Lý thuyết mờ và mạng noronFuzzy Logic and Neural Networks | 3 | 30 | 15 |  | 
+Row 119: V.3.6.2 |  | Các học phần tự chọn | 8/12 |  |  |  | 
+Row 120: 92. | EMA3002 | Chẩn đoán âm học máyAcoustic Diagnostic | 2 | 20 | 10 |  | EMA2037
+Row 121: 93. | EMA3003 | Cân bằng máyMachine Balancing Control | 2 | 20 | 10 |  | MAT1093MAT109MAT1042EMA2001EMA2036EMA2037
+Row 122: 94. | EMA3116 | Kỹ thuật thuỷ khíHydraulics and Pneumatics Techniques | 3 | 30 | 15 |  | PHY1100PHY1103
+Row 123: 95. | EMA2019 | Vật liệu chức năngFunctional Materials | 2 | 30 |  |  | MAT1093MAT1042
+Row 124: 96. | EMA3071 | Ứng dụng máy tính trong đo lường và điều khiểnComputer Applications in Measurement and Control | 3 | 30 | 15 |  | EMA2013INT2013
+Row 125: V.4 |  | Các học phần thực tập | 7 |  |  |  | 
+Row 126: 97. | EMA4002 | Thực tập xưởngPractices | 2 |  | 30 |  | 
+Row 127: 98. | EMA4001 | Thực tập kỹ thuậtEngineering Practices | 5 |  | 75 |  | EMA4002
+Row 128: V.5 |  | Khóa luận tốt nghiệp/các học phần thay thế khóa luận tốt nghiệp | 7 |  |  |  | 
+Row 129: 99. | EMA4051 | Khoá luận tốt nghiệpThesis | 7 |  |  |  | 
+Row 130: 100. |  | Các học phần thay thế khóa luận tốt nghiệp(7 tín chỉ từ danh sách các học phần tự chọn trong khối kiến thức định hướng chuyên sâu mà sinh viên chưa học) | 7 |  |  |  | 
+Row 131: Tổng cộng | 134 |  |  |  | 
+
+Ghi chú:
+Học phần ngoại ngữ thuộc khối kiến thức chung được tính vào tổng số tín chỉ của chương trình đào tạo, nhưng kết quả đánh giá các học phần này không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy
+.

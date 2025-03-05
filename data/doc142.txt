@@ -1,0 +1,140 @@
+URL: https://uet.vnu.edu.vn/chuong-trinh-dao-tao-nganh-khoa-hoc-may-tinh-clc-tt23-3/
+Title: Chương trình đào tạo ngành Khoa học máy tính (CLC TT23) - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology
+
+1. Tóm tắt yêu cầu chương trình đào tạo
+
+Tổng số tín chỉ của chương trình đào tạo:                                   158 tín chỉ
+
+Khối kiến thức chung                                                                         34 tín chỉ
+
+(chưa tính Giáo dục thể chất, Giáo dục Quốc phòng – An ninh, Kỹ năng bổ trợ)
+
+Khối kiến thức chung theo lĩnh vực                                                15 tín chỉ
+
++ Bắt buộc: 15 tín chỉ
+
++ Tự chọn: 0 tín chỉ / 0 tín chỉ
+
+Khối kiến thức chung cho khối ngành                                              9 tín chỉ
+
++ Bắt buộc: 6 tín chỉ
+
++ Tự chọn: 3 tín chỉ / 6 tín chỉ
+
+Khối kiến thức chung cho nhóm ngành                                          25 tín chỉ
+
++ Bắt buộc: 25 tín chỉ
+
+Khối kiến thức ngành                                                                         75 tín chỉ
+
++ Bắt buộc: 21 tín chỉ
+
++ Tự chọn: 39 tín chỉ / 95 tín chỉ
+
++ Bổ trợ: 5 tín chỉ / 20 tín chỉ
+
++ Khối kiến thức thực tập và tốt nghiệp: 10 tín chỉ
+
+2. Khung chương trình đào tạo
+
+Table 1:
+Row 1: Số TT | Mãhọc phần | Tên học phần | Số tín chỉ | Số giờ tín chỉ | Mã số học phần tiên quyết
+Row 2: Lý thuyết | Thực hành | Tự học
+Row 3: I |  | Khối kiến thức chung(không tính các học phần từ 11 đến 14) | 34 |  |  |  | 
+Row 4: 1 | PHI1004 | Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin 1Fundamental Principles of Marxism – Leninism 1 | 2 | 24 | 6 |  | 
+Row 5: 2 | PHI1005 | Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin 2Fundamental Principles of Marxism – Leninism 2 | 3 | 36 | 9 |  | PHI1004
+Row 6: 3 | POL1001 | Tư tưởng Hồ Chí MinhHo Chi Minh Ideology | 2 | 20 | 10 |  | PHI1005
+Row 7: 4 | HIS1002 | Đường lối cách mạng của Đảng Cộng sản Việt NamThe Revolutionary Line of Communist Party of Vietnam | 3 | 42 | 3 |  | POL1001
+Row 8: 5 | INT1003 | Tin học cơ sở 1Introduction to Informatics 1 | 2 | 10 | 20 |  | 
+Row 9: 6 | INT1006 | Tin học cơ sở 4Introduction to Informatics 4 | 3 | 20 | 23 | 2 | INT1003
+Row 10: 7 | FLF2101 | Tiếng Anh cơ sở 1General English 1 | 4 | 16 | 40 | 4 | 
+Row 11: 8 | FLF2102 | Tiếng Anh cơ sở 2General  English 2 | 5 | 20 | 50 | 5 | FLF2101
+Row 12: 9 | FLF2103 | Tiếng Anh cơ sở 3General  English 3 | 5 | 20 | 50 | 5 | FLF2102
+Row 13: 10 | FLF2104 | Tiếng Anh cơ sở 4General  English 4 | 5 | 20 | 50 | 5 | FLF2103
+Row 14: 11 |  | Kỹ năng bổ trợ 1Soft skills 1 | 3 |  |  |  | 
+Row 15: 12 |  | Kỹ năng bổ trợ 2Soft skills 2 | 3 |  |  |  | 
+Row 16: 13 |  | Giáo dục thể chấtPhysical Education | 4 |  |  |  | 
+Row 17: 14 |  | Giáo dục quốc phòng – an ninhNational Defence Education | 8 |  |  |  | 
+Row 18: II |  | Khối kiến thức chung theo lĩnh vực | 15 |  |  |  | 
+Row 19: 15 | MAT1093 | Đại sốAlgebra | 4 | 30 | 30 |  | 
+Row 20: 16 | MAT1041 | Giải tích 1Calculus 1 | 4 | 30 | 30 |  | 
+Row 21: 17 | MAT1042 | Giải tích 2Calculus 2 | 4 | 30 | 30 |  | MAT1041
+Row 22: 18 | PHY1100 | Cơ – NhiệtMechanical and Thermal Physics | 3 | 32 | 10 | 3 | 
+Row 23: III |  | Khối kiến thức chung cho khối ngành (CNTT&ĐTVT) | 9/9 |  |  |  | 
+Row 24: 19 | ELT2035 | Tín hiệu và hệ thốngSignals and systems | 3 | 42 | 3 |  | MAT1042
+Row 25: 20 | INT2203 | Cấu trúc dữ liệu và giải thuật *Data structures and algorithms | 3 | 30 | 15 |  | INT1006
+Row 26: 21 | MAT1101 | Xác suất thống kêProbability and Statistics | 3 | 30 | 15 |  | MAT1041
+Row 27: IV |  | Khối kiến thức chung của nhóm ngành | 25 |  |  |  | 
+Row 28: 22 | INT2202 | Lập trình nâng cao *Advanced Programming | 3 | 30 | 15 |  | INT1006
+Row 29: 23 | INT2204 | Lập trình hướng đối tượngObject-oriented Programming | 3 | 30 | 15 |  | INT2202
+Row 30: 24 | INT2205 | Kiến trúc máy tính *Computer Architecture | 3 | 45 |  |  | INT1003
+Row 31: 25 | INT1050 | Toán học rời rạc *Discrete Mathematics | 4 | 45 | 15 |  | 
+Row 32: 26 | INT2206 | Nguyên lý hệ điều hành *Principles of operating systems | 3 | 45 |  |  | INT1006
+Row 33: 27 | INT2209 | Mạng máy tính *Computer Network | 3 | 30 | 15 |  | INT1006
+Row 34: 28 | INT2208 | Công nghệ phần mềm *Software Engineering | 3 | 45 |  |  | INT2204
+Row 35: 29 | INT2207 | Cơ sở dữ liệu *Database | 3 | 30 | 15 |  | INT1006
+Row 36: V |  | Khối kiến thức ngành | 75 |  |  |  | 
+Row 37: V.1 |  | Các học phần bắt buộc | 21 |  |  |  | 
+Row 38: 30 | INT3401 | Trí tuệ nhân tạo *Artificial Intellegence | 3 | 45 |  |  | INT2203
+Row 39: 31 | INT3011 | Các vấn đề hiện đại trong  KHMT *Advanced topics in Computer Science | 3 | 21 | 24 |  | INT1003
+Row 40: 32 | INT2044 | Lý thuyết thông tin *Information Theory | 3 | 45 |  |  | MAT1101
+Row 41: 33 | INT3414 | Chuyên đề Công nghệTechnology workshop | 3 | 30 | 15 |  | INT1003
+Row 42: 34 | INT3513 | Phân tích và thiết kế thuật toán – Ứng dụng trong di độngDesign and Analysis of Algorithms – Mobile Application | 3 | 30 | 15 |  | INT1006
+Row 43: 35 | INT4002 | Thực tập doanh nghiệpIndustrial Internship | 3 | 15 | 30 |  | INT1003
+Row 44:  |  | Chọn một trong hai học phần |  |  |  |  | 
+Row 45: 36 | INT3131 | Dự án khoa họcScience Project | 3 |  |  | 45 | INT2202
+Row 46: 37 | INT3132 | Dự án công nghệTechnology Project | 3 |  |  | 45 | INT2202
+Row 47: V.2 |  | Nhóm các học phần tự chọn | 39/95 |  |  |  | 
+Row 48:  | Định hướng Phát triển hệ thống |  |  |  |  | 
+Row 49: 38 | INT3105 | Kiến trúc phần mềmSoftware Architecture | 3 | 45 |  |  | INT2204
+Row 50: 39 | INT3110 | Phân tích và thiết kế hướng đối tượngObject-oriented Analysis and Design | 3 | 45 |  |  | INT2204
+Row 51: 40 | INT3117 | Kiểm thử và đảm bảo chất lượng phần mềmSoftware Testing and Quality Assurance | 3 | 45 |  |  | INT2204
+Row 52: 41 | INT3133 | Kỹ nghệ yêu cầuRequirement Engineering | 3 | 45 |  |  | INT2204
+Row 53: 42 | INT3108 | Lập trình nhúng và thời gian thựcReal-time and embedded programming | 3 | 30 | 15 |  | INT2205, INT2202
+Row 54: 43 | INT3217 | Lập trình hệ thốngSystem Programing | 3 | 36 | 9 |  | INT2202
+Row 55: 44 | INT3122 | Ứng dụng di động cho điện toán đám mâyMobile Cloud Computing | 3 | 30 | 15 |  | INT2202
+Row 56:  | Định hướng Thương mại điện tử |  |  |  |  | 
+Row 57: 45 | INT3306 | Phát triển ứng dụng WebWeb Application Development | 3 | 30 | 15 |  | INT2204, INT2207
+Row 58: 46 | INT3505 | Kiến trúc hướng dịch vụ *Service Oriented Architecture | 3 | 45 |  |  | INT1006
+Row 59: 47 | INT3111 | Quản lý dự án phần mềmSoftware Project Management | 3 | 45 |  |  | INT2208
+Row 60: 48 | INT3206 | Cơ sở dữ liệu phân tánDistributed Database | 3 | 45 |  |  | INT2207
+Row 61:  | Định hướng Mạng máy tính |  |  |  |  | 
+Row 62: 49 | INT3213 | Nhập môn an toàn thông tinIntroduction to Information Security | 3 | 45 |  |  | INT2207
+Row 63: 50 | INT3307 | An toàn và an ninh mạng *Network Safety and Security | 3 | 39 | 6 |  | INT2209
+Row 64: 51 | INT3301 | Thực hành hệ điều hành mạngNetwork operating system lab | 3 | 15 | 30 |  | 
+Row 65: 52 | INT3135 | Tính toán di độngMobile & Ubiquitous Computing | 3 | 45 |  |  | INT2209
+Row 66: 53 | INT3136 | Hệ phân tánDistributed Systems | 3 | 45 |  |  | 
+Row 67:  | Định hướng Các hệ thống thông minh |  |  |  |  | 
+Row 68: 54 | INT3402 | Chương trình dịch *Compilers | 3 | 45 |  |  | INT2203
+Row 69: 55 | INT3407 | Tin sinh họcBioinformatics | 3 | 45 |  |  | INT2202
+Row 70: 56 | INT3405 | Học máy *Machine Learning | 3 | 45 |  |  | MAT1101
+Row 71: 57 | INT3406 | Xử lý ngôn ngữ tự nhiên *Natural Language Processing | 3 | 45 |  |  | INT2203
+Row 72: 58 | INT3411 | Xử lý tiếng nóiSpeech Processing | 3 | 45 |  |  | INT2203
+Row 73: 59 | INT3413 | Web ngữ nghĩaSemantic Web | 3 | 45 |  |  | INT2203
+Row 74: 60 | INT3512 | Lập trình thi đấuCompetitive Programming | 3 | 30 | 15 |  | 
+Row 75: 61 | INT3409 | Rô-bốtRobotics | 3 | 30 | 15 |  | INT2203
+Row 76: 62 | INT3123 | Các thuật toán đồ thị và ứng dụngGraph algorithms and applications | 3 | 30 | 15 |  | INT1006
+Row 77: 63 | INT3138 | Truy vấn thông tin và tìm kiếm WebInformation Retrieval and Web Search | 3 | 45 |  |  | 
+Row 78: 64 | INT3121 | Các chuyên đề trong KHMTSpecial Problems in Computer Science | 3 | 45 |  |  | INT2203INT1101
+Row 79:  | Định hướng Tương tác người-máy |  |  |  |  | 
+Row 80: 65 | INT3403 | Đồ họa máy tính *Computer Graphics | 3 | 30 | 15 |  | INT2203
+Row 81: 66 | INT3404 | Xử lý ảnh  *Image Processing | 3 | 45 |  |  | INT2203
+Row 82: 67 | INT3412 | Thị giác máy *Computer Vision | 3 | 45 |  |  | INT2203
+Row 83: 68 | INT2041 | Tương tác người máyHuman-Machine Interaction | 3 | 45 |  |  | 
+Row 84: 69 | INT3137 | Phân tích dữ liệu trực quanData Analysis | 3 | 30 |  | 15 | 
+Row 85: V.3 |  | Các học phần bổ trợ | 5/20 |  |  |  | 
+Row 86: 70 | MAT1099 | Phương pháp tínhNumerical Methods | 2 | 30 |  |  | MAT1093MAT1042
+Row 87: 71 | MAT1100 | Tối ưu hóaOptimization | 2 | 30 |  |  | MAT1093MAT1042
+Row 88: 72 | ELT2028 | Chuyên nghiệp trong công nghệProfessional in Technology | 2 | 30 |  |  | 
+Row 89: 73 | ELT2031 | Mô hình hóa và mô phỏngModeling and Simulation | 2 | 20 | 10 |  | INT1006
+Row 90: 74 | ELT3144 | Xử lý tín hiệu sốDigital Signal Processing | 4 | 45 | 15 |  | MAT1042
+Row 91: 75 | BSA2022 | Nguyên lý MarketingMarketing Principles | 3 | 21 | 23 | 1 | 
+Row 92: 76 | INE1150 | Kinh tế vi mô 1Micro Economics 1 | 3 | 30 | 10 | 5 | 
+Row 93: 77 | INE1151 | Kinh tế vĩ mô 1Macro Economics 1 | 3 | 30 | 10 | 5 | 
+Row 94: 78 | BSA2001 | Nguyên lý kế toánAuditing Principles | 3 | 27 | 18 |  | 
+Row 95: 79 | BSA2006 | Quan hệ ngành và quản trị nguồn nhân lựcBranch Relations and Resource Administration | 3 | 23 | 22 |  | 
+Row 96: V.4 |  | Khoá luận tốt nghiệp | 10 |  |  |  | 
+Row 97: 80 | INT4050 | Khóa luận tốt nghiệpGraduation Thesis | 10 |  |  |  | 
+Row 98:  |  | Tổng cộng | 158 |  |  |  | 
+
+Ghi chú: Những môn đánh dấu (*) được giảng dạy bằng tiếng Anh

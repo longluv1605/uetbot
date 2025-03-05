@@ -1,9 +1,14 @@
 requests
 beautifulsoup4
 langchain
-sentence-transformers
+langchain-community
+gpt4all
 faiss-cpu
 transformers
+ctransformers
+sentence-transformers
 torch
-bitsandbytes 
 accelerate
+bitsandbytes 
+unstructured
+python-magic-bin
