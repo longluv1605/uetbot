@@ -12,3 +12,4 @@ accelerate
 bitsandbytes 
 unstructured
 python-magic-bin
+streamlit
