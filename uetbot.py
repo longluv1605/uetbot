@@ -3,8 +3,10 @@ from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 from langchain_community.embeddings import GPT4AllEmbeddings
 from langchain_community.vectorstores import FAISS
-import streamlit as st
 
+import random
+import streamlit as st
+import streamlit.components.v1 as components
 
 model_file = 'models/vinallama-7b-chat_q5_0.gguf'
 vector_db_path = 'vectorstores/my_db'
@@ -52,26 +54,49 @@ def read_vector_db():
 def main():
     st.title("UET Chatbot")
     st.write("Hỏi bất kỳ điều gì về UET, tôi sẽ trả lời dựa trên dữ liệu crawl từ website!")
+    st.divider()
     
     db = read_vector_db()
     llm = load_llm(model_file)
+    
+    template = """<|im_start|>system
+                Bạn là một trợ lý AI thân thiện, chuyên trả lời câu hỏi về UET. Nếu không có thông tin phù hợp, hãy lịch sự nói rằng bạn không biết. Tránh lặp lại câu hỏi của người dùng.
+                {context}<|im_end|>
+                <|im_start|>user
+                {question}<|im_end|>
+                <|im_start|>assistant"""
 
-    template = """<|im_start|>system\nSử dụng thông tin sau đây để trả lời câu hỏi. Nếu bạn không biết câu trả lời, hãy nói không biết, đừng cố tạo ra câu trả lời\n
-    {context}<|im_end|>\n<|im_start|>user\n{question}<|im_end|>\n<|im_start|>assistant"""
     prompt = create_prompt(template)
     
     qa_chain = create_qa_chain(prompt, llm, db)
 
+    # Lưu trữ lịch sử hội thoại
+    if "messages" not in st.session_state:
+        st.session_state.messages = []
+    
+    # Hiển thị tin nhắn cũ
+    for message in st.session_state.messages:
+        with st.chat_message(message["role"]):
+            st.markdown(message["content"])
+  
     # Test
-    query = st.text_input("Nhập câu hỏi của bạn:", "")
-    if st.button("Gửi"):
-        if query:
-            with st.spinner("Đang xử lý..."):
-                response = qa_chain.invoke({'query': query})
-                st.subheader("Trả lời: ")
-                st.write(response['result'])
-        else:
-            st.warning("Vui lòng nhập câu hỏi!")
+    query = st.chat_input("Nhập câu hỏi của bạn:")
+    if query:
+        # Hiển thị tin nhắn của user
+        st.session_state.messages.append({"role": "user", "content": query})
+        with st.chat_message("user"):
+            st.markdown(query)
 
+        # Xử lý truy vấn
+        answer = "OK"
+        with st.spinner("Đang xử lý..."):
+            response = qa_chain.invoke({'query': query})
+            answer = response['result']
+        
+        # Hiển thị phản hồi của bot
+        st.session_state.messages.append({"role": "assistant", "content": answer})
+        with st.chat_message("assistant"):
+            st.markdown(answer)
+        
 if __name__ == "__main__":
     main()
